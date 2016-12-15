@@ -1,0 +1,243 @@
+@charset "utf-8";
+
+/*---------------------------------
+ Style for Layout
+--------------------------------*/
+#teamArea {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	}
+	#teamArea h2 {
+		display: block;
+		font-size: 2.6em;
+		font-size: 2.6rem;
+		font-weight: bold;
+	}
+	#teamArea h3 {
+		margin: 0;
+		font-size: 2.2em;
+		font-size: 2.2rem;
+		font-weight: normal;
+	}
+	#teamArea h4 {
+		margin: 0;
+		width: 96%;
+		font-size: 2.2em;
+		font-size: 2.2rem;
+		text-indent: 0.5em;
+		background: none;
+		border-left: 16px solid #060606;
+		border-bottom: 4px solid #060606;
+		color: #000;
+	}
+.goback {
+	display: inline-block;
+	margin-top: 22px;
+	width: auto;
+	border: 1px solid #060606;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	background-color: #ECECEC;
+	}
+	.goback a {
+		display: block;
+		padding: 0.5em 1em;
+		/*color: #fff;*/
+		}
+		.goback a:hover {
+			background-color: #939190;
+			-webkit-border-radius: 8px;
+			-moz-border-radius: 8px;
+			border-radius: 8px;
+			}
+
+
+/*---------------------------------
+ チームリスト
+--------------------------------*/
+#teamlist{
+	display: block;
+	margin: 0 auto;
+	margin-top: 22px;
+	max-width: 480px;
+	height: 100%;
+	/*background-color: #300;*/
+	text-align: left;
+	border: 1px solid #060606;
+	}
+#teamlist img {
+	margin: 10px 0 0 10px;
+	width: 210px;
+	/*height: 140px;*/
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	}
+#teamlist ul {
+	}
+	#teamlist ul li {
+		display: inline-block;
+		width: 100%;
+		height: 44px;
+		line-height: 44px;
+		text-indent: 1em;
+		vertical-align: middle;
+		/*background-color: #cfc;*/
+		border-bottom: 1px solid #060606;
+		background: url(../../../common/image/arrow_24glay.svg) no-repeat;
+		background-size: 16px;
+		background-position: 450px 10px;
+		}
+		#teamlist ul li:last-child {
+			border: none;
+			}
+		#teamlist ul li:hover {
+			background-color: #D7E6F2;
+			}
+#teamlist .blockname {
+	padding: 0.3em 0;
+	font-size: 2.0em;
+	font-size: 2.0rem;
+	font-weight: bold;
+	text-indent: 2em;
+}
+#teamlist .blocka {
+	background-color: #D94432;
+	color: #fff;
+	}
+#teamlist .blockb {
+	padding: 0.5em 0;
+	background-color: #022DEB;
+	color: #fff;
+	}
+#teamlist .blockc {
+	padding: 0.5em 0;
+	background-color: #FFFC72;
+	color: #000;
+	}
+#teamlist .blockd {
+	background-color: #4A7C31;
+	color: #fff;
+	}
+
+/*---------------------------------
+ 選手リスト
+--------------------------------*/
+#memberList {
+	display: block;
+	margin: 0 auto;
+	max-width: 480px;
+	}
+	#memberList h4 {
+		margin-bottom: 22px;
+	}
+	#memberList p.title {
+		margin: 20px auto 10px;
+		font-size: 2.0em;
+		font-size: 2.0rem;
+		}
+	#memberList img {
+		}
+
+
+/*---------------------------------
+ 個人スタッツ
+--------------------------------*/
+#statzArea {
+	padding: 0 10px;
+	}
+	#statzArea p {
+		text-align: left;
+		margin: 10px 10px 22px 10px;
+		font-size: 1.8em;
+		font-size: 1.8rem;
+		}
+		#statzArea p ol li {
+			text-align: left;
+
+			}
+
+/*---------------------------------
+ 個人ランキング
+--------------------------------*/
+#rankingArea {
+	padding: 0 10px;
+	max-width: 960px;
+	text-align: left;
+	}
+	#rankingArea h4 {
+		margin: 22px 0 11px;
+	}
+	#rankingArea img {
+		margin-left: 22px;
+		max-width: 95%;
+		}
+		#rankingArea p ol li {
+			text-align: left;
+
+			}
+
+/*---------------------------------
+ 試合結果
+--------------------------------*/
+#resutArea {
+	/*padding: 0 10px;*/
+	max-width: 640px;
+	/*text-align: left;*/
+	}
+	#resutArea h4 {
+		margin: 22px 0 11px;
+		width: 97%;
+	}
+	#resutArea button {
+		padding: 0.4em 1em 0.3em 1em;
+	}
+	#resutArea table {
+		width: 100%;
+		border-right: 1px solid #0A0A0A;
+		}
+		#resutArea th,
+		#resutArea td {
+			height: 2.2em;
+			vertical-align: middle;
+			border-left: 1px solid #0A0A0A;
+			border-bottom: 1px solid #0A0A0A;
+		}
+		#resutArea th {
+			font-weight: bold;
+			text-align: center;
+			background-color: #0b0b0b;
+			color: #f2f2f2;
+			border-left: 1px solid #f2f2f2;
+			}
+			#resutArea th:first-child {
+				border-left: none;
+			}
+		#resutArea td {
+			word-break: keep-all;
+			white-space: nowrap;
+			}
+			#resutArea td.team {
+				width: 188px;
+			}
+			#resutArea td.score {
+				word-break: keep-all;
+				white-space: nowrap;
+			}
+			#resutArea td.nonGame {
+				font-size: 1.2em;
+				font-size: 1.2rem;
+			}
+			#resutArea td span {
+				display: inline-block;
+				width: 2em;
+				}
+				#resutArea td span.win {
+					font-weight: bold;
+					color: #E13300;
+				}
+				#resutArea td span.lose {
+					color: #022DEB;
+				}

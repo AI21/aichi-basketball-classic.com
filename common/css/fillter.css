@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+@import url("reset.css");				/*リセットCSS*/
+@import url("style.css");			    /*基本構造*/
+@import url("layout.css");				/*レイアウト・ブロック用*/
+@import url("smartphone.css");			/*スマートフォン用レイアウト

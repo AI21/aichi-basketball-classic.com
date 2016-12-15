@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+/*---------------------------------
+ Style for Home
+--------------------------------*/
+/*.swiper-container {*/
+    /*width: 960px;*/
+    /*height: 700px;*/
+/*}*/
+
+header {
+	}
+
+
+.remodal {
+    }
+    .remodal #rarrySchejule {
+        }
+        .remodal #rarrySchejule h4 {
+        }
+        .remodal #rarrySchejule li {
+            display: block;
+            }
+            .remodal #rarrySchejule li dl {
+                display: table;
+                }
+                .remodal #rarrySchejule li dt {
+                    display: inline-block;
+                    width: auto;
+                    padding: 0 1em;
+                }
+                .remodal #rarrySchejule li dd {
+                    display: inline-block;
+                }
+            .remodal #rarrySchejule li section {
+                display: block;
+                }
+
+
+/*---------------------------------
+ ルール
+--------------------------------*/
+.remodal #ruleArea {
+	}
+	.remodal #ruleArea h2 {
+		color: #f15a24;
+    	}
+    	.remodal #ruleArea .3on3 h2 {
+    		color: #f15a24;
+    	}
+	.remodal #ruleArea h3 {
+        font-size: 2.4em;
+        font-size: 2.4rem;
+	}
+	.remodal #ruleArea p {
+	}
+	.remodal #ruleArea .rule {
+        display: block;
+        margin-top: 22px;
+        text-align: left;
+	    }
+  		.remodal #ruleArea .rule ol {
+      		}
+            .remodal #ruleArea .rule li {
+                display: block;
+                position: relative;
+                margin: 44px;
+                padding: 20px;
+                border-radius: 5px;
+                background: #ffc06c;
+                counter-increment: li;
+            }
+            .remodal #ruleArea .rule li h3 {
+                font-weight: bold;
+            }
+            .remodal #ruleArea .rule li h4 {
+                position: relative;
+                top: 8px;
+                font-weight: bold;
+                text-indent: 1em;
+                background-color: #ffc06c;
+                color: #000;
+            }
+            .remodal #ruleArea .rule li p{
+                position: relative;
+                z-index:100;
+                padding: 10px 1em 0 1em;
+            }
+            .remodal #ruleArea .rule li:before{
+                position: absolute;
+                z-index: 10;
+                right: 20px;
+                bottom: 0;
+                color: #f7931e;
+                font: bold 98px/1 'Anton', cursive;
+                text-align: center;
+                content: counter(li);
+            }
+	.remodal #rule_1on1 #ruleArea .rule li,
+    .remodal #rule_1on1 #ruleArea .rule li h4 {
+		background-color: #50BEE4;
+    	}
+        .remodal #rule_1on1 #ruleArea .rule li:before{
+    		color: #3879D9;
+        }
+    .remodal #rule_3p #ruleArea .rule li,
+    .remodal #rule_3p #ruleArea .rule li h4 {
+        background-color: #FEF685;
+        }
+        .remodal #rule_3p #ruleArea .rule li:before{
+            color: #DDD322;
+        }
+

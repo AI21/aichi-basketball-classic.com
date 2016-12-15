@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<meta name="viewport" content="width=480">
+<title>1on1・3Pコンテスト プレイヤープロフィール申請フォーム | Aichi BasketBall Classic</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="愛知最強決定戦[ Aichi BasketBall Classic ]の1on1・3Pコンテスト大会へのプレイヤープロフィール申請フォームです。">
+<meta name="keywords" content="1on1,1on1 バスケ,3P,3P バスケ,3Pコンテスト,basketball,3on3 バスケ,3on3 バスケットボール,3on3,バスケ,basketball">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<link rel="stylesheet" href="./common/css/fillter.css">
+<!--[if lt IE 9]>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<script src="../../common/js/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+<body id="home">
+	<div id="wrapper">
+		<header id="pageHead" role="banner">
+			<h2>愛知最強決定戦 [ Aichi BasketBall Classic ] 1on1・3Pコンテスト大会へのプレイヤープロフィール申請フォームです。</h2>
+			<h1>Aichi BasketBall Classic</h1>
+		</header>
+		<!-- メインコンテンツ-->
+		<div id="contents" class="clearfix">
+			<main role="main">
+				<section id="invitationArea">
+					<h2>1on1＆3Pコンテスト 愛知最強決定戦</h2>
+					<h3>プレイヤープロフィール申請フォーム</h3>
+					<div class="gaiyou">
+						<h4>1on1・3Pコンテスト 大会概要</h4>
+						<div class="inner">
+							<dl>
+								<dt>日程</dt><dd>2016年7月3日(日)</dd>
+								<dt>時間</dt><dd>12:00 開場 18:00 終了</dd>
+								<dt>場所</dt><dd>愛知文教大学<small>愛知県小牧市大草5969-3</small></dd>
+							</dl>
+							<p class="tx-l">
+								ホームページや当日の会場にて出場選手紹介ならびにパンフレット制作用の本人様のバストアップ写真をご登録ください。
+							</p>
+						</div>
+					</div>
+					<div class="invitationForm">
+						<h4>1on1・3Pコンテスト プレイヤープロフィール入力フォーム</h4>
+						<form action="./zeromail.php" method="post" class="zeromail" enctype="multipart/form-data">
+							<fieldset>
+								<table id="entryForm">
+									<tr>
+										<th class="dataSub">氏名</th>
+										<td><input name="name" type="text" size="47"></td>
+									</tr>
+									<tr>
+										<th class="dataSub">読みカナ</th>
+										<td><input name="kana_req" type="text" size="47"></td>
+									</tr>
+									<tr>
+										<th class="dataSub">ニックネーム</th>
+										<td><input name="nickname_req" type="text" size="47"></td>
+									</tr>
+									<tr>
+										<th class="dataSub">身長</th>
+										<td><input name="tall_num_req" type="text" size="6"> cm</td>
+									</tr>
+									<tr>
+										<th class="dataSub">選手経歴</th>
+										<td>
+											出身高校<br>
+											　<input name="process1_req" type="text" size="40"><br>
+											出身大学<br>
+											　<input name="process2_req" type="text" size="40"><br>
+											その後（クラブチームなどの所属チーム）<br>
+											　<input name="process3_req" type="text" size="40"><br>
+											過去大会実績などがあればご記入ください。<br>
+											<textarea name="results" row="4" cols="45"></textarea>
+										</td>
+									</tr>
+									<tr>
+										<th class="dataSub">得意なプレイ</th>
+										<td><input name="play_req" type="text" size="47"></td>
+									</tr>
+									<tr>
+										<th class="dataSub">大会への意気込み</th>
+										<td><textarea name="message_req" row="4" cols="45"></textarea></td>
+									</tr>
+									<tr>
+										<th class="dataSub">本人写真</th>
+										<td>
+											<input type="file" name="tmpfile"><br>
+											※ Jpeg画像のみ。
+										</td>
+									</tr>
+									<tr class="submitArea">
+										<td colspan="3">
+											<!--<input type="hidden" name="require" value="category">-->
+											<input type="hidden" name="days" value="2016年7月3日(日)">
+											<input type="hidden" name="rep[process]" value="[出身高校]：<br />　{process1}<br />[出身大学]：<br />　{process2}<br />[その後]：<br />　{process3}{<br /><br />[過去大会実績]<br />:results}">
+											<button id="submit" type="submit">入力内容を確認する</button>
+											<button type="reset" id="myreset">リセット</button>
+										</td>
+									</tr>
+								</table>
+							</fieldset>
+						</form>
+						<div class="picture_alert">
+							<h4>本人写真についてのお願い</h4>
+							<p>
+								パンフレットの紙面などに使用しますので、できる限り高解像の画像をご準備ください。<br>
+								※ 「頭髪・胸部・肩」全体が写っている画像をご用意ください。<br>
+								※ iPhone6などのスマートフォン画像でも問題ありません。<br>
+								※ 縦1000px、横750px以上のサイズが適しております。
+							</p>
+						</div>
+					</div>
+				</section>
+			</main>
+		</div>
+		<aside id="decision">
+			<h2>Aichi BasketBall Classic</h2>
+			<h3>【 愛知最強1on1＆3Pコンテスト決定戦 】</h3>
+			<h4>Aichi Basketball Classic「1on1＆3Pコンテスト決定戦」とは</h4>
+			<ul class="inner">
+				<li>TBBの主催大会</li>
+				<li>BUZZER BEATERの主催大会</li>
+				<li>LIGA TOKAI 3on3 MIXTURE大会</li>
+			</ul>
+			<p class="inner">
+				上記の愛知で開催された3on3大会の主催者が共同で開催する大会で、各大会の推薦選手と4/10に出場したチームからの招待選手ならびに、
+				一般応募枠の上位入賞者で競う、愛知最強の1on1と3Pのチャンピオンを決定する大会です！
+			</p>
+		</aside>
+		<footer id="pageFoot" role="contentinfo">
+			<div id="copylight">
+				<span>Copyright (C) 2016 Aichi BasketBall Classic All Rights Resurved.</span>
+			</div>
+		</footer>
+	</div>
+
+	<script src="../../common/js/jquery-1.11.2.min.js"></script>
+	<script src="../../common/js/main.js"></script>
+
+</body>
+</html>

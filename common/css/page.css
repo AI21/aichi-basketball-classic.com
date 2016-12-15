@@ -1,0 +1,115 @@
+@charset "utf-8";
+
+/*---------------------------------
+ Style for Page
+--------------------------------*/
+
+h2 {
+	display: block;
+	font-size: 2.6em;
+	font-size: 2.6rem;
+	font-weight: bold;
+	}
+h3 {
+	margin: 0;
+	font-size: 2.2em;
+	font-size: 2.2rem;
+	font-weight: normal;
+}
+h4 {
+	margin: 0;
+	padding: 4px 0;
+	width: 95%;
+	font-size: 2.2em;
+	font-size: 2.2rem;
+	text-indent: 0.5em;
+	background: none;
+	border-left: 22px solid #060606;
+	border-bottom: 4px solid #060606;
+	color: #000;
+	/*font-size: 1.85em;*/
+	/*font-size: 1.85rem;*/
+}
+h5 {
+	margin: 0;
+	padding: 0;
+	text-indent: 1em;
+	font-size: 1.65em;
+	font-size: 1.65rem;
+}
+
+
+/*---------------------------------
+ コンテンツブロック
+--------------------------------*/
+#contents {
+	margin-top: 44px;
+	}
+
+/*---------------------------------
+ サブメニュー
+--------------------------------*/
+nav#submenu {
+	margin: 22px auto;
+	}
+	nav#submenu li {
+		display: inline-block;
+		margin: 4px;
+		min-width: 138px;
+		height: 44px;
+		line-height: 44px;
+		/*background-color: #ECECEC;*/
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		border: 1px solid #060606;
+		}
+		nav#submenu a {
+			font-weight: normal;
+			background-color: #ECECEC;
+			-webkit-border-radius: 5px;
+			-moz-border-radius: 5px;
+			border-radius: 5px;
+			/*border: 1px solid #060606;*/
+			}
+			nav#submenu a:hover {
+				font-weight: bold;
+				background-color: #939190;
+				-webkit-border-radius: 5px;
+				-moz-border-radius: 5px;
+				border-radius: 5px;
+				}
+			nav#submenu li.look a {
+				font-weight: bold;
+				background-color: #939190;
+				}
+
+/*---------------------------------
+ ルール
+--------------------------------*/
+#rule {
+	display: block;
+	margin: 44px 0;
+	}
+	#rule .detail {
+		text-align: left;
+	}
+	#rule .detail h5:first-of-type {
+		margin-top: 11px;
+	}
+	#rule ul {
+		padding: 11px 2em;
+		background-color: #fff;
+		}
+		#rule ul.lv2 {
+			padding-left: 2.4em;
+		}
+		#rule li {
+			}
+			#rule li.midasi {
+				}
+				#rule li.midasi:before {
+					content: "■ ";
+				}
+			#rule li.small {
+			}

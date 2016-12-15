@@ -1,0 +1,47 @@
+var entryTeams ={
+    "A": [
+            "ビギナーズ" : "biginers",
+            "N-Goropopos" : "n-goropopos",
+            "ドラえもんず" : "doraemons",
+            "キラと愉快な仲間たち" : "kira",
+    ],
+    "B": [
+            "L&G" : "l-and-g",
+            "moaA" : "moaa",
+            "アンディ" : "andy",
+    ],
+    "C": [
+            "イナブル" : "inaburu",
+            "Flags" : "biginers",
+            "JESUS G" : "jesus",
+            "DNS" : "dns",
+    ],
+    "D": [
+            "NDP" : "ndp",
+            "PIXARS" : "pixars",
+            "稲沢ブルズ" : "inazawa",
+            "ももいろクローバーZ" : "momoiro",
+    ],
+    "E": [
+            "アトラカドール" : "atracador",
+            "walrus" : "walrus",
+            "naniwa" : "naniwa",
+    ],
+    "F": [
+            "頭文字G" : "inisharug",
+            "D.T" : "dt",
+            "Kmoto" : "kmoto",
+            "MIYA" : "miya",
+    ],
+    "G": [
+            "やなぎや" : "yanagiya",
+            "KMKT" : "kmkt",
+            "チーム城薬" : "joyaku",
+            "SIEGAR" : "sieger",
+    ],
+    "H": [
+            "crocodile" : "crocodile",
+            "FOXERS" : "foxers",
+            "ラー油	" : "ra-yu",
+    ],
+}

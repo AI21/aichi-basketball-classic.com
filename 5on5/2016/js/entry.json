@@ -1,0 +1,62 @@
+var entryTeams = [
+    {
+        "block" : "A",
+        "view" : "Aブロック",
+        "file" : "blocka",
+        "entry" : [
+            {"no" : "1",  "team" : "gidai club",            "photo": "a01"},
+            {"no" : "2",  "team" : "wicked",                "photo": "a02"},
+            {"no" : "3",  "team" : "CHEZ",                  "photo": "a03"},
+            {"no" : "4",  "team" : "K-germs",               "photo": "a04"},
+            {"no" : "5",  "team" : "D.D",                   "photo": "a05"},
+            {"no" : "6",  "team" : "RPC",                   "photo": "a06"},
+            {"no" : "7",  "team" : "ZEXY",                  "photo": "a07"},
+            {"no" : "8",  "team" : "テンフィート",            "photo": "a08"},
+        ]
+    },
+    {
+        "block" : "B",
+        "view" : "Bブロック",
+        "file" : "blockb",
+        "entry" : [
+            {"no" : "9",  "team" : "atehaca",               "photo": "b09"},
+            {"no" : "10", "team" : "GFA",                   "photo": "b10"},
+            {"no" : "11", "team" : "ILC",                   "photo": "b11"},
+            {"no" : "12", "team" : "TSUBAKI",               "photo": "b12"},
+            {"no" : "13", "team" : "三愛クラブ",             "photo": "b13"},
+            {"no" : "14", "team" : "MEDLEY",                "photo": "b14"},
+            {"no" : "15", "team" : "OCEANS",                "photo": "b15"},
+            {"no" : "16", "team" : "チームたぬき",            "photo": "b16"},
+        ]
+    },
+    {
+        "block" : "C",
+        "view" : "Cブロック",
+        "file" : "blockc",
+        "entry" : [
+            {"no" : "17", "team" : "PeacePorter",           "photo": "c17"},
+            {"no" : "18", "team" : "DOTOKU",                "photo": "c18"},
+            {"no" : "19", "team" : "Jokers",                "photo": "c19"},
+            {"no" : "20", "team" : "チャイニーズエンジェル",   "photo": "c20"},
+            {"no" : "21", "team" : "G",                     "photo": "c21"},
+            {"no" : "22", "team" : "Tachi S",               "photo": "c22"},
+            {"no" : "23", "team" : "RED WING",              "photo": "c23"},
+            {"no" : "24", "team" : "SNAKERS",               "photo": "c24"},
+        ]
+    },
+    {
+        "block" : "D",
+        "view" : "Dブロック",
+        "file" : "blockd",
+        "entry" : [
+            {"no" : "25", "team" : "Cackle",                "photo": "d25"},
+            {"no" : "26", "team" : "ターラバーガーニ",        "photo": "d26"},
+            {"no" : "27", "team" : "INFRONT RECORD",        "photo": "d27"},
+            {"no" : "28", "team" : "NEXUS",                 "photo": "d28"},
+            {"no" : "29", "team" : "Union",                 "photo": "d29"},
+            {"no" : "30", "team" : "やめグルス",             "photo": "d30"},
+            {"no" : "31", "team" : "９０２",                 "photo": "d31"},
+            {"no" : "32", "team" : "AYU",                   "photo": "d32"},
+        ]
+    },
+];

@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+/*---------------------------------
+SmartPhone css layout
+--------------------------------*/
+@media screen and (max-width: 480px){
+	#wrapper {
+		width: 480px;
+		border: none;
+	}
+	#wrapper {
+	}
+	header {
+	}
+	#container {
+	}
+	footer {
+	}
+
+	header h1 {
+		height: 100px;
+		background: url(../image/header-sp.png) no-repeat;
+	}
+	header h2 {
+		padding: 0;
+		height: 44px;
+		line-height: 44px;
+		font-size: 2.2em;
+		font-size: 2.2rem;
+		text-align: center;
+	}
+	#contents {
+		/*padding-bottom: 22px;*/
+		}
+		#Announcement {
+			background: url(../image/bg-sp.jpg) no-repeat;
+			}
+			#Announcement  h1 {
+				/*width: 100%;*/
+				height: 100px;
+				background: url(../image/header-sp.png) no-repeat;
+			}
+			#Announcement  #aba,
+			#Announcement  #challenge {
+				display: block;
+				width: 100%;
+				text-align: center;
+				}
+				#Announcement  #aba {
+					height: 300px;
+					}
+					#Announcement  #aba h2 {
+						width: 480px;
+						background-size: 440px;
+						background-position: center;
+					}
+				#Announcement  #challenge {
+					height: 300px;
+					}
+					#Announcement  #challenge h2 {
+						width: 480px;
+						background-size: 440px;
+						background-position: center;
+					}
+				#Announcement  footer {
+					margin-top: 22px;
+					}
+					#Announcement  footer p {
+						height: 44px;
+						background: url(../image/footer_top-sp.png) no-repeat;
+					}
+	#snsArea {
+		margin-top: 44px;
+	}
+	#snsArea h2 {
+	}
+	#snsArea ul {
+		/*margin-top: 10px;*/
+		width: 480px;
+		}
+	footer {
+		/*font-size: 1.3em;*/
+		/*font-size: 1.3rem;*/
+		}
+
+		footer#pageFoot {
+			/*width: 100%;*/
+			}
+			footer#pageFoot #copylight {
+				padding-top: 22px;
+				/*padding-bottom: 6px;*/
+				/*height: 20px;*/
+				/*background: url(../image/footer_bottom-sp.jpg) no-repeat;*/
+			}
+
+
+	.eventArea {
+		margin-top: 44px;
+		}
+		.eventlist img {
+			max-width: 440px;
+			width: auto;
+		}
+
+}
+
+/*---------------------------------
+add css layout end
+--------------------------------*/

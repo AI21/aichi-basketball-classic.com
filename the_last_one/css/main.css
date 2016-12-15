@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+/*---------------------------------
+ ルール
+--------------------------------*/
+#ruleArea {
+	}
+	#ruleArea h2 {
+        display: block;
+        margin-top: 44px;
+        text-align: center;
+        font-size: 2.8em;
+        font-size: 2.8rem;
+    	}
+    	#ruleArea .3on3 h2 {
+    		color: #f15a24;
+    	}
+	#ruleArea h3 {
+        font-size: 2.4em;
+        font-size: 2.4rem;
+	}
+	#ruleArea p {
+	}
+	#ruleArea .rule {
+        display: block;
+        margin-top: 22px;
+        text-align: left;
+	    }
+  		#ruleArea .rule ol {
+      		}
+            #ruleArea .rule li {
+                display: block;
+                position: relative;
+                margin: 44px;
+                padding: 20px;
+                border-radius: 5px;
+                background: #ffc06c;
+                counter-increment: li;
+            }
+            #ruleArea .rule li h3 {
+                font-weight: bold;
+            }
+            #ruleArea .rule li h4 {
+                position: relative;
+                top: 8px;
+                font-weight: bold;
+                text-indent: 1em;
+                background-color: #ffc06c;
+                color: #000;
+            }
+            #ruleArea .rule li p{
+                position: relative;
+                z-index:100;
+                padding: 10px 1em 0 1em;
+            }
+            #ruleArea .rule li:before{
+                position: absolute;
+                z-index: 10;
+                right: 20px;
+                bottom: 0;
+                color: #f7931e;
+                font: bold 98px/1 'Anton', cursive;
+                text-align: center;
+                content: counter(li);
+            }
+	#rule_1on1 #ruleArea .rule li,
+    #rule_1on1 #ruleArea .rule li h4 {
+		background-color: #50BEE4;
+    	}
+        #rule_1on1 #ruleArea .rule li:before{
+    		color: #3879D9;
+        }
+    #rule_3p #ruleArea .rule li,
+    #rule_3p #ruleArea .rule li h4 {
+        background-color: #FEF685;
+        }
+        #rule_3p #ruleArea .rule li:before{
+            color: #DDD322;
+        }
+
+aside.announcement {
+    border-top: solid #333 1px;
+    }
+    aside.announcement h2 {
+        display: block;
+        margin-top: 44px;
+        text-align: center;
+        font-size: 2.8em;
+        font-size: 2.8rem;
+    }

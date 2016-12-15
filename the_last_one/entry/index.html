@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta name="viewport" content="width=480">
+	<title>THE LAST ONE 参加エントリーフォーム | Aichi BasketBall Classic</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="個人戦トーナメントリーグ「THE LAST ONE（ザ ラスト ワン）」への参加エントリーフォームです。">
+	<meta name="keywords" content="THE LAST ONE,ザ ラスト ワン,侍BALLERS,ストリート,basketball,3on3 バスケ,3on3 バスケットボール,3on3,バスケ,basketball">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+	<link rel="stylesheet" href="./common/css/fillter.css">
+	<!--[if lt IE 9]>
+	<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+	<script src="../../common/js/css3-mediaqueries.js"></script>
+	<![endif]-->
+</head>
+<body id="home">
+<div id="wrapper">
+	<header id="pageHead" role="banner">
+		<h2>個人戦トーナメントリーグ「THE LAST ONE（ザ ラスト ワン）」の参加エントリーフォームです。</h2>
+		<h1>Aichi BasketBall Classic</h1>
+	</header>
+	<!-- メインコンテンツ-->
+	<div id="contents" class="clearfix">
+		<main role="main">
+			<section id="invitationArea">
+				<h2>THE LAST ONE（ザ ラスト ワン）</h2>
+				<h3>参加エントリーフォーム</h3>
+				<div class="gaiyou">
+					<h4>THE LAST ONE（ザ ラスト ワン）概要</h4>
+					<div class="inner">
+						<dl>
+							<dt>日程</dt><dd>2016年7月2日(土)</dd>
+							<dt>時間</dt><dd>15:00 ～ 18:00</dd>
+							 <dt>場所</dt><dd>ディーナゲッツ愛知<br><small>　愛知県一宮市森本一丁目24番26号</small></dd>
+							<!--<dt>場所</dt><dd>名古屋市近郊</small></dd>-->
+							<dt>募集</dt><dd>先着24名</dd>
+							<dt>参加費</dt><dd>1名 1,500円</dd>
+						</dl>
+						<img src="http://www.d-nuggets.com/image/2009/access.gif" alt="ディーナゲッツ愛知へのアクセスはこちら>
+					</div>
+				</div>
+				<div class="gaiyou">
+					<h4>個人戦トーナメントリーグ「THE LAST ONE」とは</h4>
+					<div class="inner">
+						<p class="tx-l">
+							レペゼン福岡フリースタイルバスケットボールの雄、侍BALLERSが主催するストリートボールプログラムTHE LAST ONE（ザ ラスト ワン）。
+						</p>
+						<img src="./common/image/rogo_l.jpg" width="480" alt="THE LAST ONE（ザ ラスト ワン）">
+						<p class="tx-l">
+							参加資格は誰でも問わず1人から参戦でき、当日集結したボーラーによってチームを結成して3on3トーナメント形式でその週の勝者を選出する、ユニークな個人戦トーナメントリーグである。
+						</p>
+						<small>今回は愛知開催の為、1DAYイベントとなります。</small>
+					</div>
+				</div>
+				<div class="invitationForm">
+					<h4>THE LAST ONE 参加エントリー入力フォーム</h4>
+					<form action="./zeromail.php" method="post" class="zeromail">
+						<fieldset>
+							<table id="entryForm">
+								<caption><small class="alert">※</small>の項目は入力必須です。</caption>
+								<tr>
+									<th class="dataSub">氏名 <small class="alert">※</small></th>
+									<td><input name="name" type="text" size="47"></td>
+								</tr>
+								<tr>
+									<th class="dataSub">読みカナ <small class="alert">※</small></th>
+									<td><input name="kana_req" type="text" size="47"></td>
+								</tr>
+								<tr>
+									<th class="dataSub">性別 <small class="alert">※</small></th>
+									<td>
+										<input name="sex" type="radio" value="男性" id="men"><label for="men">男性</label>
+										<input name="sex" type="radio" value="女性" id="woman"><label for="woman">女性</label>
+									</td>
+								</tr>
+								<tr>
+									<th class="dataSub">年齢 <small class="alert">※</small></th>
+									<td><input name="age_req" type="text" size="6"> 歳</td>
+								</tr>
+								<tr>
+									<th class="dataSub">携帯TEL <small class="alert">※</small></th>
+									<td><input name="tel_req" type="text" size="47"></td>
+								</tr>
+								<tr>
+									<th class="dataSub">メールアドレス <small class="alert">※</small></th>
+									<td><input name="email" type="text" size="47"></td>
+								</tr>
+								<tr>
+									<th class="dataSub">備考・メッセージ</th>
+									<td><textarea name="message" row="4" cols="45"></textarea></td>
+								</tr>
+								<tr class="submitArea">
+									<td colspan="3">
+										<input type="hidden" name="days" value="2016年7月2日(土)">
+										<input type="hidden" name="times" value="9:30〜11:30">
+										<input type="hidden" name="rep[daytime]" value="{days} {times}">
+										<input type="hidden" name="require" value="sex">
+										<button id="submit" type="submit">入力内容を確認する</button>
+										<button type="reset" id="myreset">リセット</button>
+									</td>
+								</tr>
+							</table>
+						</fieldset>
+					</form>
+				</div>
+			</section>
+		</main>
+	</div>
+	<aside id="decision">
+		<h2>Aichi BasketBall Classic</h2>
+		<h3>【 愛知最強1on1＆3Pコンテスト決定戦 】</h3>
+		<h4>Aichi Basketball Classic「1on1＆3Pコンテスト決定戦」とは</h4>
+		<ul class="inner">
+			<li>TBBの主催大会</li>
+			<li>BUZZER BEATERの主催大会</li>
+			<li>LIGA TOKAI 3on3 MIXTURE大会</li>
+		</ul>
+		<p class="inner">
+			上記の愛知で開催された3on3大会の主催者が共同で開催する大会で、各大会の推薦選手と4/10に出場したチームからの招待選手ならびに、
+			一般応募枠の上位入賞者で競う、愛知最強の1on1と3Pのチャンピオンを決定する大会です！
+		</p>
+		<h4>愛知最強1on1＆3Pコンテスト決定戦 大会概要</h4>
+		<dl class="inner">
+			<dt>日程</dt><dd>2016年7月3日(日)</dd>
+			<dt>場所</dt><dd>愛知文教大学<small>小牧市大草5969-3</small></dd>
+			<dt>時間</dt><dd>開場 12:30</dd>
+			<dt>&nbsp;</dt><dd class="lv2">開始 13:00</dd>
+			<dt>&nbsp;</dt><dd class="lv2">終了 18:00</dd>
+	</aside>
+	<footer id="pageFoot" role="contentinfo">
+		<div id="copylight">
+			<span>Copyright (C) 2016 Aichi BasketBall Classic All Rights Resurved.</span>
+		</div>
+	</footer>
+</div>
+
+<script src="../../common/js/jquery-1.11.2.min.js"></script>
+<script src="../../common/js/main.js"></script>
+
+</body>
+</html>

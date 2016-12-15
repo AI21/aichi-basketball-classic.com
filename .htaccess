@@ -1,0 +1,17 @@
+<IfModule mod_rewrite.c>
+#    RewriteEngine on
+#    RewriteCond $1 !^(index\.php|images|inquire|robots\.txt)
+#    RewriteRule ^(.*)$ /index.php/$1 [L]
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^aichi-basketball-classic.com
+RewriteRule ^(.*)$ http://www.aichi-basketball-classic.com/$1 [R=301,L]
+
+#RewriteEngine on
+#RewriteCond %{THE_REQUEST} ^.*/index.html
+#RewriteRule ^(.*)index.html$ http://www.aichi-basketball-classic.com/3p1on1/entry/$1 [R=301,L]
+
+#Redirect temp /index.html /3p1on1/entry/
+#Redirect temp /3p1on1/index.html /3p1on1/entry/
+
+</IfModule>

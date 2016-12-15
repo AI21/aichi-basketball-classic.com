@@ -1,0 +1,255 @@
+@charset "utf-8";
+
+/*---------------------------------
+ Style for Block Layout
+--------------------------------*/
+body {
+	width: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+strong {
+	font-weight: bold;
+	color: #131F72;
+}
+#wrapper {
+	position: relative;
+	margin: 0 auto;
+	padding: 0;
+	width: 480px;
+	border-left: solid #333 1px;
+	border-right: solid #333 1px;
+	border-bottom: solid #333 1px;
+}
+.inner {
+	padding: 0 10px;
+	width: auto;
+}
+h4 {
+	margin-bottom: 0.5em;
+	padding: 0.2em 0;
+	text-indent: 1em;
+	text-align: left;
+	background-color: #333;
+	color: #F6F6F6;
+}
+h5 {
+	margin: 0 0 11px 10px;
+	text-align: left;
+}
+.alert {
+	font-weight: bold;
+	color: #f00;
+}
+p {
+	margin-top: 22px;
+	text-align: center;
+}
+.tx-l {
+	text-align: left;
+}
+
+/*---------------------------------
+ ページヘッダー
+--------------------------------*/
+header {
+	border-bottom: solid #333 2px;
+	}
+	header h1 {
+	}
+	header h2 {
+		width: auto;
+		padding: 0 10px;
+		text-align: left;
+	    font-size: 1.4em;
+	    font-size: 1.4rem;
+		font-weight: normal;
+		color: #D42000;
+	}
+
+/*---------------------------------
+ ナビゲーション
+--------------------------------*/
+
+
+/*---------------------------------
+ パンくずリスト
+--------------------------------*/
+
+
+/*---------------------------------
+ コンテンツ
+--------------------------------*/
+#contents {
+	margin-top: 22px;
+	padding-bottom: 44px;
+	border-bottom: solid #333 2px;
+	}
+
+	/* Challenge Tournament */
+	#invitationArea {
+		}
+
+		/* Challenge Tournament 大会概要 */
+		#invitationArea .gaiyou {
+			margin-top: 22px;
+			}
+			#invitationArea .gaiyou dl {
+				margin: 11px 0;
+			}
+			#invitationArea .gaiyou dt,
+			#invitationArea .gaiyou dd {
+				margin-bottom: 0.2em;
+			    font-size: 1.5em;
+			    font-size: 1.5rem;
+				}
+				#invitationArea .gaiyou dt:last-child,
+				#invitationArea .gaiyou dd:last-child {
+					margin-bottom: 0;
+				}
+			#invitationArea .gaiyou dt {
+				margin-left: 0.5em;
+				width: 5em;
+			}
+			#invitationArea .gaiyou dd {
+				width: auto;
+				}
+				#invitationArea .gaiyou dd::before {
+					content: "： ";
+				}
+				#invitationArea .gaiyou dd.lv2::before {
+					content: "　 ";
+				}
+				#invitationArea .gaiyou dd small {
+					margin-left: 1em;
+				    font-size: 1.25em;
+				    font-size: 1.25rem;
+				}
+
+		/* Challenge Tournament 参加受付フォーム */
+		#invitationArea .invitationForm {
+			margin-top: 22px;
+			}
+			#invitationArea .invitationForm table#entryForm {
+				margin: 11px 10px 0 10px;
+				width: auto;
+			    font-size: 1.4em;
+			    font-size: 1.4rem;
+				}
+				#invitationArea .invitationForm table#entryForm th,
+				#invitationArea .invitationForm table#entryForm td {
+					padding: 0.5em;
+					border: solid #6BAF71 1px;
+					text-align: left;
+					vertical-align: middle;
+					white-space: nowrap;
+				}
+				#invitationArea .invitationForm table#entryForm th {
+					padding-right: 2em;
+					background-color: #D0F3CB;
+					}
+					#invitationArea .invitationForm table#entryForm tr.soconds th {
+						background-color: #CDE6D6;
+					}
+					#invitationArea .invitationForm table#entryForm th.title {
+						text-align: center;
+						font-weight: bold;
+					}
+				#invitationArea .invitationForm table#entryForm caption {
+					text-align: right;
+
+				}
+
+			#invitationArea .invitationForm table#entryForm tr.submitArea td {
+				padding: 1em 0;
+				text-align: center;
+				border: solid #6BAF71 1px;
+				}
+				#invitationArea .invitationForm table#entryForm tr.submitArea td button {
+					padding: 0.3em 1em;
+				    font-size: 1.3em;
+				    font-size: 1.3rem;
+				}
+
+		/* Challenge Tournament 投稿完了画面 */
+		#invitationArea .complete {
+			}
+			#invitationArea .complete p.inner {
+				text-align: left !important;
+				text-indent: 1em;
+			}
+			#invitationArea .complete .manage {
+				margin-top: 44px;
+				}
+				#invitationArea .complete .manage p.inner {
+					padding-left: 1.5em;
+				}
+				#invitationArea .complete .manage p.small {
+					font-size: 1.3em;
+					font-size: 1.3rem;
+				}
+				#invitationArea .complete .manage p a.mail {
+					display: inline;
+				}
+
+	/* 愛知3on3チャンピオン決定戦 */
+	aside#decision {
+		margin-top: 22px;
+		padding-bottom: 22px;
+		border-bottom: solid #333 2px;
+		}
+		aside#decision h2 {
+		}
+		aside#decision h3 {
+			margin-bottom: 22px;
+		}
+		aside#decision h4 {
+			margin: 11px 0;
+		}
+		aside#decision p {
+		}
+		aside#decision ul {
+			margin: 0.5em 1em;
+			text-align: left;
+			}
+			aside#decision li::before {
+				content: "・";
+			}
+			aside#decision dt,
+			aside#decision dd {
+				margin-bottom: 0.2em;
+			    font-size: 1.5em;
+			    font-size: 1.5rem;
+				}
+				aside#decision dt:last-child,
+				aside#decision dd:last-child {
+					margin-bottom: 0;
+				}
+			aside#decision dt {
+				margin-left: 1em;
+				width: 3em;
+			}
+			aside#decision dd {
+				width: auto;
+				}
+				aside#decision dd::before {
+					content: "： ";
+				}
+				aside#decision dd.lv2::before {
+					content: "　 ";
+				}
+				aside#decision dd small {
+					margin-left: 1em;
+				}
+				aside#decision dt.other {
+					width: auto;
+				}
+
+
+/*---------------------------------
+ フッター
+--------------------------------*/
+footer {
+	padding: 22px 0;
+	font-size: 1.3em;
+	font-size: 1.3rem;
+}

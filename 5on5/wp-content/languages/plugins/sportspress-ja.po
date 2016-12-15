@@ -1,0 +1,5024 @@
+# Translation of Stable (latest release) in Japanese
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-10 01:44:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: assets/js/admin/editor-lang.php:30
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:141
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-shortcode.php:25
+#: includes/admin/settings/class-sp-settings-events.php:280
+#: includes/api/class-sp-rest-api.php:191 includes/class-sp-templates.php:77
+#: includes/sp-core-functions.php:1334 modules/sportspress-tutorials.php:93
+#: templates/event-performance.php:109
+msgid "Box Score"
+msgstr "成績データ"
+
+#: includes/admin/class-sp-admin-welcome.php:133
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:78
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:56
+#: includes/admin/views/html-admin-config.php:180
+#: includes/admin/views/html-admin-config.php:387
+msgid "Visible"
+msgstr "表示"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:79
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:57
+#: includes/admin/views/html-admin-config.php:181
+#: includes/admin/views/html-admin-config.php:388
+msgid "Display in player profile?"
+msgstr "選手プロフィールに表示しますか ?"
+
+#: includes/admin/settings/class-sp-settings-page.php:99
+msgid "Drag each item into the order you prefer."
+msgstr "好きな順序に各項目をドラッグしてください。"
+
+#: includes/admin/settings/class-sp-settings-players.php:133
+msgid "Display total"
+msgstr "合計を表示"
+
+#: includes/api/class-sp-rest-api.php:81
+msgid "Main Results"
+msgstr "主な結果"
+
+#: includes/api/class-sp-rest-api.php:111
+msgid "Winner"
+msgstr "勝者"
+
+#: includes/api/class-sp-rest-api.php:366
+#: includes/api/class-sp-rest-api.php:462
+msgid "Nationalities"
+msgstr "国籍"
+
+#: includes/api/class-sp-rest-posts-controller.php:56
+msgid "Whether to bypass trash and force deletion."
+msgstr "ゴミ箱をバイパスして強制削除するかどうか。"
+
+#: includes/class-sp-ajax.php:206 includes/class-sp-ajax.php:317
+#: includes/class-sp-ajax.php:474
+msgid "Team:"
+msgstr "チーム:"
+
+#: includes/class-sp-ajax.php:234 includes/class-sp-ajax.php:345
+#: includes/class-sp-ajax.php:502
+msgid "Season:"
+msgstr "シーズン:"
+
+#: includes/class-sp-ajax.php:248 includes/class-sp-ajax.php:359
+#: includes/class-sp-ajax.php:516
+msgid "Venue:"
+msgstr "会場:"
+
+#: includes/class-sp-modules.php:33
+msgid "Scoreboard"
+msgstr "スコアボード"
+
+#: includes/class-sp-modules.php:37
+msgid "Display multiple event results in a horizontal scoreboard."
+msgstr "複数の結果を横方向のスコアボードに表示します。"
+
+#: includes/class-sp-templates.php:35 includes/class-sp-templates.php:114
+#: includes/class-sp-templates.php:187 includes/class-sp-templates.php:248
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: includes/class-sp-countries.php:487
+msgid "West Indies"
+msgstr "西インド諸島"
+
+#: modules/sportspress-lazy-loading.php:224
+msgid "Loading&hellip;"
+msgstr "読み込み中&hellip;"
+
+#: modules/sportspress-birthdays.php:89 modules/sportspress-birthdays.php:161
+#: modules/sportspress-birthdays.php:178
+msgid "Age"
+msgstr "年齢"
+
+#: modules/sportspress-birthdays.php:111 modules/sportspress-birthdays.php:139
+msgid "Display age"
+msgstr "年齢を表示"
+
+#: modules/sportspress-birthdays.php:103 modules/sportspress-birthdays.php:131
+msgid "Display birthday"
+msgstr "誕生日を表示"
+
+#: modules/sportspress-birthdays.php:71 modules/sportspress-birthdays.php:90
+#: modules/sportspress-birthdays.php:102 modules/sportspress-birthdays.php:130
+#: modules/sportspress-birthdays.php:157 modules/sportspress-birthdays.php:174
+msgid "Birthday"
+msgstr "誕生日"
+
+#: modules/sportspress-birthdays.php:69
+msgid "Birthday: <b>%1$s</b>"
+msgstr "誕生日: <b>%1$s</b>"
+
+#: includes/widgets/class-sp-widget-birthdays.php:59
+msgid "Birthday:"
+msgstr "誕生日:"
+
+#: includes/widgets/class-sp-widget-birthdays.php:49
+msgid "This month"
+msgstr "今月"
+
+#: includes/widgets/class-sp-widget-birthdays.php:5
+msgid "Display players and staff on their birthday."
+msgstr "誕生日に選手とスタッフを表示します。"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:63
+#: includes/sp-core-functions.php:468 includes/sp-core-functions.php:469
+#: includes/sp-core-functions.php:471
+msgid "Number"
+msgstr "Number フィールド"
+
+#: includes/admin/class-sp-admin-taxonomies.php:138
+#: includes/admin/class-sp-admin-taxonomies.php:164
+#: includes/admin/class-sp-admin-taxonomies.php:281
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:173
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:175
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:70
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:83
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:52
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:47
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:49
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:48
+#: includes/admin/settings/class-sp-settings-events.php:363
+#: includes/admin/settings/class-sp-settings-events.php:364
+#: includes/admin/settings/class-sp-settings-players.php:126
+#: includes/admin/settings/class-sp-settings-players.php:127
+#: includes/sp-core-functions.php:456 includes/sp-core-functions.php:493
+#: includes/sp-core-functions.php:1344 templates/event-performance.php:126
+#: templates/event-performance.php:128 templates/player-statistics.php:32
+#: templates/player-statistics.php:34
+msgid "Offense"
+msgstr "オフェンス"
+
+#: includes/admin/class-sp-admin-taxonomies.php:138
+#: includes/admin/class-sp-admin-taxonomies.php:164
+#: includes/admin/class-sp-admin-taxonomies.php:281
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:173
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:175
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:74
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:79
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:52
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:47
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:49
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:48
+#: includes/admin/settings/class-sp-settings-events.php:363
+#: includes/admin/settings/class-sp-settings-events.php:364
+#: includes/admin/settings/class-sp-settings-players.php:126
+#: includes/admin/settings/class-sp-settings-players.php:127
+#: includes/sp-core-functions.php:456 includes/sp-core-functions.php:493
+#: includes/sp-core-functions.php:1339 templates/event-performance.php:126
+#: templates/event-performance.php:128 templates/player-statistics.php:32
+#: templates/player-statistics.php:34
+msgid "Defense"
+msgstr "ディフェンス"
+
+#: includes/admin/post-types/class-sp-admin-cpt-performance.php:46
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:48
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:44
+#: includes/admin/views/html-admin-config.php:176
+#: includes/admin/views/html-admin-config.php:384
+msgid "Category"
+msgstr "カテゴリ"
+
+#: includes/admin/settings/class-sp-settings-general.php:160
+msgid "Unique"
+msgstr "ユニーク"
+
+#: includes/admin/settings/class-sp-settings-general.php:164
+msgid "Hide widget when same as content."
+msgstr "コンテンツと同様のウィジェットは表示しない。"
+
+#: includes/admin/settings/class-sp-settings-general.php:159
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#: includes/class-sp-modules.php:51
+msgid "Schedule tournaments and create interactive playoff brackets."
+msgstr "ブラケットを表示できるインタラクティブなトーナメントシステム。"
+
+#: includes/class-sp-modules.php:58
+msgid "Create automated league tables to keep track of team standings."
+msgstr "自動更新する順位表を作成できるモジュール。"
+
+#: includes/class-sp-modules.php:61
+msgid "League Menu"
+msgstr "リーグメニュー"
+
+#: includes/class-sp-modules.php:65
+msgid "Add a global navigation bar to display logos that link to each team."
+msgstr "サイトトップにチームのロゴを並べて表示するメニューバー。"
+
+#: includes/class-sp-modules.php:68
+msgid "Team Colors"
+msgstr "チームカラー"
+
+#: includes/class-sp-modules.php:72
+msgid "Create a custom color palette for each team."
+msgstr "各チームに独自のカラーパレットを指定できるモジュール。"
+
+#: includes/class-sp-modules.php:75
+msgid "Team Access"
+msgstr "チームアクセス"
+
+#: includes/class-sp-modules.php:79
+msgid "Limit user access to data that is related to their team."
+msgstr "各ユーザーそれぞれにアクセス権を与えることができるモジュール。"
+
+#: includes/class-sp-modules.php:86
+msgid "Create team rosters, player galleries, and ranking charts."
+msgstr "選手名鑑・ギャラリー及びランキング表を作成するためのモジュール。"
+
+#: includes/widgets/class-sp-widget-birthdays.php:6
+msgid "Birthdays"
+msgstr "誕生日"
+
+#: includes/class-sp-modules.php:89
+msgid "Directories"
+msgstr "ディレクトリー"
+
+#: includes/class-sp-modules.php:93
+msgid "Organize and display staff in list and gallery layouts."
+msgstr "スタッフをリスト又はギャラリーにまとめて管理できるモジュール。"
+
+#: includes/class-sp-modules.php:98 modules/sportspress-tutorials.php:122
+#: modules/sportspress-tutorials.php:130
+msgid "Tutorials"
+msgstr "チュートリアル"
+
+#: includes/class-sp-modules.php:100
+msgid "Display a dashboard page with SportsPress video tutorials."
+msgstr "ダッシュボードに SportsPress の説明ビデオを表示する。"
+
+#: includes/class-sp-modules.php:103
+msgid "Branding"
+msgstr "ブランディング"
+
+#: includes/class-sp-modules.php:107
+msgid "Instantly rebrand the dashboard with your own logo and colors."
+msgstr "自分のロゴとカラーでダッシュボードをカスタマイズできるモジュール。"
+
+#: includes/class-sp-modules.php:110
+msgid "Duplicator"
+msgstr "デュープリケーター"
+
+#: includes/class-sp-modules.php:114
+msgid "Clone anything with just one click. Great for creating multiple events."
+msgstr "いろんなコンテンツをワンクリックで複写。イベントの作成に便利。"
+
+#: includes/class-sp-modules.php:121
+msgid "Tweet #SportsPress"
+msgstr "#SportsPress でツィートする"
+
+#: includes/class-sp-modules.php:123
+msgid "Help spread the word by tweeting with #SportsPress and get the Twitter module for free."
+msgstr "#SportsPress でツイートして Twitter モジュールをゲットしよう。"
+
+#: includes/class-sp-modules.php:125
+msgid "Add a Twitter feed to team, player, and staff pages."
+msgstr "チーム・選手・スタッフプロフィールに Twitter フィードを表示。"
+
+#: includes/class-sp-modules.php:128
+msgid "Sponsors"
+msgstr "スポンサー"
+
+#: includes/class-sp-modules.php:132
+msgid "Attract sponsors by offering them advertising space on your website."
+msgstr "サイトにスポンサーを表示し、インプレッションやクリック数を記録する。"
+
+#: includes/class-sp-modules.php:139
+msgid "Multisite"
+msgstr "マルチサイト"
+
+#: includes/class-sp-modules.php:143
+msgid "Manage multiple sports and display different widgets all on one site."
+msgstr "複数のスポーツを管理し、各サイトのウィジェットを一つのサイトに表示する。"
+
+#: includes/class-sp-post-types.php:40
+msgid "Edit Competition"
+msgstr "コンペティションの編集"
+
+#: includes/class-sp-post-types.php:41 includes/class-sp-post-types.php:75
+#: includes/class-sp-post-types.php:109 includes/class-sp-post-types.php:143
+#: includes/class-sp-post-types.php:177 includes/class-sp-post-types.php:223
+#: includes/class-sp-post-types.php:253 includes/class-sp-post-types.php:283
+#: includes/class-sp-post-types.php:313 includes/class-sp-post-types.php:344
+#: includes/class-sp-post-types.php:375
+msgid "View"
+msgstr "詳細"
+
+#: includes/class-sp-post-types.php:45 includes/class-sp-post-types.php:79
+#: includes/class-sp-post-types.php:113 includes/class-sp-post-types.php:147
+#: includes/class-sp-post-types.php:181
+msgid "Parent"
+msgstr "Parent"
+
+#: includes/class-sp-post-types.php:46 includes/class-sp-post-types.php:80
+#: includes/class-sp-post-types.php:114 includes/class-sp-post-types.php:148
+#: includes/class-sp-post-types.php:182
+msgid "Parent:"
+msgstr "親:"
+
+#: includes/class-sp-post-types.php:47 includes/class-sp-post-types.php:81
+#: includes/class-sp-post-types.php:115 includes/class-sp-post-types.php:149
+#: includes/class-sp-post-types.php:183 includes/class-sp-post-types.php:224
+#: includes/class-sp-post-types.php:254 includes/class-sp-post-types.php:284
+#: includes/class-sp-post-types.php:314 includes/class-sp-post-types.php:345
+#: includes/class-sp-post-types.php:376 includes/class-sp-post-types.php:404
+#: includes/class-sp-post-types.php:441 includes/class-sp-post-types.php:474
+#: includes/class-sp-post-types.php:507 modules/sportspress-calendars.php:75
+#: modules/sportspress-league-tables.php:75
+#: modules/sportspress-player-lists.php:74
+msgid "Search"
+msgstr "検索"
+
+#: includes/class-sp-post-types.php:74
+msgid "Edit Season"
+msgstr "シーズンの編集"
+
+#: includes/class-sp-post-types.php:108
+msgid "Edit Venue"
+msgstr "会場の編集"
+
+#: includes/class-sp-post-types.php:142
+msgid "Edit Position"
+msgstr "ポジションの編集"
+
+#: includes/class-sp-post-types.php:176
+msgid "Edit Job"
+msgstr "役割の編集"
+
+#: includes/class-sp-post-types.php:219
+msgid "Result"
+msgstr "結果"
+
+#: includes/class-sp-post-types.php:220
+msgid "Add New Result"
+msgstr "新しい結果を追加する"
+
+#: includes/class-sp-post-types.php:221
+msgid "Edit Result"
+msgstr "結果の編集"
+
+#: includes/class-sp-post-types.php:222 includes/class-sp-post-types.php:252
+#: includes/class-sp-post-types.php:282 includes/class-sp-post-types.php:312
+#: includes/class-sp-post-types.php:343 includes/class-sp-post-types.php:374
+#: includes/class-sp-post-types.php:402 includes/class-sp-post-types.php:439
+#: includes/class-sp-post-types.php:472 includes/class-sp-post-types.php:505
+#: modules/sportspress-calendars.php:73
+#: modules/sportspress-league-tables.php:73
+#: modules/sportspress-player-lists.php:72
+msgid "New"
+msgstr "新規"
+
+#: includes/class-sp-post-types.php:250
+msgid "Add New Outcome"
+msgstr "新しい勝敗を追加する"
+
+#: includes/class-sp-post-types.php:251
+msgid "Edit Outcome"
+msgstr "勝敗の編集"
+
+#: includes/class-sp-post-types.php:279
+msgid "Column"
+msgstr "列"
+
+#: includes/class-sp-post-types.php:280
+msgid "Add New Column"
+msgstr "新しい列を追加する"
+
+#: includes/class-sp-post-types.php:281
+msgid "Edit Column"
+msgstr "列の編集"
+
+#: includes/class-sp-post-types.php:309
+msgid "Metric"
+msgstr "メトリック"
+
+#: includes/class-sp-post-types.php:310
+msgid "Add New Metric"
+msgstr "新しいメトリックを追加する"
+
+#: includes/class-sp-post-types.php:311
+msgid "Edit Metric"
+msgstr "メトリックの編集"
+
+#: includes/class-sp-post-types.php:341
+msgid "Add New Performance"
+msgstr "新しいパフォーマンスを追加する"
+
+#: includes/class-sp-post-types.php:342
+msgid "Edit Performance"
+msgstr "パフォーマンスの編集"
+
+#: includes/class-sp-post-types.php:371
+msgid "Statistic"
+msgstr "統計"
+
+#: includes/class-sp-post-types.php:372
+msgid "Add New Statistic"
+msgstr "新しい総計を追加する"
+
+#: includes/class-sp-post-types.php:373
+msgid "Edit Statistic"
+msgstr "総計の編集"
+
+#: includes/class-sp-post-types.php:401 modules/sportspress-tutorials.php:82
+msgid "Edit Event"
+msgstr "試合の編集"
+
+#: includes/class-sp-post-types.php:403
+msgid "View Event"
+msgstr "試合を表示"
+
+#: includes/class-sp-post-types.php:438
+msgid "Edit Team"
+msgstr "チームの編集"
+
+#: includes/class-sp-post-types.php:440
+msgid "View Team"
+msgstr "チームを表示"
+
+#: includes/class-sp-post-types.php:471
+msgid "Edit Player"
+msgstr "選手の編集"
+
+#: includes/class-sp-post-types.php:473
+msgid "View Player"
+msgstr "選手を表示"
+
+#: includes/class-sp-post-types.php:503 modules/sportspress-tutorials.php:77
+msgid "Add New Staff"
+msgstr "新しいスタッフを追加する"
+
+#: includes/class-sp-post-types.php:504
+msgid "Edit Staff"
+msgstr "スタッフの編集"
+
+#: includes/libraries/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "インストール推奨プラグイン"
+
+#: includes/libraries/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "プラグインをインストール"
+
+#: includes/libraries/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストールしています : %s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API に関するエラーが発生しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマは次のプラグインを使用する必要があります: %1$s."
+
+#: includes/libraries/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは次のプラグインを利用する事をお勧めしています : %1$s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "%1$s プラグインをインストールする権限がありません。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの互換性を保つため、次のプラグインを更新する必要があります: %1$s。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "次のプラグインの更新が入手可能です: %1$s."
+
+#: includes/libraries/class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "%1$s プラグインを更新する権限がありません。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "次の必須プラグインが有効化されていません: %1$s."
+
+#: includes/libraries/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "次の推奨プラグインが有効化されていません: %1$s."
+
+#: includes/libraries/class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "%1$s プラグインを有効化する権限がありません。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインをインストール"
+
+#: includes/libraries/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始する"
+
+#: includes/libraries/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインを有効化する"
+
+#: includes/libraries/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "プラグインのインストールに戻る"
+
+#: includes/libraries/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: includes/libraries/class-tgm-plugin-activation.php:399
+#: includes/libraries/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "プラグインの有効化に成功しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:400
+#: includes/libraries/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "次のプラグインの有効化に成功しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作無効。%1$s プラグインはすでに有効化されていました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインの有効化に失敗しました。このテーマはより最新の %s を必要とします。プラグインを更新してください。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "全てのプラグインのインストールと有効化に成功しました。%1$s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "このお知らせを表示しない"
+
+#: includes/libraries/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な際はネットワーク管理者に連絡してください。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "このテーマと互換性を保つため、プラグインの更新が必要です。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "更新する必要があります"
+
+#: includes/libraries/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "代わりに parent_slug コンフィグ変数を設定してください。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:828
+#: includes/libraries/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: includes/libraries/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージに希望されたスラッグ名のフォルダは含まれず、リネームにも失敗します。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:935
+#: includes/libraries/class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "WordPress ガイドラインに従うよう、プラグインの提供者に連絡してください。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージには複数のファイルが含まれているが、一つのフォルダにパッケージされていません。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:1116
+#: includes/libraries/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: includes/libraries/class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "必須"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "推奨"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress 公式リポジトリー"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "外部ソース"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "同梱"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "インストールされていません"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "インストールされていますが有効化されていません"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "有効"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "必要アップデート利用不可能"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "アップデート必要"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "アップデート推奨"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全て <span class=\"count\">(%s)</span>"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "アップデート利用可能 <span class=\"count\">(%s)</span>"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "使用中 <span class=\"count\">(%s)</span>"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "インストール済パージョン:"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "最低限バージョン:"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "利用可能バージョン:"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "インストール・更新・有効化するべきプラグインはありません。<a href=\"%1$s\">ダッシュボードに戻る</a>"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "提供元"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "タイプ"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "バージョン"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "インストール %2$s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "有効化 %2$s"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン提供者からの更新メッセージ:"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "インストール"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "有効化"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。操作無効。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。操作無効。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "インストールするプラグインが利用可能ではありません。操作無効。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "更新するプラグインが利用可能ではありません。操作無効。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。操作無効。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "有効化するプラグインが利用可能ではありません。操作無効。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s 更新中 (%2$d/%3$d)"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s をインストールする最中にエラーが発生しました: <strong>%2$s</strong>。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化の手続きが開始します。この手続きはホスト環境によって時間がかかる場合があります。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s のインストールと有効化に成功しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3370
+#: includes/libraries/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "詳細を表示する"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3370
+#: includes/libraries/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "詳細を隠す"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s インストール・有効化中 (%2$d/%3$d)"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールの手続きが開始します。この手続きはホスト環境によって時間がかかる場合があります。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールに成功しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "インストールが完了しました。"
+
+#: includes/libraries/class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s インストール中 (%2$d/%3$d)"
+
+#: includes/sp-core-functions.php:412
+msgid "Average"
+msgstr "普通"
+
+#: includes/sp-core-functions.php:524
+msgid "Published"
+msgstr "公開済み"
+
+#: includes/sp-core-functions.php:525
+msgid "Scheduled"
+msgstr "予約済み"
+
+#: includes/sp-core-functions.php:557
+msgid "Date range:"
+msgstr "日付範囲:"
+
+#: includes/sp-core-functions.php:832 includes/sp-core-functions.php:982
+msgid "(no title)"
+msgstr "(タイトルなし)"
+
+#: includes/sp-core-functions.php:851 includes/sp-core-functions.php:935
+#: modules/sportspress-lazy-loading.php:185
+#: modules/sportspress-lazy-loading.php:222
+msgid "Select All"
+msgstr "すべて選択"
+
+#: includes/sp-core-functions.php:916 includes/sp-core-functions.php:919
+#: modules/sportspress-lazy-loading.php:206
+#: modules/sportspress-lazy-loading.php:209
+#: modules/sportspress-lazy-loading.php:223
+msgid "Show all"
+msgstr "全て表示"
+
+#: includes/class-sp-templates.php:53 includes/sp-core-functions.php:1362
+#: modules/sportspress-event-videos.php:56 templates/event-video.php:19
+msgid "Video"
+msgstr "動画"
+
+#: includes/sp-core-functions.php:1363 templates/event-blocks.php:146
+#: templates/event-calendar.php:235 templates/event-list.php:386
+msgid "View all events"
+msgstr "日程表を表示"
+
+#: includes/sp-core-functions.php:1364 templates/player-gallery.php:162
+#: templates/player-list.php:208
+msgid "View all players"
+msgstr "すべての選手を表示"
+
+#: includes/sp-core-functions.php:1365 templates/league-table.php:165
+msgid "View full table"
+msgstr "順位表を表示"
+
+#: includes/sp-core-functions.php:1380
+msgid "Love SportsPress? Help spread the word by rating us 5★ on WordPress.org"
+msgstr "Love SportsPress? WordPress.orgで5★評価を残そう！"
+
+#: includes/sp-template-hooks.php:171
+msgid "The description is not prominent by default; however, some themes may show it."
+msgstr "説明はデフォルトではあまり重要な意味を持ちませんが、これを表示するテーマも中にはあります。"
+
+#: includes/sp-template-hooks.php:180 modules/sportspress-icons.php:147
+msgid "Select Icon"
+msgstr "アイコンを選択"
+
+#: includes/sp-template-hooks.php:183
+msgid "Add icon"
+msgstr "アイコンを追加"
+
+#: includes/sp-template-hooks.php:186
+msgid "Remove icon"
+msgstr "アイコンを削除"
+
+#: includes/sp-template-hooks.php:194
+msgid "User"
+msgstr "ユーザー"
+
+#: includes/sp-template-hooks.php:205
+msgid "Select Photo"
+msgstr "写真を選択"
+
+#: includes/sp-template-hooks.php:208
+msgid "Add photo"
+msgstr "写真を追加"
+
+#: includes/sp-template-hooks.php:211
+msgid "Remove photo"
+msgstr "写真を削除"
+
+#: includes/sp-template-hooks.php:222
+msgid "Select Logo"
+msgstr "ロゴを選択"
+
+#: includes/sp-template-hooks.php:225
+msgid "Add logo"
+msgstr "ロゴを追加"
+
+#: includes/sp-template-hooks.php:228
+msgid "Remove logo"
+msgstr "ロゴを削除"
+
+#: includes/sp-template-hooks.php:236
+msgid "Date/Time:"
+msgstr "日付/時間:"
+
+#: includes/sp-template-hooks.php:236
+msgid "Now"
+msgstr "今すぐ"
+
+#: includes/widgets/class-sp-widget-countdown.php:5
+msgid "A clock that counts down to an upcoming event."
+msgstr "試合開催までのカウントダウン"
+
+#: includes/widgets/class-sp-widget-countdown.php:66
+#: includes/widgets/class-sp-widget-event-blocks.php:84
+#: includes/widgets/class-sp-widget-event-list.php:87
+#: includes/widgets/class-sp-widget-league-table.php:76
+#: includes/widgets/class-sp-widget-player-gallery.php:81
+#: includes/widgets/class-sp-widget-player-list.php:81
+msgid "Heading:"
+msgstr "見出し:"
+
+#: includes/widgets/class-sp-widget-event-blocks.php:5
+#: includes/widgets/class-sp-widget-event-list.php:5
+msgid "A list of events."
+msgstr "試合の一覧。"
+
+#: includes/widgets/class-sp-widget-event-blocks.php:6
+#: modules/sportspress-calendars.php:302
+msgid "Event Blocks"
+msgstr "試合ブロック"
+
+#: includes/widgets/class-sp-widget-event-calendar.php:5
+msgid "A calendar of events."
+msgstr "試合のカレンダー。"
+
+#: includes/widgets/class-sp-widget-event-calendar.php:6
+msgid "Event Calendar"
+msgstr "試合カレンダー"
+
+#: includes/widgets/class-sp-widget-event-list.php:6
+#: modules/sportspress-calendars.php:233
+msgid "Event List"
+msgstr "試合リスト"
+
+#: includes/widgets/class-sp-widget-league-table.php:5
+msgid "Display a league table."
+msgstr "順位表を表示します。"
+
+#: includes/widgets/class-sp-widget-league-table.php:85
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; 選択 &mdash;"
+
+#: includes/widgets/class-sp-widget-player-gallery.php:5
+msgid "Display a gallery of players."
+msgstr "ギャラリースタイルで選手を表示します。"
+
+#: includes/widgets/class-sp-widget-player-gallery.php:6
+msgid "Player Gallery"
+msgstr "選手ギャラリー"
+
+#: includes/widgets/class-sp-widget-player-gallery.php:116
+msgid "Random"
+msgstr "ランダム"
+
+#: includes/widgets/class-sp-widget-player-list.php:5
+msgid "Display a list of players."
+msgstr "選手名鑑を表示します。"
+
+#: includes/widgets/class-sp-widget-player-list.php:104
+msgid "Performance:"
+msgstr "パフォーマンス:"
+
+#: includes/widgets/class-sp-widget-staff.php:5
+msgid "Display a single staff member."
+msgstr "単一スタッフを表示する。"
+
+#: modules/sportspress-calendars.php:71
+msgid "Add New Calendar"
+msgstr "新しい日程表を追加する"
+
+#: modules/sportspress-calendars.php:72
+msgid "Edit Calendar"
+msgstr "日程表の編集"
+
+#: modules/sportspress-calendars.php:74
+msgid "View Calendar"
+msgstr "カレンダーを表示"
+
+#: modules/sportspress-calendars.php:183
+msgid "Feeds"
+msgstr "フィード"
+
+#: modules/sportspress-calendars.php:239 modules/sportspress-calendars.php:308
+msgid "Display calendar title"
+msgstr "日程表タイトルを表示"
+
+#: modules/sportspress-calendars.php:254
+msgid "Title Format"
+msgstr "タイトルフォーマット"
+
+#: modules/sportspress-calendars.php:266
+msgid "Time/Results Format"
+msgstr "試合時間・結果フォーマット"
+
+#: includes/admin/settings/class-sp-settings-events.php:362
+#: includes/admin/settings/class-sp-settings-players.php:125
+#: modules/sportspress-calendars.php:271
+msgid "Combined"
+msgstr "合わせて表示"
+
+#: modules/sportspress-calendars.php:272
+msgid "Separate"
+msgstr "分けて表示"
+
+#: modules/sportspress-calendars.php:273
+msgid "Time Only"
+msgstr "時間のみ"
+
+#: modules/sportspress-calendars.php:274
+msgid "Results Only"
+msgstr "結果のみ"
+
+#: modules/sportspress-calendars.php:279 modules/sportspress-calendars.php:348
+#: modules/sportspress-league-tables.php:239
+#: modules/sportspress-player-lists.php:271
+msgid "Pagination"
+msgstr "ページ分け"
+
+#: modules/sportspress-calendars.php:280 modules/sportspress-calendars.php:349
+#: modules/sportspress-league-tables.php:240
+#: modules/sportspress-player-lists.php:272
+msgid "Paginate"
+msgstr "ページ分けする"
+
+#: modules/sportspress-calendars.php:291 modules/sportspress-calendars.php:360
+msgid "events"
+msgstr "試合"
+
+#: modules/sportspress-calendars.php:332
+msgid "Display season"
+msgstr "シーズンを表示"
+
+#: modules/sportspress-icons.php:139
+msgid "Image"
+msgstr "画像"
+
+#: modules/sportspress-individual-mode.php:122
+#: modules/sportspress-player-lists.php:283
+msgid "players"
+msgstr "選手"
+
+#: modules/sportspress-league-tables.php:71
+msgid "Add New League Table"
+msgstr "新しい順位表を追加する"
+
+#: modules/sportspress-league-tables.php:72
+msgid "Edit League Table"
+msgstr "順位表の編集"
+
+#: modules/sportspress-league-tables.php:74
+msgid "View League Table"
+msgstr "順位表を表示"
+
+#: modules/sportspress-league-tables.php:224
+#: modules/sportspress-player-lists.php:247
+msgid "Display title"
+msgstr "タイトルを表示"
+
+#: modules/sportspress-league-tables.php:261
+msgid "Always increment"
+msgstr "必ず加算する"
+
+#: modules/sportspress-league-tables.php:284
+msgid "Enable column editing"
+msgstr "列を編集可能にする"
+
+#: modules/sportspress-overview.php:52 modules/sportspress-overview.php:62
+#: modules/sportspress-tutorials.php:109
+msgid "Overview"
+msgstr "サイトマップ"
+
+#: modules/sportspress-player-lists.php:70
+msgid "Add New Player List"
+msgstr "新しい選手名鑑を追加する"
+
+#: modules/sportspress-player-lists.php:71
+msgid "Edit Player List"
+msgstr "選手名鑑の編集"
+
+#: modules/sportspress-player-lists.php:73
+msgid "View Player List"
+msgstr "選手名鑑を表示"
+
+#: modules/sportspress-player-lists.php:255
+msgid "Display photos"
+msgstr "写真の表示"
+
+#: modules/sportspress-template-selector.php:132
+msgid "Default Template"
+msgstr "デフォルトテンプレート"
+
+#: modules/sportspress-template-selector.php:136
+msgid "Template"
+msgstr "テンプレート"
+
+#: modules/sportspress-tutorials.php:63
+msgid "Installation"
+msgstr "インストール"
+
+#: modules/sportspress-tutorials.php:89
+msgid "Permalinks"
+msgstr "パーマリンク"
+
+#: modules/sportspress-tutorials.php:105
+msgid "Player Ranking"
+msgstr "選手ランキング"
+
+#: modules/sportspress-tutorials.php:108
+msgid "Demo Content"
+msgstr "デモコンテンツ"
+
+#: modules/sportspress-tutorials.php:110
+msgid "User Roles"
+msgstr "ユーザー権限グループ"
+
+#: modules/sportspress-tutorials.php:112
+msgid "Page not found"
+msgstr "設定ページが見つかりません"
+
+#: modules/sportspress-tutorials.php:131
+msgid "Advanced"
+msgstr "高度設定"
+
+#: modules/sportspress-tutorials.php:155
+msgid "Pop-out"
+msgstr "ポップアウト"
+
+#: modules/sportspress-tutorials.php:193
+msgid "Watch Tutorials"
+msgstr "チュートリアルを観る"
+
+#: modules/sportspress-widget-alignment.php:107
+#: modules/sportspress-widget-alignment.php:141
+msgid "Alignment: %s"
+msgstr "位置: %s"
+
+#: sportspress.php:92 sportspress.php:101
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#. translators: Calendar caption: 1: month name, 2: 4-digit year
+#: templates/event-calendar.php:112 templates/event-calendar.php:140
+#: templates/event-calendar.php:148
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr "%2$s年%1$s"
+
+#. Plugin URI of the plugin/theme
+msgid "http://themeboy.com/sportspress/"
+msgstr "http://themeboy.com/sportspress/"
+
+#. Description of the plugin/theme
+msgid "Manage your club and its players, staff, events, league tables, and player lists."
+msgstr "スポーツクラブと、選手、スタッフ、試合日程、順位表、及び選手名鑑を管理するプラグイン。"
+
+#. Author of the plugin/theme
+msgid "ThemeBoy"
+msgstr "ThemeBoy"
+
+#. Author URI of the plugin/theme
+msgid "http://themeboy.com"
+msgstr "http://themeboy.com"
+
+#: includes/admin/settings/class-sp-settings-status.php:253
+#: includes/admin/views/html-admin-page-status.php:217
+msgid "SP Configuration"
+msgstr "SP 構成"
+
+#: includes/admin/settings/class-sp-settings-status.php:263
+#: includes/admin/views/html-admin-config.php:23
+#: includes/admin/views/html-admin-page-status.php:227
+#: includes/class-sp-post-types.php:248 modules/sportspress-tutorials.php:92
+msgid "Event Outcomes"
+msgstr "試合の勝敗"
+
+#: includes/admin/settings/class-sp-settings-status.php:283
+#: includes/admin/views/html-admin-config.php:160
+#: includes/admin/views/html-admin-config.php:164
+#: includes/admin/views/html-admin-page-status.php:247
+#: includes/class-sp-post-types.php:338 includes/class-sp-post-types.php:340
+msgid "Player Performance"
+msgstr "選手のパフォーマンス"
+
+#: includes/admin/settings/class-sp-settings-status.php:293
+#: includes/admin/views/html-admin-config.php:267
+#: includes/admin/views/html-admin-page-status.php:257
+#: includes/class-sp-post-types.php:278
+#: modules/sportspress-league-tables.php:161
+#: modules/sportspress-league-tables.php:283
+msgid "Table Columns"
+msgstr "順位表の列"
+
+#: includes/admin/settings/class-sp-settings-status.php:305
+#: includes/admin/views/html-admin-config.php:321
+#: includes/admin/views/html-admin-page-status.php:267
+#: includes/class-sp-post-types.php:308 modules/sportspress-tutorials.php:104
+msgid "Player Metrics"
+msgstr "選手メトリック"
+
+#: includes/admin/settings/class-sp-settings-status.php:315
+#: includes/admin/views/html-admin-config.php:374
+#: includes/admin/views/html-admin-page-status.php:277
+#: includes/class-sp-post-types.php:369
+msgid "Player Statistics"
+msgstr "選手総計"
+
+#: includes/admin/settings/class-sp-settings-status.php:328
+#: includes/admin/views/html-admin-page-status.php:290
+msgid "SP Taxonomies"
+msgstr "SP 分類"
+
+#: includes/admin/settings/class-sp-settings-status.php:377
+#: includes/admin/views/html-admin-page-status.php:339
+msgid "SP Post Types"
+msgstr "SP 投稿形式"
+
+#: includes/admin/settings/class-sp-settings-status.php:403
+#: includes/admin/views/html-admin-page-status.php:365
+msgid "Theme"
+msgstr "テーマ"
+
+#: includes/admin/settings/class-sp-settings-status.php:440
+#: includes/admin/views/html-admin-page-status.php:402
+msgid "Theme Name"
+msgstr "テーマ名"
+
+#: includes/admin/settings/class-sp-settings-status.php:446
+#: includes/admin/views/html-admin-page-status.php:408
+msgid "Theme Version"
+msgstr "テーマバージョン"
+
+#: includes/admin/settings/class-sp-settings-status.php:455
+#: includes/admin/views/html-admin-page-status.php:417
+msgid "Author URL"
+msgstr "制作者URL"
+
+#: includes/admin/settings/class-sp-settings-status.php:464
+#: includes/admin/views/html-admin-page-status.php:426
+msgid "Templates"
+msgstr "テンプレート"
+
+#: includes/admin/settings/class-sp-settings-status.php:499
+#: includes/admin/views/html-admin-page-status.php:459
+msgid "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of date. The core version is %s"
+msgstr "<code>%s</code> version <strong style=\"color:red\">%s</strong>は古くなっています。現在のバージョンは%sです。"
+
+#: includes/admin/settings/class-sp-settings-status.php:510
+#: includes/admin/settings/class-sp-settings-status.php:516
+#: includes/admin/views/html-admin-page-status.php:470
+#: includes/admin/views/html-admin-page-status.php:476
+msgid "Template Overrides"
+msgstr "テンプレート無効化"
+
+#: includes/admin/settings/class-sp-settings-status.php:517
+#: includes/admin/views/html-admin-page-status.php:477
+msgid "No overrides present in theme."
+msgstr "上書きできるテーマは現在ありません。"
+
+#: includes/admin/settings/class-sp-settings-teams.php:46
+msgid "Team Options"
+msgstr "チーム設定"
+
+#: includes/admin/settings/class-sp-settings-teams.php:54
+msgid "Link teams"
+msgstr "チームをリンクする"
+
+#: includes/admin/settings/class-sp-settings-teams.php:70
+msgid "Abbreviate team names"
+msgstr "チーム名を省略する"
+
+#: includes/admin/settings/class-sp-settings-teams.php:78
+msgid "Open link in a new window/tab"
+msgstr "新規ウインドウもしくはタブでリンクを開く"
+
+#: includes/admin/settings/class-sp-settings-text.php:40
+msgid "The following options affect how words are displayed on the frontend."
+msgstr "次のオプションは、その言葉がフロントエンドでどのように表示されるかに影響します。"
+
+#: includes/admin/views/html-admin-config.php:90
+msgid "Variables"
+msgstr "変数"
+
+#: includes/admin/views/html-admin-config.php:105
+#: includes/admin/views/html-admin-config.php:198
+msgid "Default (%s)"
+msgstr "デフォルト (%s)"
+
+#: includes/admin/views/html-admin-config.php:268
+msgid "Used for league tables."
+msgstr "順位表に使用。"
+
+#: includes/admin/views/html-admin-config.php:322
+#: includes/admin/views/html-admin-config.php:375
+msgid "Used for player lists."
+msgstr "選手名鑑に使用。"
+
+#: includes/admin/views/html-notice-install.php:5
+msgid "Welcome to SportsPress %s"
+msgstr "Welcome to SportsPress %s"
+
+#: includes/admin/views/html-notice-install.php:8
+#: includes/admin/views/html-notice-template-check.php:6
+#: includes/admin/views/html-notice-theme-support.php:10
+msgid "Hide this notice"
+msgstr "このお知らせを隠す"
+
+#: includes/admin/views/html-notice-template-check.php:5
+msgid "<strong>Your theme has bundled outdated copies of SportsPress template files</strong> &#8211; if you encounter functionality issues on the frontend this could the reason. Ensure you update or remove them (in general we recommend only bundling the template files you actually need to customize). See the system report for full details."
+msgstr "<strong>テーマがSportsPressテンプレートファイルの期限切れの物が利用されています。</strong>&#8211;フロントエンドで機能性の問題が発生した場合は、これが原因と思われます。(また、カスタマイズしていたらそのファイルを更新したり、削除して確認してください。)詳細については、システムのレポートを参照してください。"
+
+#: includes/admin/views/html-notice-theme-support.php:5
+msgid "<strong>Your theme does not declare SportsPress support</strong> &#8211; if you encounter layout issues please read our integration guide or choose a SportsPress theme :)"
+msgstr "<strong>あなたのテーマはSportsPressのサポートを宣言していません</strong> &#8211; あなたがレイアウトの問題に遭遇している場合は、我々の統合ガイドを読むか、SportsPressテーマを選んでください :)"
+
+#: includes/class-sp-ajax.php:74
+#: includes/widgets/class-sp-widget-countdown.php:107
+#: modules/sportspress-calendars.php:340
+msgid "Display venue"
+msgstr "会場を表示"
+
+#: includes/class-sp-ajax.php:80
+#: includes/widgets/class-sp-widget-countdown.php:110
+#: modules/sportspress-calendars.php:324
+msgid "Display competition"
+msgstr "コンペティションを表示する"
+
+#: includes/class-sp-ajax.php:85 includes/class-sp-ajax.php:115
+#: includes/class-sp-ajax.php:145 includes/class-sp-ajax.php:175
+#: includes/class-sp-ajax.php:280 includes/class-sp-ajax.php:437
+#: includes/class-sp-ajax.php:575 includes/class-sp-ajax.php:648
+#: includes/class-sp-ajax.php:678 includes/class-sp-ajax.php:708
+#: includes/class-sp-ajax.php:805 includes/class-sp-ajax.php:883
+msgid "Insert Shortcode"
+msgstr "ショートコードを挿入する"
+
+#: includes/class-sp-ajax.php:262 includes/class-sp-ajax.php:373
+#: includes/class-sp-ajax.php:530
+#: includes/widgets/class-sp-widget-event-blocks.php:104
+#: includes/widgets/class-sp-widget-event-calendar.php:92
+#: includes/widgets/class-sp-widget-event-list.php:107
+msgid "Status:"
+msgstr "ステータス:"
+
+#: includes/class-sp-ajax.php:274 includes/class-sp-ajax.php:432
+#: includes/class-sp-ajax.php:570
+#: includes/widgets/class-sp-widget-event-blocks.php:148
+#: includes/widgets/class-sp-widget-event-calendar.php:126
+#: includes/widgets/class-sp-widget-event-list.php:168
+msgid "Display link to view all events"
+msgstr "「日程表を表示」リンクを表示する"
+
+#: includes/class-sp-ajax.php:297 includes/class-sp-ajax.php:454
+#: includes/class-sp-ajax.php:592 includes/class-sp-ajax.php:725
+#: includes/class-sp-ajax.php:822
+#: includes/widgets/class-sp-widget-birthdays.php:55
+#: includes/widgets/class-sp-widget-countdown.php:63
+#: includes/widgets/class-sp-widget-event-blocks.php:81
+#: includes/widgets/class-sp-widget-event-calendar.php:72
+#: includes/widgets/class-sp-widget-event-list.php:84
+#: includes/widgets/class-sp-widget-league-table.php:73
+#: includes/widgets/class-sp-widget-player-gallery.php:78
+#: includes/widgets/class-sp-widget-player-list.php:78
+#: includes/widgets/class-sp-widget-staff.php:54
+msgid "Title:"
+msgstr "タイトル:"
+
+#: includes/class-sp-ajax.php:385 includes/class-sp-ajax.php:542
+#: includes/widgets/class-sp-widget-event-blocks.php:118
+#: includes/widgets/class-sp-widget-event-calendar.php:106
+#: includes/widgets/class-sp-widget-event-list.php:121
+msgid "Date:"
+msgstr "日付:"
+
+#: includes/class-sp-ajax.php:389 includes/class-sp-ajax.php:546
+#: includes/sp-core-functions.php:555
+msgid "This week"
+msgstr "今週"
+
+#: includes/class-sp-ajax.php:390 includes/class-sp-ajax.php:547
+#: includes/sp-core-functions.php:556
+#: includes/widgets/class-sp-widget-birthdays.php:48
+msgid "Today"
+msgstr "今日"
+
+#: includes/class-sp-ajax.php:396 includes/class-sp-ajax.php:553
+#: includes/widgets/class-sp-widget-event-blocks.php:137
+#: includes/widgets/class-sp-widget-event-list.php:140
+msgid "Number of events to show:"
+msgstr "表示する試合の数:"
+
+#: includes/class-sp-ajax.php:402 includes/class-sp-ajax.php:559
+#: includes/class-sp-ajax.php:789 includes/class-sp-ajax.php:867
+#: includes/widgets/class-sp-widget-event-blocks.php:140
+#: includes/widgets/class-sp-widget-event-list.php:143
+#: includes/widgets/class-sp-widget-player-gallery.php:131
+#: includes/widgets/class-sp-widget-player-list.php:156
+msgid "Sort Order:"
+msgstr "ソート順:"
+
+#: includes/class-sp-ajax.php:411 includes/class-sp-ajax.php:616
+#: includes/class-sp-ajax.php:749
+#: includes/widgets/class-sp-widget-event-list.php:151
+#: includes/widgets/class-sp-widget-league-table.php:100
+#: includes/widgets/class-sp-widget-player-gallery.php:103
+msgid "Columns:"
+msgstr "列:"
+
+#: includes/class-sp-ajax.php:611
+#: includes/widgets/class-sp-widget-league-table.php:96
+msgid "Number of teams to show:"
+msgstr "表示するチームの数:"
+
+#: includes/class-sp-ajax.php:637
+#: includes/widgets/class-sp-widget-league-table.php:120
+#: modules/sportspress-calendars.php:247 modules/sportspress-calendars.php:316
+#: modules/sportspress-countdowns.php:86
+#: modules/sportspress-league-tables.php:232
+msgid "Display logos"
+msgstr "ロゴを表示"
+
+#: includes/class-sp-ajax.php:643
+#: includes/widgets/class-sp-widget-league-table.php:123
+msgid "Display link to view full table"
+msgstr "「順位表を表示」リンクを表示する"
+
+#: includes/class-sp-ajax.php:744 includes/class-sp-ajax.php:841
+#: includes/widgets/class-sp-widget-player-gallery.php:100
+#: includes/widgets/class-sp-widget-player-list.php:100
+msgid "Number of players to show:"
+msgstr "表示する選手の数:"
+
+#: includes/class-sp-ajax.php:769 includes/class-sp-ajax.php:847
+#: includes/widgets/class-sp-widget-player-gallery.php:106
+#: includes/widgets/class-sp-widget-player-list.php:134
+msgid "Sort by:"
+msgstr "並び順:"
+
+#: includes/class-sp-ajax.php:800 includes/class-sp-ajax.php:878
+#: includes/widgets/class-sp-widget-player-gallery.php:138
+#: includes/widgets/class-sp-widget-player-list.php:163
+msgid "Display link to view all players"
+msgstr "「すべての選手を表示」リンクを表示する"
+
+#: includes/class-sp-countries.php:32
+msgid "Africa"
+msgstr "アフリカ"
+
+#: includes/class-sp-countries.php:88
+msgid "Asia"
+msgstr "アジア"
+
+#: includes/class-sp-countries.php:138
+msgid "Europe"
+msgstr "ヨーロッパ"
+
+#: includes/class-sp-countries.php:194
+msgid "North America"
+msgstr "北アメリカ"
+
+#: includes/class-sp-countries.php:229
+msgid "Oceania"
+msgstr "オセアニア"
+
+#: includes/class-sp-countries.php:252
+msgid "South America"
+msgstr "南アメリカ"
+
+#: includes/class-sp-countries.php:270
+msgid "Afghanistan"
+msgstr "アフガニスタン"
+
+#: includes/class-sp-countries.php:271
+msgid "Anguilla"
+msgstr "アングィラ"
+
+#: includes/class-sp-countries.php:272
+msgid "Albania"
+msgstr "アルバニア"
+
+#: includes/class-sp-countries.php:273
+msgid "Algeria"
+msgstr "アルジェリア"
+
+#: includes/class-sp-countries.php:274
+msgid "Andorra"
+msgstr "アンドラ"
+
+#: includes/class-sp-countries.php:275
+msgid "Angola"
+msgstr "アンゴラ"
+
+#: includes/class-sp-countries.php:276
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+#: includes/class-sp-countries.php:277
+msgid "Armenia"
+msgstr "アルメリア"
+
+#: includes/class-sp-countries.php:278
+msgid "Aruba"
+msgstr "アルバ"
+
+#: includes/class-sp-countries.php:279
+msgid "American Samoa"
+msgstr "アメリカ領サモア"
+
+#: includes/class-sp-countries.php:280
+msgid "Antigua and Barbuda"
+msgstr "アンチグアバーブーダ"
+
+#: includes/class-sp-countries.php:281
+msgid "Australia"
+msgstr "オーストラリア"
+
+#: includes/class-sp-countries.php:282
+msgid "Austria"
+msgstr "オーストリア"
+
+#: includes/class-sp-countries.php:283
+msgid "Azerbaijan"
+msgstr "アゼルバイジャン"
+
+#: includes/class-sp-countries.php:284
+msgid "Bahamas"
+msgstr "バハマ"
+
+#: includes/class-sp-countries.php:285
+msgid "Bangladesh"
+msgstr "バングラデシュ"
+
+#: includes/class-sp-countries.php:286
+msgid "Burundi"
+msgstr "ブルンジ"
+
+#: includes/class-sp-countries.php:287
+msgid "Belgium"
+msgstr "ベルギー"
+
+#: includes/class-sp-countries.php:288
+msgid "Benin"
+msgstr "ベナン"
+
+#: includes/class-sp-countries.php:289
+msgid "Bermuda"
+msgstr "バミューダ"
+
+#: includes/class-sp-countries.php:290
+msgid "Burkina Faso"
+msgstr "ブルキナファソ"
+
+#: includes/class-sp-countries.php:291
+msgid "Bahrain"
+msgstr "バーレーン"
+
+#: includes/class-sp-countries.php:292
+msgid "Bhutan"
+msgstr "ブータン"
+
+#: includes/class-sp-countries.php:293
+msgid "Bosnia and Herzegovina"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+#: includes/class-sp-countries.php:294
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+#: includes/class-sp-countries.php:295
+msgid "Belize"
+msgstr "ベリーズ"
+
+#: includes/class-sp-countries.php:296
+msgid "Bolivia"
+msgstr "ボリビア"
+
+#: includes/class-sp-countries.php:297
+msgid "Botswana"
+msgstr "ボツワナ"
+
+#: includes/class-sp-countries.php:298
+msgid "Brazil"
+msgstr "ブラジル"
+
+#: includes/class-sp-countries.php:299
+msgid "Barbados"
+msgstr "バルバドス"
+
+#: includes/class-sp-countries.php:300
+msgid "Brunei"
+msgstr "ブルネイ"
+
+#: includes/class-sp-countries.php:301
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+#: includes/class-sp-countries.php:302
+msgid "Cambodia"
+msgstr "カンボジア"
+
+#: includes/class-sp-countries.php:303
+msgid "Canada"
+msgstr "カナダ"
+
+#: includes/class-sp-countries.php:304
+msgid "Cayman Islands"
+msgstr "ケイマン諸島"
+
+#: includes/class-sp-countries.php:305
+msgid "Republic of the Congo"
+msgstr "コンゴ共和国"
+
+#: includes/class-sp-countries.php:306
+msgid "Chad"
+msgstr "チャド"
+
+#: includes/class-sp-countries.php:307
+msgid "Chile"
+msgstr "チリ"
+
+#: includes/class-sp-countries.php:308
+msgid "China"
+msgstr "中国"
+
+#: includes/class-sp-countries.php:309
+msgid "Ivory Coast"
+msgstr "コートジボワール"
+
+#: includes/class-sp-countries.php:310
+msgid "Cameroon"
+msgstr "カメルーン"
+
+#: includes/class-sp-countries.php:311
+msgid "Democratic Republic of the Congo"
+msgstr "コンゴ民主共和国"
+
+#: includes/class-sp-countries.php:312
+msgid "Cook Islands"
+msgstr "クック諸島"
+
+#: includes/class-sp-countries.php:313
+msgid "Colombia"
+msgstr "コロンビア"
+
+#: includes/class-sp-countries.php:314
+msgid "Comoros"
+msgstr "コモロ"
+
+#: includes/class-sp-countries.php:315
+msgid "Cape Verde"
+msgstr "カーボヴェルデ"
+
+#: includes/class-sp-countries.php:316
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+#: includes/class-sp-countries.php:317
+msgid "Croatia"
+msgstr "クロアチア"
+
+#: includes/class-sp-countries.php:318
+msgid "Central African Republic"
+msgstr "中央アフリカ共和国"
+
+#: includes/class-sp-countries.php:319
+msgid "Cuba"
+msgstr "キューバ"
+
+#: includes/class-sp-countries.php:320
+msgid "Curacao"
+msgstr "キュラソー島"
+
+#: includes/class-sp-countries.php:321
+msgid "Cyprus"
+msgstr "キプロス"
+
+#: includes/class-sp-countries.php:322
+msgid "Czech Republic"
+msgstr "チェコ共和国"
+
+#: includes/class-sp-countries.php:323
+msgid "Denmark"
+msgstr "デンマーク"
+
+#: includes/class-sp-countries.php:324
+msgid "Djibouti"
+msgstr "ジブチ"
+
+#: includes/class-sp-countries.php:325
+msgid "Dominica"
+msgstr "ドミニカ"
+
+#: includes/class-sp-countries.php:326
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+#: includes/class-sp-countries.php:327
+msgid "Ecuador"
+msgstr "エクアドル"
+
+#: includes/class-sp-countries.php:328
+msgid "Egypt"
+msgstr "エジプト"
+
+#: includes/class-sp-countries.php:329
+msgid "England"
+msgstr "イングランド"
+
+#: includes/class-sp-countries.php:330
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア共和国"
+
+#: includes/class-sp-countries.php:331
+msgid "Eritrea"
+msgstr "エリトリア"
+
+#: includes/class-sp-countries.php:332
+msgid "Western Sahara"
+msgstr "西サハラ"
+
+#: includes/class-sp-countries.php:333
+msgid "Spain"
+msgstr "スペイン"
+
+#: includes/class-sp-countries.php:334
+msgid "Estonia"
+msgstr "エストニア"
+
+#: includes/class-sp-countries.php:335
+msgid "Ethiopia"
+msgstr "エチオピア"
+
+#: includes/class-sp-countries.php:336
+msgid "Fiji"
+msgstr "フィジー"
+
+#: includes/class-sp-countries.php:337
+msgid "Finland"
+msgstr "フィンランド"
+
+#: includes/class-sp-countries.php:338
+msgid "France"
+msgstr "フランス"
+
+#: includes/class-sp-countries.php:339
+msgid "Faroe Islands"
+msgstr "フェロー諸島"
+
+#: includes/class-sp-countries.php:340
+msgid "Micronesia"
+msgstr "ミクロネシア"
+
+#: includes/class-sp-countries.php:341
+msgid "Gabon"
+msgstr "ガボン"
+
+#: includes/class-sp-countries.php:342
+msgid "Gambia"
+msgstr "ガンビア"
+
+#: includes/class-sp-countries.php:343
+msgid "United Kingdom"
+msgstr "イギリス"
+
+#: includes/class-sp-countries.php:344
+msgid "Georgia"
+msgstr "ジョージア"
+
+#: includes/class-sp-countries.php:345
+msgid "Germany"
+msgstr "ドイツ"
+
+#: includes/class-sp-countries.php:346
+msgid "Ghana"
+msgstr "ガーナ"
+
+#: includes/class-sp-countries.php:347
+msgid "Guinea-Bissau"
+msgstr "ギニアビサウ"
+
+#: includes/class-sp-countries.php:348
+msgid "Greece"
+msgstr "ギリシャ"
+
+#: includes/class-sp-countries.php:349
+msgid "Grenada"
+msgstr "グレナダ"
+
+#: includes/class-sp-countries.php:350
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+#: includes/class-sp-countries.php:351
+msgid "Guinea"
+msgstr "ギニア"
+
+#: includes/class-sp-countries.php:352
+msgid "Guam"
+msgstr "グアム"
+
+#: includes/class-sp-countries.php:353
+msgid "Guyana"
+msgstr "ガイアナ"
+
+#: includes/class-sp-countries.php:354
+msgid "Haiti"
+msgstr "ハイチ"
+
+#: includes/class-sp-countries.php:355
+msgid "Hong Kong"
+msgstr "香港"
+
+#: includes/class-sp-countries.php:356
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+#: includes/class-sp-countries.php:357
+msgid "Hungary"
+msgstr "ハンガリー"
+
+#: includes/class-sp-countries.php:358
+msgid "Indonesia"
+msgstr "インドネシア"
+
+#: includes/class-sp-countries.php:359
+msgid "India"
+msgstr "インド"
+
+#: includes/class-sp-countries.php:360
+msgid "Ireland"
+msgstr "アイルランド"
+
+#: includes/class-sp-countries.php:361
+msgid "Iran"
+msgstr "イラン"
+
+#: includes/class-sp-countries.php:362
+msgid "Iraq"
+msgstr "イラク"
+
+#: includes/class-sp-countries.php:363
+msgid "Iceland"
+msgstr "アイスランド"
+
+#: includes/class-sp-countries.php:364
+msgid "Israel"
+msgstr "イスラエル"
+
+#: includes/class-sp-countries.php:365
+msgid "Italy"
+msgstr "イタリア"
+
+#: includes/class-sp-countries.php:366
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+#: includes/class-sp-countries.php:367
+msgid "Jordan"
+msgstr "ヨルダン"
+
+#: includes/class-sp-countries.php:368
+msgid "Japan"
+msgstr "日本"
+
+#: includes/class-sp-countries.php:369
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+#: includes/class-sp-countries.php:370
+msgid "Kenya"
+msgstr "ケニア"
+
+#: includes/class-sp-countries.php:371
+msgid "Kosovo"
+msgstr "コソボ"
+
+#: includes/class-sp-countries.php:372
+msgid "Kyrgyzstan"
+msgstr "キルギスタン"
+
+#: includes/class-sp-countries.php:373
+msgid "Kiribati"
+msgstr "キリバス"
+
+#: includes/class-sp-countries.php:374
+msgid "South Korea"
+msgstr "韓国"
+
+#: includes/class-sp-countries.php:375
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+#: includes/class-sp-countries.php:376
+msgid "Kuwait"
+msgstr "クウェート"
+
+#: includes/class-sp-countries.php:377
+msgid "Laos"
+msgstr "ラオス"
+
+#: includes/class-sp-countries.php:378
+msgid "Liberia"
+msgstr "リベリア"
+
+#: includes/class-sp-countries.php:379
+msgid "Libya"
+msgstr "リビア"
+
+#: includes/class-sp-countries.php:380
+msgid "Saint Lucia"
+msgstr "セントルシア"
+
+#: includes/class-sp-countries.php:381
+msgid "Lesotho"
+msgstr "レソト"
+
+#: includes/class-sp-countries.php:382
+msgid "Lebanon"
+msgstr "レバノン"
+
+#: includes/class-sp-countries.php:383
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+#: includes/class-sp-countries.php:384
+msgid "Lithuania"
+msgstr "リトアニア"
+
+#: includes/class-sp-countries.php:385
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+#: includes/class-sp-countries.php:386
+msgid "Latvia"
+msgstr "ラトビア"
+
+#: includes/class-sp-countries.php:387
+msgid "Macau"
+msgstr "マカオ"
+
+#: includes/class-sp-countries.php:388
+msgid "Madagascar"
+msgstr "マダガスカル"
+
+#: includes/class-sp-countries.php:389
+msgid "Morocco"
+msgstr "モロッコ"
+
+#: includes/class-sp-countries.php:390
+msgid "Malaysia"
+msgstr "マレーシア"
+
+#: includes/class-sp-countries.php:391
+msgid "Monaco"
+msgstr "モナコ"
+
+#: includes/class-sp-countries.php:392
+msgid "Moldova"
+msgstr "モルドバ"
+
+#: includes/class-sp-countries.php:393
+msgid "Maldives"
+msgstr "モルディブ"
+
+#: includes/class-sp-countries.php:394
+msgid "Mexico"
+msgstr "メキシコ"
+
+#: includes/class-sp-countries.php:395
+msgid "Marshall Islands"
+msgstr "マーシャル諸島"
+
+#: includes/class-sp-countries.php:396
+msgid "Macedonia"
+msgstr "マケドニア"
+
+#: includes/class-sp-countries.php:397
+msgid "Mali"
+msgstr "マリ"
+
+#: includes/class-sp-countries.php:398
+msgid "Malta"
+msgstr "マルタ"
+
+#: includes/class-sp-countries.php:399
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+#: includes/class-sp-countries.php:400
+msgid "Mongolia"
+msgstr "モンゴル"
+
+#: includes/class-sp-countries.php:401
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+#: includes/class-sp-countries.php:402
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+#: includes/class-sp-countries.php:403
+msgid "Montserrat"
+msgstr "モントセラト"
+
+#: includes/class-sp-countries.php:404
+msgid "Mauritania"
+msgstr "モーリタニア"
+
+#: includes/class-sp-countries.php:405
+msgid "Malawi"
+msgstr "マラウイ"
+
+#: includes/class-sp-countries.php:406
+msgid "Burma"
+msgstr "ミャンマー"
+
+#: includes/class-sp-countries.php:407
+msgid "Namibia"
+msgstr "ナミビア"
+
+#: includes/class-sp-countries.php:408
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+#: includes/class-sp-countries.php:409
+msgid "New Caledonia"
+msgstr "ニューカレドニア"
+
+#: includes/class-sp-countries.php:410
+msgid "Netherlands"
+msgstr "オランダ"
+
+#: includes/class-sp-countries.php:411
+msgid "Nepal"
+msgstr "ネパール"
+
+#: includes/class-sp-countries.php:412
+msgid "Nigeria"
+msgstr "ナイジェリア"
+
+#: includes/class-sp-countries.php:413
+msgid "Niger"
+msgstr "ニジェール"
+
+#: includes/class-sp-countries.php:414
+msgid "Northern Ireland"
+msgstr "北アイルランド"
+
+#: includes/class-sp-countries.php:415
+msgid "Norway"
+msgstr "ノルウェー"
+
+#: includes/class-sp-countries.php:416
+msgid "Nauru"
+msgstr "ナウル"
+
+#: includes/class-sp-countries.php:417
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+#: includes/class-sp-countries.php:418
+msgid "Oman"
+msgstr "オマーン"
+
+#: includes/class-sp-countries.php:419
+msgid "Pakistan"
+msgstr "パキスタン"
+
+#: includes/class-sp-countries.php:420
+msgid "Panama"
+msgstr "パナマ"
+
+#: includes/class-sp-countries.php:421
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+#: includes/class-sp-countries.php:422
+msgid "Peru"
+msgstr "ペルー"
+
+#: includes/class-sp-countries.php:423
+msgid "Philippines"
+msgstr "フィリピン"
+
+#: includes/class-sp-countries.php:424
+msgid "Palestine"
+msgstr "パレスチナ"
+
+#: includes/class-sp-countries.php:425
+msgid "Palau"
+msgstr "パラオ"
+
+#: includes/class-sp-countries.php:426
+msgid "Papua New Guinea"
+msgstr "パプアニューギニア"
+
+#: includes/class-sp-countries.php:427
+msgid "Poland"
+msgstr "ポーランド"
+
+#: includes/class-sp-countries.php:428
+msgid "Portugal"
+msgstr "ポルトガル"
+
+#: includes/class-sp-countries.php:429
+msgid "North Korea"
+msgstr "北朝鮮"
+
+#: includes/class-sp-countries.php:430
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+#: includes/class-sp-countries.php:431
+msgid "Qatar"
+msgstr "カタール"
+
+#: includes/class-sp-countries.php:432
+msgid "Romania"
+msgstr "ルーマニア"
+
+#: includes/class-sp-countries.php:433
+msgid "South Africa"
+msgstr "南アフリカ"
+
+#: includes/class-sp-countries.php:434
+msgid "Russia"
+msgstr "ロシア"
+
+#: includes/class-sp-countries.php:435
+msgid "Rwanda"
+msgstr "ルワンダ"
+
+#: includes/class-sp-countries.php:436
+msgid "Samoa"
+msgstr "サモア"
+
+#: includes/class-sp-countries.php:437
+msgid "Scotland"
+msgstr "スコットランド"
+
+#: includes/class-sp-countries.php:438
+msgid "Sudan"
+msgstr "スーダン"
+
+#: includes/class-sp-countries.php:439
+msgid "Senegal"
+msgstr "セネガル"
+
+#: includes/class-sp-countries.php:440
+msgid "Seychelles"
+msgstr "セイシェル"
+
+#: includes/class-sp-countries.php:441
+msgid "Singapore"
+msgstr "シンガポール"
+
+#: includes/class-sp-countries.php:442
+msgid "Saint Kitts and Nevis"
+msgstr "セントクリストファー・ネイビス"
+
+#: includes/class-sp-countries.php:443
+msgid "Sierra Leone"
+msgstr "シエラレオネ"
+
+#: includes/class-sp-countries.php:444
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+#: includes/class-sp-countries.php:445
+msgid "San Marino"
+msgstr "サモア"
+
+#: includes/class-sp-countries.php:446
+msgid "Solomon Islands"
+msgstr "ソロモン諸島"
+
+#: includes/class-sp-countries.php:447
+msgid "Somalia"
+msgstr "ソマリア"
+
+#: includes/class-sp-countries.php:448
+msgid "Serbia"
+msgstr "セルビア"
+
+#: includes/class-sp-countries.php:449
+msgid "Sri Lanka"
+msgstr "スリランカ"
+
+#: includes/class-sp-countries.php:450
+msgid "South Sudan"
+msgstr "南スーダン"
+
+#: includes/class-sp-countries.php:451
+msgid "Sao Tome and Principe"
+msgstr "サントメ・プリンシペ"
+
+#: includes/class-sp-countries.php:452
+msgid "Switzerland"
+msgstr "スイス"
+
+#: includes/class-sp-countries.php:453
+msgid "Suriname"
+msgstr "スリナム"
+
+#: includes/class-sp-countries.php:454
+msgid "Slovakia"
+msgstr "スロバキア"
+
+#: includes/class-sp-countries.php:455
+msgid "Slovenia"
+msgstr "スロベニア"
+
+#: includes/class-sp-countries.php:456
+msgid "Sweden"
+msgstr "スウェーデン"
+
+#: includes/class-sp-countries.php:457
+msgid "Swaziland"
+msgstr "スワジランド"
+
+#: includes/class-sp-countries.php:458
+msgid "Syria"
+msgstr "シリア"
+
+#: includes/class-sp-countries.php:459
+msgid "Tahiti"
+msgstr "タヒチ島"
+
+#: includes/class-sp-countries.php:460
+msgid "Tanzania"
+msgstr "タンザニア"
+
+#: includes/class-sp-countries.php:461
+msgid "Turks and Caicos Islands"
+msgstr "タークス·カイコス諸島"
+
+#: includes/class-sp-countries.php:462
+msgid "Tonga"
+msgstr "トンガ"
+
+#: includes/class-sp-countries.php:463
+msgid "Thailand"
+msgstr "タイ"
+
+#: includes/class-sp-countries.php:464
+msgid "Tajikistan"
+msgstr "タジキスタン"
+
+#: includes/class-sp-countries.php:465
+msgid "Turkmenistan"
+msgstr "トルクメニスタン"
+
+#: includes/class-sp-countries.php:466
+msgid "East Timor"
+msgstr "東ティモール"
+
+#: includes/class-sp-countries.php:467
+msgid "Togo"
+msgstr "トーゴ"
+
+#: includes/class-sp-countries.php:468
+msgid "Taiwan"
+msgstr "台湾"
+
+#: includes/class-sp-countries.php:469
+msgid "Trinidad and Tobago"
+msgstr "トリニダード・トバゴ"
+
+#: includes/class-sp-countries.php:470
+msgid "Tunisia"
+msgstr "チュニジア"
+
+#: includes/class-sp-countries.php:471
+msgid "Turkey"
+msgstr "トルコ"
+
+#: includes/class-sp-countries.php:472
+msgid "Tuvalu"
+msgstr "ツバル"
+
+#: includes/class-sp-countries.php:473
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+#: includes/class-sp-countries.php:474
+msgid "Uganda"
+msgstr "ウガンダ"
+
+#: includes/class-sp-countries.php:475
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+#: includes/class-sp-countries.php:476
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+#: includes/class-sp-countries.php:477
+msgid "United States"
+msgstr "アメリカ合衆国"
+
+#: includes/class-sp-countries.php:478
+msgid "Uzbekistan"
+msgstr "ウズベキスタン"
+
+#: includes/class-sp-countries.php:479
+msgid "Vanuatu"
+msgstr "バヌアツ"
+
+#: includes/class-sp-countries.php:480
+msgid "Vatican City"
+msgstr "バチカン市国"
+
+#: includes/class-sp-countries.php:481
+msgid "Venezuela"
+msgstr "ベネズエラ"
+
+#: includes/class-sp-countries.php:482
+msgid "British Virgin Islands"
+msgstr "英領ヴァージン諸島"
+
+#: includes/class-sp-countries.php:483
+msgid "Vietnam"
+msgstr "ベトナム"
+
+#: includes/class-sp-countries.php:484
+msgid "Saint Vincent and the Grenadines"
+msgstr "セントビンセントおよびグレナディーン諸島"
+
+#: includes/class-sp-countries.php:485
+msgid "US Virgin Islands"
+msgstr "米領バージン諸島"
+
+#: includes/class-sp-countries.php:486
+msgid "Wales"
+msgstr "ウェールズ"
+
+#: includes/class-sp-countries.php:488
+msgid "Yemen"
+msgstr "イエメン"
+
+#: includes/class-sp-countries.php:489
+msgid "Zambia"
+msgstr "ザンビア"
+
+#: includes/class-sp-countries.php:490
+msgid "Zimbabwe"
+msgstr "ジンバブエ"
+
+#: includes/class-sp-feeds.php:27
+msgid "Apple Calendar"
+msgstr "Apple カレンダー"
+
+#: includes/class-sp-feeds.php:31
+msgid "Outlook"
+msgstr "Outlook"
+
+#: includes/class-sp-feeds.php:35
+msgid "Google"
+msgstr "Google"
+
+#: includes/class-sp-frontend-scripts.php:79
+msgid "Previous"
+msgstr "前"
+
+#: includes/class-sp-frontend-scripts.php:79
+msgid "Next"
+msgstr "次"
+
+#: includes/class-sp-install.php:223
+msgid "Event Manager"
+msgstr "試合マネージャー"
+
+#: includes/class-sp-install.php:270
+msgid "Team Manager"
+msgstr "チームマネージャー"
+
+#: includes/class-sp-install.php:340
+msgid "League Manager"
+msgstr "リーグマネージャー"
+
+#: includes/class-sp-install.php:556
+msgid "What's new:"
+msgstr "新着情報:"
+
+#: includes/class-sp-league-table.php:576 includes/sp-core-functions.php:1348
+#: modules/sportspress-league-tables.php:260 templates/league-table.php:65
+msgid "Pos"
+msgstr "Pos"
+
+#: includes/class-sp-modules.php:30
+msgid "Organize and publish calendars using different layouts."
+msgstr "予約した試合を管理し、様々なレイアウトで試合日程を表示するモジュール。"
+
+#: includes/class-sp-modules.php:40
+msgid "Match Stats"
+msgstr "試合統計"
+
+#: includes/class-sp-modules.php:44
+msgid "Display head-to-head team comparison charts in events."
+msgstr "試合ページにチームの打つかり統計を表示するモジュール。"
+
+#: includes/class-sp-modules.php:47
+msgid "Tournaments"
+msgstr "トーナメント"
+
+#: includes/admin/importers/class-sp-event-importer.php:31
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-results.php:258
+#: includes/admin/settings/class-sp-settings-events.php:267
+#: includes/api/class-sp-rest-api.php:96 includes/class-sp-event.php:56
+#: includes/class-sp-event.php:77 includes/class-sp-post-types.php:249
+#: includes/sp-core-functions.php:1345
+msgid "Outcome"
+msgstr "勝敗"
+
+#: includes/admin/importers/class-sp-event-importer.php:430
+msgid "Import complete - imported <strong>%s</strong> events and skipped <strong>%s</strong>."
+msgstr "完全なインポート - <strong>%s</strong>の試合をインポートし、<strong>%s</strong>をスキップ"
+
+#: includes/admin/importers/class-sp-event-importer.php:440
+#: includes/admin/importers/class-sp-player-importer.php:147
+#: includes/admin/importers/class-sp-staff-importer.php:143
+#: includes/admin/importers/class-sp-team-importer.php:112
+msgid "All done!"
+msgstr "完了！"
+
+#: includes/admin/importers/class-sp-event-importer.php:440
+msgid "View Events"
+msgstr "試合を表示"
+
+#: includes/admin/importers/class-sp-event-importer.php:453
+#: includes/admin/importers/class-sp-player-importer.php:170
+#: includes/admin/importers/class-sp-staff-importer.php:166
+#: includes/admin/importers/class-sp-team-importer.php:125
+msgid "Hi there! Choose a .csv file to upload, then click \"Upload file and import\"."
+msgstr "CSVファイルをアップロードして選手を登録する場合は「ファイルをアップロードしてインポート」をクリックし、アップロードするCSVファイルを選択して下さい。"
+
+#: includes/admin/importers/class-sp-event-importer.php:454
+msgid "Events need to be defined with columns in a specific order (3+ columns). <a href=\"%s\">Click here to download a sample</a>."
+msgstr "試合は、特定の列（3列+）で定義する必要があります。<a href=\"%s\">ここをクリックして、サンプルをダウンロード</a>"
+
+#: includes/admin/importers/class-sp-event-importer.php:470
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:117
+#: includes/admin/post-types/class-sp-admin-cpt-performance.php:47
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:113
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:59
+#: includes/admin/views/html-admin-config.php:177
+msgid "Format"
+msgstr "フォーマット"
+
+#: includes/admin/importers/class-sp-event-importer.php:474
+#: includes/class-sp-formats.php:27
+msgid "Competitive"
+msgstr "コンペティティブ"
+
+#: includes/admin/importers/class-sp-event-importer.php:475
+#: includes/class-sp-formats.php:28
+msgid "Friendly"
+msgstr "フレンドリー"
+
+#: includes/admin/importers/class-sp-event-importer.php:481
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:49
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:122
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:49
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:49
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:91
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:61
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:61
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:61
+#: includes/class-sp-ajax.php:417 includes/class-sp-post-types.php:38
+#: includes/sp-core-functions.php:1336 templates/event-list.php:142
+msgid "Competition"
+msgstr "コンペティション"
+
+#: includes/admin/importers/class-sp-event-importer.php:487
+#: includes/admin/importers/class-sp-event-importer.php:502
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-details.php:50
+msgid "&mdash; Not set &mdash;"
+msgstr "&mdash; 未設定 &mdash;"
+
+#: includes/admin/importers/class-sp-event-importer.php:496
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:50
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:123
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:50
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:50
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:97
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:94
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-columns.php:60
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:64
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:64
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:64
+#: includes/class-sp-ajax.php:418 includes/class-sp-player.php:583
+#: includes/class-sp-post-types.php:72 includes/sp-core-functions.php:1354
+#: templates/event-list.php:145
+msgid "Season"
+msgstr "シーズン"
+
+#: includes/admin/importers/class-sp-event-importer.php:512
+msgid "Date Format"
+msgstr "日付のフォーマット"
+
+#: includes/admin/importers/class-sp-importer.php:101
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-column-details.php:47
+msgid "Disable"
+msgstr "無効化"
+
+#: includes/admin/importers/class-sp-importer.php:146
+#: includes/admin/importers/class-sp-importer.php:160
+#: includes/admin/importers/class-sp-importer.php:171
+msgid "Insert row after"
+msgstr "行を挿入"
+
+#: includes/admin/importers/class-sp-importer.php:159
+msgid "Delete row"
+msgstr "行を削除"
+
+#: includes/admin/importers/class-sp-importer.php:186
+#: includes/admin/importers/class-sp-importer.php:222
+#: includes/admin/importers/class-sp-importer.php:237
+msgid "Sorry, there has been an error."
+msgstr "エラーがありました"
+
+#: includes/admin/importers/class-sp-importer.php:187
+msgid "The CSV is invalid."
+msgstr "CSV形式は無効です"
+
+#: includes/admin/importers/class-sp-player-importer.php:24
+#: includes/admin/importers/class-sp-player-importer.php:159
+msgid "Import Players"
+msgstr "選手をインポート"
+
+#: includes/admin/importers/class-sp-player-importer.php:26
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:64
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:32
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:72
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:70
+#: includes/api/class-sp-rest-api.php:302 includes/class-sp-ajax.php:774
+#: includes/class-sp-ajax.php:852
+#: includes/widgets/class-sp-widget-player-gallery.php:111
+#: includes/widgets/class-sp-widget-player-list.php:122
+#: includes/widgets/class-sp-widget-player-list.php:124
+#: includes/widgets/class-sp-widget-player-list.php:139
+msgid "Squad Number"
+msgstr "背番号"
+
+#: includes/admin/importers/class-sp-player-importer.php:27
+#: includes/admin/importers/class-sp-staff-importer.php:26
+#: includes/admin/importers/class-sp-team-importer.php:26
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:52
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:71
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:52
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:70
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:51
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:73
+#: includes/admin/settings/class-sp-settings-events.php:222
+#: includes/class-sp-ajax.php:775 includes/class-sp-ajax.php:853
+#: includes/class-sp-post-types.php:44 includes/class-sp-post-types.php:78
+#: includes/class-sp-post-types.php:112 includes/class-sp-post-types.php:146
+#: includes/class-sp-post-types.php:180
+#: includes/widgets/class-sp-widget-player-gallery.php:112
+#: includes/widgets/class-sp-widget-player-list.php:140
+msgid "Name"
+msgstr "名前"
+
+#: includes/admin/importers/class-sp-player-importer.php:32
+#: includes/admin/importers/class-sp-staff-importer.php:31
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:73
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:74
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:80
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:81
+#: includes/admin/settings/class-sp-settings-players.php:61
+#: includes/admin/settings/class-sp-settings-players.php:140
+#: includes/admin/settings/class-sp-settings-staff.php:61
+#: includes/admin/settings/class-sp-settings-staff.php:85
+#: includes/sp-core-functions.php:1343 templates/player-details.php:50
+#: templates/staff-details.php:47
+msgid "Nationality"
+msgstr "国籍"
+
+#: includes/admin/importers/class-sp-player-importer.php:137
+msgid "Import complete - imported <strong>%s</strong> players and skipped <strong>%s</strong>."
+msgstr "完全なインポート - <strong>%s</strong>の選手をインポートし、<strong>%s</strong>をスキップ"
+
+#: includes/admin/importers/class-sp-player-importer.php:147
+msgid "View Players"
+msgstr "選手を表示"
+
+#: includes/admin/importers/class-sp-player-importer.php:171
+msgid "Players need to be defined with columns in a specific order (7 columns). <a href=\"%s\">Click here to download a sample</a>."
+msgstr "選手は、特定の列（7列）で定義する必要があります。<a href=\"%s\">ここをクリックして、サンプルをダウンロード</a>"
+
+#: includes/admin/importers/class-sp-staff-importer.php:24
+#: includes/admin/importers/class-sp-staff-importer.php:155
+msgid "Import Staff"
+msgstr "スタッフをインポート"
+
+#: includes/admin/importers/class-sp-staff-importer.php:27
+#: includes/class-sp-post-types.php:173 includes/class-sp-post-types.php:187
+#: modules/sportspress-tutorials.php:66
+msgid "Jobs"
+msgstr "役割"
+
+#: includes/admin/importers/class-sp-staff-importer.php:133
+msgid "Import complete - imported <strong>%s</strong> staff and skipped <strong>%s</strong>."
+msgstr "完全なインポート - <strong>%s</strong>のスタッフをインポートし、<strong>%s</strong>をスキップ"
+
+#: includes/admin/importers/class-sp-staff-importer.php:143
+#: includes/class-sp-post-types.php:506
+msgid "View Staff"
+msgstr "スタッフを表示"
+
+#: includes/admin/importers/class-sp-staff-importer.php:167
+msgid "Staff need to be defined with columns in a specific order (6 columns). <a href=\"%s\">Click here to download a sample</a>."
+msgstr "スタッフは、特定の列（6列）で定義する必要があります。<a href=\"%s\">ここをクリックして、サンプルをダウンロード</a>"
+
+#: includes/admin/importers/class-sp-team-importer.php:24
+msgid "Import Teams"
+msgstr "チームをインポート"
+
+#: includes/admin/importers/class-sp-team-importer.php:29
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:109
+#: includes/admin/settings/class-sp-settings-status.php:60
+#: includes/admin/views/html-admin-page-status.php:24
+#: includes/api/class-sp-rest-api.php:286
+msgid "Site URL"
+msgstr "サイトURL"
+
+#: includes/admin/importers/class-sp-team-importer.php:30
+#: includes/admin/post-types/class-sp-admin-cpt-outcome.php:45
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:66
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:43
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:115
+#: includes/admin/settings/class-sp-settings-teams.php:69
+#: includes/admin/views/html-admin-config.php:32
+#: includes/api/class-sp-rest-api.php:270
+msgid "Abbreviation"
+msgstr "略語"
+
+#: includes/admin/importers/class-sp-team-importer.php:31
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:57
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:49
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:93
+#: modules/sportspress-calendars.php:261 templates/event-list.php:97
+#: templates/team-details.php:39 templates/team-details.php:45
+msgid "Home"
+msgstr "ホーム"
+
+#: includes/admin/importers/class-sp-team-importer.php:102
+msgid "Import complete - imported <strong>%s</strong> teams and skipped <strong>%s</strong>."
+msgstr "完全なインポート - <strong>%s</strong>のチームをインポートし、<strong>%s</strong>をスキップ"
+
+#: includes/admin/importers/class-sp-team-importer.php:112
+msgid "View Teams"
+msgstr "チームを表示"
+
+#: includes/admin/importers/class-sp-team-importer.php:126
+msgid "Teams need to be defined with columns in a specific order (3 columns). <a href=\"%s\">Click here to download a sample</a>."
+msgstr "チームは、特定の列（3列）で定義する必要があります。<a href=\"%s\">ここをクリックして、サンプルをダウンロード</a>"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:48
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:48
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:48
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:61
+#: modules/sportspress-calendars.php:238 modules/sportspress-calendars.php:259
+#: modules/sportspress-calendars.php:307
+#: modules/sportspress-league-tables.php:223
+#: modules/sportspress-player-lists.php:246
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:54
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:53
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:67
+#: includes/admin/settings/class-sp-settings-page.php:96
+#: modules/sportspress-calendars.php:143 modules/sportspress-calendars.php:189
+#: modules/sportspress-player-lists.php:143
+#: modules/sportspress-player-lists.php:191
+#: modules/sportspress-tutorials.php:96
+msgid "Layout"
+msgstr "レイアウト"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:66
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:69
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:72
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:78
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:74
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:77
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:83
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:81
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:50
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:52
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:48
+#: includes/admin/settings/class-sp-settings-events.php:374
+#: includes/class-sp-ajax.php:198 includes/class-sp-ajax.php:307
+#: includes/class-sp-ajax.php:388 includes/class-sp-ajax.php:464
+#: includes/class-sp-ajax.php:545 includes/class-sp-post-types.php:39
+#: includes/class-sp-post-types.php:73 includes/class-sp-post-types.php:107
+#: includes/class-sp-post-types.php:141 includes/class-sp-post-types.php:175
+#: includes/sp-core-functions.php:456 includes/sp-core-functions.php:457
+#: includes/sp-core-functions.php:459 includes/sp-core-functions.php:523
+#: includes/sp-core-functions.php:554 includes/sp-core-functions.php:1311
+#: includes/widgets/class-sp-widget-countdown.php:76
+#: includes/widgets/class-sp-widget-event-blocks.php:91
+#: includes/widgets/class-sp-widget-event-calendar.php:79
+#: includes/widgets/class-sp-widget-event-list.php:94
+#: modules/sportspress-overview.php:138
+msgid "All"
+msgstr "すべて"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:87
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:101
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:97
+#: includes/admin/settings/class-sp-settings-players.php:77
+#: includes/admin/settings/class-sp-settings-staff.php:69
+#: includes/sp-core-functions.php:1337 templates/player-details.php:70
+#: templates/staff-details.php:57
+msgid "Current Team"
+msgstr "現チーム"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:115
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:235
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:109
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:153
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:134
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:91
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:111
+msgid "Show all competitions"
+msgstr "すべてのコンペティションを表示"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:124
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:244
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:118
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:164
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:143
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:100
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:120
+msgid "Show all seasons"
+msgstr "すべてのシーズンを表示"
+
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:135
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:227
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:129
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:144
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:126
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:111
+msgid "Show all teams"
+msgstr "すべてのチームを表示"
+
+#: includes/admin/post-types/class-sp-admin-cpt-column.php:43
+#: includes/admin/post-types/class-sp-admin-cpt-metric.php:43
+#: includes/admin/post-types/class-sp-admin-cpt-outcome.php:43
+#: includes/admin/post-types/class-sp-admin-cpt-performance.php:44
+#: includes/admin/post-types/class-sp-admin-cpt-result.php:43
+#: includes/admin/post-types/class-sp-admin-cpt-statistic.php:43
+#: includes/admin/views/html-admin-config.php:30
+#: includes/admin/views/html-admin-config.php:89
+#: includes/admin/views/html-admin-config.php:174
+#: includes/admin/views/html-admin-config.php:274
+#: includes/admin/views/html-admin-config.php:328
+#: includes/admin/views/html-admin-config.php:381
+msgid "Label"
+msgstr "ラベル"
+
+#: includes/admin/post-types/class-sp-admin-cpt-column.php:44
+#: includes/admin/post-types/class-sp-admin-cpt-statistic.php:44
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-column-details.php:34
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:35
+#: includes/sp-template-hooks.php:174
+msgid "Key"
+msgstr "キー"
+
+#: includes/admin/post-types/class-sp-admin-cpt-column.php:45
+#: includes/admin/post-types/class-sp-admin-cpt-statistic.php:45
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:48
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:73
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:98
+#: includes/admin/views/html-admin-config.php:91
+#: includes/admin/views/html-admin-config.php:275
+#: includes/admin/views/html-admin-config.php:382
+msgid "Equation"
+msgstr "方程式"
+
+#: includes/admin/post-types/class-sp-admin-cpt-column.php:46
+#: includes/admin/post-types/class-sp-admin-cpt-statistic.php:46
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-column-details.php:39
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-result-details.php:39
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:40
+#: includes/admin/views/html-admin-config.php:92
+#: includes/admin/views/html-admin-config.php:276
+#: includes/admin/views/html-admin-config.php:383
+msgid "Decimal Places"
+msgstr "小数"
+
+#: includes/admin/post-types/class-sp-admin-cpt-column.php:47
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:88
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-column-details.php:43
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:83
+#: includes/admin/views/html-admin-config.php:277
+msgid "Sort Order"
+msgstr "ソート順"
+
+#: includes/admin/post-types/class-sp-admin-cpt-column.php:48
+#: includes/admin/post-types/class-sp-admin-cpt-metric.php:45
+#: includes/admin/post-types/class-sp-admin-cpt-outcome.php:46
+#: includes/admin/post-types/class-sp-admin-cpt-performance.php:48
+#: includes/admin/post-types/class-sp-admin-cpt-result.php:45
+#: includes/admin/post-types/class-sp-admin-cpt-statistic.php:47
+#: includes/admin/views/html-admin-config.php:34
+#: includes/admin/views/html-admin-config.php:93
+#: includes/admin/views/html-admin-config.php:184
+#: includes/admin/views/html-admin-config.php:278
+#: includes/admin/views/html-admin-config.php:330
+#: includes/admin/views/html-admin-config.php:391
+#: includes/class-sp-templates.php:89 includes/class-sp-templates.php:156
+#: includes/class-sp-templates.php:217 includes/sp-template-hooks.php:168
+msgid "Description"
+msgstr "説明"
+
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:58
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-details.php:54
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-results.php:275
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-results.php:293
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:130
+#: includes/class-sp-ajax.php:63 includes/class-sp-team.php:334
+#: includes/widgets/class-sp-widget-countdown.php:93
+#: modules/sportspress-tutorials.php:92
+msgid "(Auto)"
+msgstr "(自動)"
+
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:193
+msgid "Edit Results"
+msgstr "結果の編集"
+
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:195
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-video.php:33
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:102
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:88
+#: includes/class-sp-ajax.php:86 includes/class-sp-ajax.php:116
+#: includes/class-sp-ajax.php:146 includes/class-sp-ajax.php:176
+#: includes/class-sp-ajax.php:281 includes/class-sp-ajax.php:438
+#: includes/class-sp-ajax.php:576 includes/class-sp-ajax.php:649
+#: includes/class-sp-ajax.php:679 includes/class-sp-ajax.php:709
+#: includes/class-sp-ajax.php:806 includes/class-sp-ajax.php:884
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:196
+#: includes/class-sp-post-types.php:42 includes/class-sp-post-types.php:76
+#: includes/class-sp-post-types.php:110 includes/class-sp-post-types.php:144
+#: includes/class-sp-post-types.php:178
+#: includes/libraries/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "アップデート"
+
+#: includes/admin/post-types/class-sp-admin-cpt-metric.php:44
+#: includes/admin/post-types/class-sp-admin-cpt-outcome.php:44
+#: includes/admin/post-types/class-sp-admin-cpt-performance.php:45
+#: includes/admin/post-types/class-sp-admin-cpt-result.php:44
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-metric-details.php:27
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:38
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:43
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-result-details.php:34
+#: includes/admin/views/html-admin-config.php:31
+#: includes/admin/views/html-admin-config.php:175
+#: includes/admin/views/html-admin-config.php:329
+#: includes/sp-template-hooks.php:174
+msgid "Variable"
+msgstr "変数名"
+
+#: includes/admin/post-types/class-sp-admin-cpt-performance.php:43
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:291
+#: includes/admin/views/html-admin-config.php:172
+#: includes/sp-template-hooks.php:177
+msgid "Icon"
+msgstr "アイコン"
+
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:132
+msgid "Show all positions"
+msgstr "すべてのポジションを表示"
+
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:65
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:63
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:71
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:58
+#: includes/class-sp-post-types.php:174
+msgid "Job"
+msgstr "役割"
+
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:63
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:282
+#: includes/class-sp-templates.php:108 includes/sp-template-hooks.php:219
+#: modules/sportspress-tutorials.php:99
+msgid "Logo"
+msgstr "ロゴ"
+
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:65
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-video.php:31
+msgid "URL"
+msgstr "URL"
+
+#: includes/admin/post-types/class-sp-admin-cpt.php:42
+msgid "Insert into %s"
+msgstr "%sに挿入"
+
+#: includes/admin/post-types/class-sp-admin-cpt.php:43
+msgid "Uploaded to this %s"
+msgstr "%sのアップロードが完了しました。"
+
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:107
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:166
+#: modules/sportspress-tutorials.php:111
+msgid "Shortcodes"
+msgstr "ショートコード"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:109
+#: includes/class-sp-ajax.php:420 includes/class-sp-templates.php:44
+#: includes/sp-core-functions.php:1333
+#: includes/widgets/class-sp-widget-event-list.php:157
+#: templates/event-list.php:151
+msgid "Article"
+msgstr "戦評"
+
+#: includes/class-sp-templates.php:123 includes/class-sp-templates.php:196
+#: includes/class-sp-templates.php:257
+msgid "Profile"
+msgstr "プロフィール"
+
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:172
+#: includes/admin/settings/class-sp-settings-events.php:256
+#: includes/admin/settings/class-sp-settings-events.php:310
+#: includes/admin/settings/class-sp-settings-players.php:109
+#: modules/sportspress-player-lists.php:198
+msgid "Columns"
+msgstr "列"
+
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:186
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:56
+#: includes/api/class-sp-rest-api.php:382
+msgid "Metrics"
+msgstr "メトリック"
+
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:202
+#: modules/sportspress-calendars.php:177
+#: modules/sportspress-league-tables.php:177
+#: modules/sportspress-player-lists.php:185
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:285
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:288
+#: includes/class-sp-templates.php:175 includes/class-sp-templates.php:236
+#: includes/sp-template-hooks.php:202
+msgid "Photo"
+msgstr "写真"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:57
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:49
+#: modules/sportspress-calendars.php:261 templates/event-list.php:105
+msgid "Away"
+msgstr "アウェイ"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:74
+#: includes/sp-core-functions.php:1359
+#: includes/widgets/class-sp-widget-event-list.php:155
+#: templates/event-list.php:100 templates/event-list.php:137
+msgid "Time/Results"
+msgstr "試合時間・結果"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:202
+#: includes/class-sp-template-loader.php:101
+#: includes/sp-core-functions.php:1352 templates/event-list.php:366
+msgid "Recap"
+msgstr "結末"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:204
+#: includes/class-sp-template-loader.php:103
+#: includes/sp-core-functions.php:1350 templates/event-list.php:368
+msgid "Preview"
+msgstr "プレビュー"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:217
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:32
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:101
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:32
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:96
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:32
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:97
+#: includes/admin/views/html-admin-config.php:49
+#: includes/admin/views/html-admin-config.php:125
+#: includes/admin/views/html-admin-config.php:239
+#: includes/admin/views/html-admin-config.php:293
+#: includes/admin/views/html-admin-config.php:343
+#: includes/admin/views/html-admin-config.php:415
+#: includes/class-sp-post-types.php:48 includes/class-sp-post-types.php:82
+#: includes/class-sp-post-types.php:116 includes/class-sp-post-types.php:150
+#: includes/class-sp-post-types.php:184 includes/class-sp-post-types.php:225
+#: includes/class-sp-post-types.php:226 includes/class-sp-post-types.php:255
+#: includes/class-sp-post-types.php:256 includes/class-sp-post-types.php:285
+#: includes/class-sp-post-types.php:286 includes/class-sp-post-types.php:315
+#: includes/class-sp-post-types.php:316 includes/class-sp-post-types.php:346
+#: includes/class-sp-post-types.php:347 includes/class-sp-post-types.php:377
+#: includes/class-sp-post-types.php:378 includes/class-sp-post-types.php:405
+#: includes/class-sp-post-types.php:406 includes/class-sp-post-types.php:442
+#: includes/class-sp-post-types.php:443 includes/class-sp-post-types.php:475
+#: includes/class-sp-post-types.php:476 includes/class-sp-post-types.php:508
+#: includes/class-sp-post-types.php:509 includes/sp-core-functions.php:915
+#: includes/sp-core-functions.php:959 modules/sportspress-calendars.php:76
+#: modules/sportspress-calendars.php:77
+#: modules/sportspress-lazy-loading.php:208
+#: modules/sportspress-lazy-loading.php:221
+#: modules/sportspress-league-tables.php:76
+#: modules/sportspress-league-tables.php:77
+#: modules/sportspress-overview.php:341 modules/sportspress-player-lists.php:75
+#: modules/sportspress-player-lists.php:76
+msgid "No results found."
+msgstr "見つかりません。"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:226
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:155
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:203
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:74
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:93
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:110
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:125
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:142
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:159
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:71
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:81
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:100
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:115
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:131
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:146
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:106
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:150
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:66
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:83
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:100
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:110
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:105
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:106
+msgid "Select %s"
+msgstr "%sを選択"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:36
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:264
+#: includes/libraries/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "ステータス"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:91
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-column-details.php:59
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:86
+#: includes/class-sp-ajax.php:405 includes/class-sp-ajax.php:562
+#: includes/class-sp-ajax.php:792 includes/class-sp-ajax.php:870
+#: includes/widgets/class-sp-widget-event-blocks.php:143
+#: includes/widgets/class-sp-widget-event-list.php:146
+#: includes/widgets/class-sp-widget-player-gallery.php:133
+#: includes/widgets/class-sp-widget-player-list.php:158
+msgid "Ascending"
+msgstr "昇順"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:92
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-column-details.php:59
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:87
+#: includes/class-sp-ajax.php:406 includes/class-sp-ajax.php:563
+#: includes/class-sp-ajax.php:793 includes/class-sp-ajax.php:871
+#: includes/widgets/class-sp-widget-event-blocks.php:144
+#: includes/widgets/class-sp-widget-event-list.php:147
+#: includes/widgets/class-sp-widget-player-gallery.php:134
+#: includes/widgets/class-sp-widget-player-list.php:159
+msgid "Descending"
+msgstr "降順"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-feeds.php:45
+#: includes/admin/settings/class-sp-settings-events.php:53
+#: includes/admin/settings/class-sp-settings-general.php:355
+#: includes/admin/settings/class-sp-settings-players.php:52
+#: includes/admin/settings/class-sp-settings-staff.php:52
+#: includes/admin/settings/class-sp-settings-teams.php:53
+msgid "Link"
+msgstr "リンク"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-shortcode.php:26
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-shortcode.php:30
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-shortcode.php:26
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-shortcode.php:24
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-shortcode.php:24
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-shortcode.php:24
+msgid "Copy this code and paste it into your post, page or text widget content."
+msgstr "このコードをコピーして、投稿、ページ、またはテキストウィジェットの本文内にペーストしてください。"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:34
+msgid "Attended"
+msgstr "出場"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:34
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:37
+#: includes/class-sp-ajax.php:776 includes/class-sp-ajax.php:854
+#: includes/widgets/class-sp-widget-player-gallery.php:113
+#: includes/widgets/class-sp-widget-player-list.php:141
+msgid "Played"
+msgstr "試合終了"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:34
+msgid "Started"
+msgstr "出場"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:34
+msgid "Substituted"
+msgstr "補欠"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:34
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:37
+msgid "Minutes"
+msgstr "分"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:40
+msgid "for"
+msgstr "得"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:40
+msgid "against"
+msgstr "失"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:46
+msgid "Games Back"
+msgstr "差"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:46
+msgid "Home Record"
+msgstr "ホームレコード"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:46
+msgid "Away Record"
+msgstr "アウェイレコード"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:46
+msgid "Streak"
+msgstr "連勝敗"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:46
+msgid "Last 5"
+msgstr "ラスト5"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:46
+msgid "Last 10"
+msgstr "ラスト10"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:156
+msgid "Operators"
+msgstr "演算子"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:157
+msgid "Subsets"
+msgstr "部分集合"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:158
+msgid "Constants"
+msgstr "定数"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-details.php:27
+#: includes/admin/settings/class-sp-settings-events.php:165
+#: includes/api/class-sp-rest-api.php:127
+msgid "Full Time"
+msgstr "フルタイム"
+
+#: includes/admin/class-sp-admin-sports.php:108
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:247
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:48
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:58
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:64
+#: includes/admin/settings/class-sp-settings-players.php:69
+#: includes/class-sp-event.php:151 includes/class-sp-player-list.php:544
+#: includes/class-sp-player-list.php:563 includes/class-sp-post-types.php:140
+#: includes/sp-core-functions.php:1349 templates/event-performance.php:136
+#: templates/player-details.php:58
+msgid "Position"
+msgstr "ポジション"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:287
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:109
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:144
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-columns.php:38
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-columns.php:76
+#: includes/admin/settings/class-sp-settings-events.php:302
+#: includes/admin/settings/class-sp-settings-events.php:369
+#: includes/admin/settings/class-sp-settings-players.php:132
+#: includes/class-sp-player.php:209 includes/class-sp-player.php:535
+#: includes/class-sp-player.php:612 includes/class-sp-team.php:65
+#: includes/sp-core-functions.php:412 includes/sp-core-functions.php:416
+#: includes/sp-core-functions.php:1360
+#: templates/event-performance-table-combined.php:139
+#: templates/event-performance-table.php:177
+msgid "Total"
+msgstr "小計金額"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:381
+msgid "Starting Lineup"
+msgstr "スタメン"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:382
+msgid "Substitute"
+msgstr "補欠"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:35
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:159
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:180
+msgid "&mdash; None &mdash;"
+msgstr "&mdash; なし &mdash;"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:122
+#: includes/class-sp-ajax.php:57 includes/class-sp-ajax.php:102
+#: includes/class-sp-ajax.php:132 includes/class-sp-ajax.php:162
+#: includes/class-sp-ajax.php:192 includes/class-sp-ajax.php:303
+#: includes/class-sp-ajax.php:460 includes/class-sp-ajax.php:598
+#: includes/class-sp-ajax.php:665 includes/class-sp-ajax.php:695
+#: includes/class-sp-ajax.php:731 includes/class-sp-ajax.php:828
+#: includes/widgets/class-sp-widget-countdown.php:69
+#: includes/widgets/class-sp-widget-countdown.php:86
+#: includes/widgets/class-sp-widget-event-blocks.php:87
+#: includes/widgets/class-sp-widget-event-calendar.php:75
+#: includes/widgets/class-sp-widget-event-list.php:90
+#: includes/widgets/class-sp-widget-league-table.php:79
+#: includes/widgets/class-sp-widget-player-gallery.php:84
+#: includes/widgets/class-sp-widget-player-list.php:84
+#: includes/widgets/class-sp-widget-staff.php:57
+msgid "Select %s:"
+msgstr "%sを選択:"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-video.php:27
+msgid "Remove video"
+msgstr "動画を削除"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-video.php:36
+msgid "Add video"
+msgstr "動画を追加"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:55
+#: includes/admin/settings/class-sp-settings-events.php:357
+#: includes/class-sp-post-types.php:339
+msgid "Performance"
+msgstr "パフォーマンス"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:43
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:49
+#: includes/admin/settings/class-sp-settings-events.php:326
+msgid "Values"
+msgstr "値"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:44
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:50
+#: modules/sportspress-tutorials.php:100
+msgid "Adjustments"
+msgstr "調整"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:34
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:51
+#: includes/sp-core-functions.php:1351
+#: includes/widgets/class-sp-widget-player-list.php:120
+#: includes/widgets/class-sp-widget-player-list.php:126
+#: templates/player-list.php:110
+msgid "Rank"
+msgstr "順位"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:98
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:84
+#: includes/admin/views/html-admin-config.php:45
+#: includes/admin/views/html-admin-config.php:121
+#: includes/admin/views/html-admin-config.php:235
+#: includes/admin/views/html-admin-config.php:289
+#: includes/admin/views/html-admin-config.php:339
+#: includes/admin/views/html-admin-config.php:411
+msgid "Edit"
+msgstr "編集"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:103
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:89
+msgid "Save"
+msgstr "保存"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:52
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:155
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:106
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:150
+msgid "Data"
+msgstr "データ"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:60
+msgid "Grouping"
+msgstr "分別"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:67
+msgid "Sort by"
+msgstr "並び順"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:36
+#: includes/admin/settings/class-sp-settings-events.php:375
+#: includes/admin/settings/class-sp-settings-general.php:351
+#: includes/admin/views/html-admin-config.php:88
+#: includes/admin/views/html-admin-config.php:170
+#: includes/sp-core-functions.php:379
+msgid "Primary"
+msgstr "プライマリー"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:47
+#: includes/admin/views/html-admin-config.php:33
+msgid "Condition"
+msgstr "条件"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:53
+#: includes/sp-core-functions.php:383
+msgid "Most %s"
+msgstr "%sが高い"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:54
+#: includes/sp-core-functions.php:384
+msgid "Least %s"
+msgstr "%sが低い"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:55
+#: includes/sp-core-functions.php:385
+msgid "Equal %s"
+msgstr "%sが等しい"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-outcome-details.php:56
+#: includes/admin/settings/class-sp-settings-events.php:159
+#: includes/admin/settings/class-sp-settings-general.php:79
+#: includes/admin/settings/class-sp-settings-status.php:101
+#: includes/admin/views/html-admin-config.php:107
+#: includes/admin/views/html-admin-config.php:200
+#: includes/admin/views/html-admin-page-status.php:65
+#: includes/class-sp-ajax.php:210 includes/class-sp-ajax.php:224
+#: includes/class-sp-ajax.php:238 includes/class-sp-ajax.php:252
+#: includes/class-sp-ajax.php:266 includes/class-sp-ajax.php:321
+#: includes/class-sp-ajax.php:335 includes/class-sp-ajax.php:349
+#: includes/class-sp-ajax.php:363 includes/class-sp-ajax.php:377
+#: includes/class-sp-ajax.php:387 includes/class-sp-ajax.php:404
+#: includes/class-sp-ajax.php:478 includes/class-sp-ajax.php:492
+#: includes/class-sp-ajax.php:506 includes/class-sp-ajax.php:520
+#: includes/class-sp-ajax.php:534 includes/class-sp-ajax.php:544
+#: includes/class-sp-ajax.php:561 includes/class-sp-ajax.php:773
+#: includes/class-sp-ajax.php:791 includes/class-sp-ajax.php:851
+#: includes/class-sp-ajax.php:869 includes/sp-core-functions.php:386
+#: includes/widgets/class-sp-widget-event-blocks.php:107
+#: includes/widgets/class-sp-widget-event-blocks.php:121
+#: includes/widgets/class-sp-widget-event-blocks.php:142
+#: includes/widgets/class-sp-widget-event-calendar.php:95
+#: includes/widgets/class-sp-widget-event-calendar.php:109
+#: includes/widgets/class-sp-widget-event-list.php:110
+#: includes/widgets/class-sp-widget-event-list.php:124
+#: includes/widgets/class-sp-widget-event-list.php:145
+#: includes/widgets/class-sp-widget-player-gallery.php:110
+#: includes/widgets/class-sp-widget-player-list.php:138
+msgid "Default"
+msgstr "デフォルト"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:103
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:93
+#: includes/api/class-sp-rest-api.php:334
+#: includes/api/class-sp-rest-api.php:430
+msgid "Current Teams"
+msgstr "現チーム"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:118
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:108
+#: includes/admin/settings/class-sp-settings-players.php:85
+#: includes/admin/settings/class-sp-settings-staff.php:77
+#: includes/api/class-sp-rest-api.php:350
+#: includes/api/class-sp-rest-api.php:446 includes/sp-core-functions.php:1346
+#: templates/player-details.php:80 templates/staff-details.php:67
+msgid "Past Teams"
+msgstr "過去のチーム"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:40
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:65
+#: includes/sp-core-functions.php:1335 templates/player-statistics.php:70
+msgid "Career Total"
+msgstr "キャリア成績"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:56
+#: modules/sportspress-tutorials.php:101
+msgid "Highlight"
+msgstr "ハイライト"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:112
+#: includes/admin/settings/class-sp-settings-teams.php:77
+#: includes/class-sp-templates.php:132 includes/sp-core-functions.php:359
+#: templates/team-link.php:22
+msgid "Visit Site"
+msgstr "サイトを表示"
+
+#: includes/admin/settings/class-sp-settings-events.php:47
+msgid "Event Options"
+msgstr "試合設定"
+
+#: includes/admin/settings/class-sp-settings-events.php:54
+msgid "Link events"
+msgstr "試合をリンク"
+
+#: includes/admin/settings/class-sp-settings-events.php:65
+#: includes/admin/settings/class-sp-settings-events.php:221
+msgid "Display"
+msgstr "表示する"
+
+#: includes/admin/settings/class-sp-settings-events.php:216
+#: includes/class-sp-templates.php:29
+msgid "Logos"
+msgstr "ロゴ"
+
+#: includes/admin/settings/class-sp-settings-events.php:83
+#: includes/admin/settings/class-sp-settings-events.php:321
+msgid "Mode"
+msgstr "モード"
+
+#: includes/admin/settings/class-sp-settings-events.php:88
+msgid "Team vs team"
+msgstr "チーム対チーム"
+
+#: includes/admin/settings/class-sp-settings-events.php:89
+msgid "Player vs player"
+msgstr "選手対選手"
+
+#: includes/admin/settings/class-sp-settings-events.php:91
+msgctxt "mode setting description"
+msgid "Who competes in events?"
+msgstr "イベントで競うのは？"
+
+#: includes/admin/settings/class-sp-settings-events.php:97
+#: modules/sportspress-calendars.php:287 modules/sportspress-calendars.php:356
+#: modules/sportspress-league-tables.php:247
+#: modules/sportspress-player-lists.php:279
+msgid "Limit"
+msgstr "制限"
+
+#: includes/admin/settings/class-sp-settings-events.php:101
+#: modules/sportspress-league-tables.php:251
+msgid "teams"
+msgstr "チーム"
+
+#: includes/admin/settings/class-sp-settings-events.php:113
+msgid "Filter by competition"
+msgstr "コンペティションで絞り込む"
+
+#: includes/admin/settings/class-sp-settings-events.php:121
+msgid "Filter by season"
+msgstr "シーズンで絞り込む"
+
+#: includes/admin/settings/class-sp-settings-events.php:138
+msgid "Display maps"
+msgstr "地図を表示する"
+
+#: includes/admin/settings/class-sp-settings-events.php:146
+#: includes/admin/settings/class-sp-settings-teams.php:62
+msgid "Link venues"
+msgstr "会場をリンクする"
+
+#: includes/admin/settings/class-sp-settings-events.php:154
+msgid "Google Maps"
+msgstr "Google マップ"
+
+#: includes/admin/settings/class-sp-settings-events.php:160
+msgid "Satellite"
+msgstr "航空写真"
+
+#: includes/admin/settings/class-sp-settings-events.php:178
+msgid "Comments"
+msgstr "コメント"
+
+#: includes/admin/settings/class-sp-settings-events.php:179
+msgid "Allow people to post comments on new articles"
+msgstr "新しい投稿へのコメントを許可する"
+
+#: includes/admin/settings/class-sp-settings-events.php:197
+msgid "Zoom"
+msgstr "ズーム"
+
+#: includes/admin/settings/class-sp-settings-events.php:251
+#: includes/admin/settings/class-sp-settings-status.php:273
+#: includes/admin/views/html-admin-config.php:78
+#: includes/admin/views/html-admin-config.php:82
+#: includes/admin/views/html-admin-page-status.php:237
+#: includes/class-sp-post-types.php:218
+msgid "Event Results"
+msgstr "試合結果"
+
+#: includes/admin/settings/class-sp-settings-events.php:129
+msgid "Reverse order"
+msgstr "逆順"
+
+#: includes/admin/settings/class-sp-settings-events.php:268
+msgid "Display outcome"
+msgstr "勝敗の表示"
+
+#: includes/admin/settings/class-sp-settings-events.php:285
+msgid "Rows"
+msgstr "行数"
+
+#: includes/admin/settings/class-sp-settings-events.php:327
+msgid "Icons"
+msgstr "アイコン"
+
+#: includes/admin/settings/class-sp-settings-events.php:333
+msgid "Top-level only"
+msgstr "トップレベルのみ"
+
+#: includes/admin/settings/class-sp-settings-events.php:341
+msgid "Display squad numbers"
+msgstr "背番号を表示する"
+
+#: includes/admin/settings/class-sp-settings-events.php:349
+msgid "Display positions"
+msgstr "ポジションを表示する"
+
+#: includes/admin/settings/class-sp-settings-events.php:420
+#: includes/admin/settings/class-sp-settings-events.php:424
+msgid "Delimiter"
+msgstr "区切り文字"
+
+#: includes/admin/settings/class-sp-settings-events.php:429
+msgid "Custom:"
+msgstr "カスタム期間:"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:25
+#: includes/admin/settings/class-sp-settings-general.php:25
+#: includes/admin/settings/class-sp-settings-modules.php:33
+msgid "General"
+msgstr "一般"
+
+#: includes/admin/settings/class-sp-settings-general.php:46
+msgid "General Options"
+msgstr "基本設定"
+
+#: includes/admin/settings/class-sp-settings-general.php:63
+msgid "Styles and Scripts"
+msgstr "スタイルシートとスクリプト"
+
+#: includes/admin/settings/class-sp-settings-general.php:74
+msgid "Align"
+msgstr "配置"
+
+#: includes/admin/settings/class-sp-settings-general.php:80
+#: modules/sportspress-widget-alignment.php:70
+msgid "Left"
+msgstr "左"
+
+#: includes/admin/settings/class-sp-settings-general.php:81
+msgid "Center"
+msgstr "中央"
+
+#: includes/admin/settings/class-sp-settings-general.php:82
+#: modules/sportspress-widget-alignment.php:71
+msgid "Right"
+msgstr "右"
+
+#: includes/admin/settings/class-sp-settings-general.php:87
+msgid "Padding"
+msgstr "余白"
+
+#: includes/admin/settings/class-sp-settings-general.php:104
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: includes/admin/settings/class-sp-settings-general.php:113
+msgid "Scripts"
+msgstr "スクリプト"
+
+#: includes/admin/settings/class-sp-settings-general.php:114
+msgid "Live countdowns"
+msgstr "自動カウントダウン"
+
+#: includes/admin/settings/class-sp-settings-general.php:119
+msgid "This will enable a script allowing the countdowns to be animated."
+msgstr "カウントダウンが自動的になるスクリプトを有効にします。"
+
+#: includes/admin/settings/class-sp-settings-general.php:123
+msgid "Shortcode menu"
+msgstr "ショートコードメニュー"
+
+#: includes/admin/settings/class-sp-settings-general.php:128
+msgid "This will enable a shortcode menu to be displayed in the visual editor."
+msgstr "投稿及び固定ページ編集時に、ショートコードメニューを表示します。"
+
+#: includes/admin/settings/class-sp-settings-general.php:134
+msgid "Tables"
+msgstr "表"
+
+#: includes/admin/settings/class-sp-settings-general.php:135
+msgid "Responsive"
+msgstr "レスポンシブ"
+
+#: includes/admin/settings/class-sp-settings-general.php:143
+msgid "Scrollable"
+msgstr "スクロール可能"
+
+#: includes/admin/settings/class-sp-settings-general.php:151
+msgid "Sortable"
+msgstr "並べ替え可能"
+
+#: includes/admin/settings/class-sp-settings-general.php:170
+msgid "Header Offset"
+msgstr "ヘッダーオフセット"
+
+#: includes/admin/settings/class-sp-settings-general.php:311
+msgid "Frontend Styles"
+msgstr "フロントエンドのスタイルシート"
+
+#: includes/admin/settings/class-sp-settings-general.php:332
+#: modules/sportspress-icons.php:149
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: includes/admin/settings/class-sp-settings-general.php:352
+msgid "Background"
+msgstr "背景"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:63
+#: includes/admin/settings/class-sp-settings-general.php:353
+#: includes/admin/settings/class-sp-settings-text.php:25
+#: includes/admin/settings/class-sp-settings-text.php:40
+#: includes/sp-core-functions.php:468 modules/sportspress-tutorials.php:88
+msgid "Text"
+msgstr "テキスト"
+
+#: includes/admin/settings/class-sp-settings-general.php:361
+msgid "Enable"
+msgstr "有効化"
+
+#: includes/admin/settings/class-sp-settings-modules.php:30
+#: includes/admin/settings/class-sp-settings-modules.php:223
+msgid "Modules"
+msgstr "モジュール"
+
+#: includes/admin/settings/class-sp-settings-modules.php:37
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: includes/admin/settings/class-sp-settings-modules.php:62
+msgid "SportsPress Pro"
+msgstr "SportsPress Pro"
+
+#: includes/admin/settings/class-sp-settings-modules.php:67
+msgid "Get SportsPress Pro to get access to all modules. You can upgrade any time without losing any of your data."
+msgstr "SportsPress Pro にはすべてのモジュールが含まれています。すでに記入されたデータは失わず、いつでもアップグレード可能です。"
+
+#: includes/admin/settings/class-sp-settings-modules.php:69
+msgid "Premium"
+msgstr "プレミアム"
+
+#: includes/admin/settings/class-sp-settings-modules.php:70
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: includes/admin/settings/class-sp-settings-modules.php:142
+msgid "Free"
+msgstr "無料"
+
+#: includes/admin/settings/class-sp-settings-modules.php:81
+msgid "Twitter Module"
+msgstr "Twitterモジュール"
+
+#: includes/admin/settings/class-sp-settings-modules.php:89
+msgid "Follow [link]@ThemeBoy[/link] on Twitter."
+msgstr "Twitter で [link]@ThemeBoy[/link] をフォロー。"
+
+#: includes/admin/settings/class-sp-settings-modules.php:94
+msgid "Help spread the word by tweeting with [link]#SportsPress[/link] and get the Twitter module for free."
+msgstr "[link]#SportsPress[/link] でツイートする。"
+
+#: includes/admin/settings/class-sp-settings-modules.php:99
+msgid "[link]Get the download link[/link]."
+msgstr "[link]ダウンロードリンクの取得[/link]."
+
+#: includes/admin/settings/class-sp-settings-modules.php:102
+msgid "Free with tweet"
+msgstr "ツイートでゲット"
+
+#: includes/admin/settings/class-sp-settings-modules.php:103
+msgid "Tweet"
+msgstr "ツイート"
+
+#: includes/admin/settings/class-sp-settings-modules.php:116
+msgid "Current Theme"
+msgstr "使用中のテーマ"
+
+#: includes/admin/settings/class-sp-settings-modules.php:124
+msgid "Need a better theme?"
+msgstr "他のテーマを選ぶ"
+
+#: includes/admin/settings/class-sp-settings-modules.php:125
+#: sportspress.php:147
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: includes/admin/settings/class-sp-settings-modules.php:155
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: includes/admin/settings/class-sp-settings-modules.php:157
+msgid "Getting Started"
+msgstr "始めてみよう"
+
+#: includes/admin/settings/class-sp-settings-modules.php:158
+msgid "Manuals"
+msgstr "マニュアル"
+
+#: includes/admin/settings/class-sp-settings-modules.php:159
+msgid "Videos"
+msgstr "動画"
+
+#: includes/admin/settings/class-sp-settings-modules.php:161
+#: includes/admin/views/html-notice-theme-support.php:9
+msgid "Theme Integration Guide"
+msgstr "テーマの統合ガイド"
+
+#: includes/admin/settings/class-sp-settings-modules.php:166
+msgid "Help"
+msgstr "ヘルプ"
+
+#: includes/admin/settings/class-sp-settings-modules.php:168
+msgid "Support Forums"
+msgstr "サポートフォーラム"
+
+#: includes/admin/settings/class-sp-settings-modules.php:169
+msgid "Feature Requests"
+msgstr "機能追加要望"
+
+#: includes/admin/settings/class-sp-settings-modules.php:185
+#: includes/admin/settings/class-sp-settings-modules.php:187
+msgid "Premium Support"
+msgstr "プレミアムサポート"
+
+#: includes/admin/settings/class-sp-settings-modules.php:187
+#: includes/admin/settings/class-sp-settings-modules.php:231
+msgid "Upgrade to Pro"
+msgstr "Proへアップグレード"
+
+#: includes/admin/settings/class-sp-settings-modules.php:174
+msgid "Connect"
+msgstr "コネクト"
+
+#: includes/admin/settings/class-sp-settings-modules.php:176
+#: includes/class-sp-modules.php:119
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/admin/settings/class-sp-settings-modules.php:177
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/admin/settings/class-sp-settings-modules.php:178
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/admin/settings/class-sp-settings-modules.php:179
+msgid "Google+"
+msgstr "Google+"
+
+#: includes/admin/settings/class-sp-settings-modules.php:239
+#: includes/admin/settings/class-sp-settings-modules.php:244
+msgid "Learn more"
+msgstr "詳細"
+
+#: includes/admin/settings/class-sp-settings-players.php:45
+msgid "Player Options"
+msgstr "選手設定"
+
+#: includes/admin/settings/class-sp-settings-players.php:53
+msgid "Link players"
+msgstr "選手をリンクする"
+
+#: includes/admin/settings/class-sp-settings-players.php:141
+#: includes/admin/settings/class-sp-settings-staff.php:86
+#: modules/sportspress-player-lists.php:263
+msgid "Display national flags"
+msgstr "国旗を表示する"
+
+#: includes/admin/settings/class-sp-settings-staff.php:45
+msgid "Staff Options"
+msgstr "スタッフ設定"
+
+#: includes/admin/settings/class-sp-settings-staff.php:53
+msgid "Link staff"
+msgstr "スタッフをリンクする"
+
+#: includes/admin/settings/class-sp-settings-status.php:25
+#: includes/admin/settings/class-sp-settings-status.php:39
+#: includes/admin/views/html-admin-page-status.php:2
+#: includes/admin/views/html-notice-template-check.php:6
+msgid "System Status"
+msgstr "システム状態"
+
+#: includes/admin/settings/class-sp-settings-status.php:41
+#: includes/admin/views/html-admin-page-status.php:5
+msgid "Please include this information when requesting support:"
+msgstr "サポートを依頼する際に、この情報を含めるようにしてください:"
+
+#: includes/admin/settings/class-sp-settings-status.php:42
+#: includes/admin/views/html-admin-page-status.php:6
+msgid "Get System Report"
+msgstr "システムレポートを見る"
+
+#: includes/admin/settings/class-sp-settings-status.php:50
+#: includes/admin/views/html-admin-page-status.php:14
+msgid "Environment"
+msgstr "環境"
+
+#: includes/admin/settings/class-sp-settings-status.php:56
+#: includes/admin/views/html-admin-page-status.php:20
+msgid "Home URL"
+msgstr "ホームURL"
+
+#: includes/admin/settings/class-sp-settings-status.php:64
+#: includes/admin/views/html-admin-page-status.php:28
+msgid "SP Version"
+msgstr "SP バージョン"
+
+#: includes/admin/settings/class-sp-settings-status.php:68
+#: includes/admin/views/html-admin-page-status.php:32
+msgid "WP Version"
+msgstr "WP バージョン"
+
+#: includes/admin/settings/class-sp-settings-status.php:72
+#: includes/admin/views/html-admin-page-status.php:36
+msgid "WP Multisite Enabled"
+msgstr "WPマルチサイト利用"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:85
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:63
+#: includes/admin/settings/class-sp-settings-status.php:73
+#: includes/admin/settings/class-sp-settings-status.php:97
+#: includes/admin/settings/class-sp-settings-status.php:122
+#: includes/admin/views/html-admin-page-status.php:37
+#: includes/admin/views/html-admin-page-status.php:61
+#: includes/admin/views/html-admin-page-status.php:86
+msgid "Yes"
+msgstr "あり"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-performance-details.php:91
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-statistic-details.php:69
+#: includes/admin/settings/class-sp-settings-status.php:73
+#: includes/admin/settings/class-sp-settings-status.php:97
+#: includes/admin/settings/class-sp-settings-status.php:122
+#: includes/admin/views/html-admin-page-status.php:37
+#: includes/admin/views/html-admin-page-status.php:61
+#: includes/admin/views/html-admin-page-status.php:86
+msgid "No"
+msgstr "なし"
+
+#: includes/admin/settings/class-sp-settings-status.php:76
+#: includes/admin/views/html-admin-page-status.php:40
+msgid "Web Server Info"
+msgstr "Webサーバ情報"
+
+#: includes/admin/settings/class-sp-settings-status.php:80
+#: includes/admin/views/html-admin-page-status.php:44
+msgid "PHP Version"
+msgstr "PHPバージョン"
+
+#: includes/admin/settings/class-sp-settings-status.php:84
+#: includes/admin/views/html-admin-page-status.php:48
+msgid "WP Memory Limit"
+msgstr "WPメモリー制限"
+
+#: includes/admin/settings/class-sp-settings-status.php:89
+#: includes/admin/views/html-admin-page-status.php:53
+msgid "%s - We recommend setting memory to at least 64MB. See: <a href=\"%s\">Increasing memory allocated to PHP</a>"
+msgstr "%s - 少なくとも64MBまでメモリを設定することをお勧めします。 参照: <a href=\"%s\">PHPに割り当てられたメモリ使用量を増やす</a>。"
+
+#: includes/admin/settings/class-sp-settings-status.php:96
+#: includes/admin/views/html-admin-page-status.php:60
+msgid "WP Debug Mode"
+msgstr "WP デバッグモード"
+
+#: includes/admin/settings/class-sp-settings-status.php:100
+#: includes/admin/views/html-admin-page-status.php:64
+msgid "WP Language"
+msgstr "WP言語"
+
+#: includes/admin/settings/class-sp-settings-status.php:104
+#: includes/admin/views/html-admin-page-status.php:68
+msgid "WP Max Upload Size"
+msgstr "WP 最大アップロードサイズ"
+
+#: includes/admin/settings/class-sp-settings-status.php:109
+#: includes/admin/views/html-admin-page-status.php:73
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/admin/settings/class-sp-settings-status.php:113
+#: includes/admin/views/html-admin-page-status.php:77
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: includes/admin/settings/class-sp-settings-status.php:117
+#: includes/admin/views/html-admin-page-status.php:81
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/admin/settings/class-sp-settings-status.php:121
+#: includes/admin/views/html-admin-page-status.php:85
+msgid "SUHOSIN Installed"
+msgstr "SUHOSINをインストールしました"
+
+#: includes/admin/settings/class-sp-settings-status.php:126
+#: includes/admin/views/html-admin-page-status.php:90
+msgid "Default Timezone"
+msgstr "デフォルトタイムゾーン"
+
+#: includes/admin/settings/class-sp-settings-status.php:130
+#: includes/admin/views/html-admin-page-status.php:94
+msgid "Default timezone is %s - it should be UTC"
+msgstr "デフォルトのタイムゾーンは%s - UTCの必要があります"
+
+#: includes/admin/settings/class-sp-settings-status.php:132
+#: includes/admin/views/html-admin-page-status.php:96
+msgid "Default timezone is %s"
+msgstr "デフォルトのタイムゾーンは%s"
+
+#: includes/admin/settings/class-sp-settings-status.php:140
+#: includes/admin/views/html-admin-page-status.php:104
+msgid "fsockopen/cURL"
+msgstr "fsockopen/cURL"
+
+#: includes/admin/settings/class-sp-settings-status.php:143
+#: includes/admin/views/html-admin-page-status.php:107
+msgid "Your server has fsockopen and cURL enabled."
+msgstr "ご使用のサーバーは、fsockopen と cURLが有効になっています。"
+
+#: includes/admin/settings/class-sp-settings-status.php:145
+#: includes/admin/views/html-admin-page-status.php:109
+msgid "Your server has fsockopen enabled, cURL is disabled."
+msgstr "ご使用のサーバーは、fsockopenが有効になっています。cURLは無効になっています。"
+
+#: includes/admin/settings/class-sp-settings-status.php:147
+#: includes/admin/views/html-admin-page-status.php:111
+msgid "Your server has cURL enabled, fsockopen is disabled."
+msgstr "ご使用のサーバーはcURLが有効になっています。fsockopenは無効になっています。"
+
+#: includes/admin/settings/class-sp-settings-status.php:151
+#: includes/admin/views/html-admin-page-status.php:115
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "ご使用のサーバーには、fsockopenが無いか、cURLが有効になっていません。- PayPal IPN および他のサーバと通信する他のスクリプトが動作しません。ホスティングプロバイダにお問い合わせください。"
+
+#: includes/admin/settings/class-sp-settings-status.php:156
+#: includes/admin/views/html-admin-page-status.php:120
+msgid "SOAP Client"
+msgstr "SOAPクライアント"
+
+#: includes/admin/settings/class-sp-settings-status.php:158
+#: includes/admin/views/html-admin-page-status.php:122
+msgid "Your server has the SOAP Client class enabled."
+msgstr "ご使用のサーバーには、SOAP Client classが有効になっている。"
+
+#: includes/admin/settings/class-sp-settings-status.php:161
+#: includes/admin/views/html-admin-page-status.php:125
+msgid "Your server does not have the <a href=\"%s\">SOAP Client</a> class enabled - some gateway plugins which use SOAP may not work as expected."
+msgstr "ご使用のサーバーは、<a href=\"%s\">SOAP Client</a> classが有効になっていません。- SOAPを使用するいくつかの支払いプラグインが予期せぬ動作をする可能性があります。"
+
+#: includes/admin/settings/class-sp-settings-status.php:184
+#: includes/admin/views/html-admin-page-status.php:148
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: includes/admin/settings/class-sp-settings-status.php:190
+#: includes/admin/views/html-admin-page-status.php:154
+msgid "Installed Plugins"
+msgstr "インストールされたプラグイン"
+
+#: includes/admin/settings/class-sp-settings-status.php:210
+#: includes/admin/views/html-admin-page-status.php:174
+msgid "Visit plugin homepage"
+msgstr "プラグインのホームページへ行く"
+
+#: includes/admin/settings/class-sp-settings-status.php:234
+#: includes/admin/settings/class-sp-settings-status.php:451
+#: includes/admin/views/html-admin-page-status.php:198
+#: includes/admin/views/html-admin-page-status.php:413
+msgid "is available"
+msgstr "利用可能"
+
+#: includes/admin/settings/class-sp-settings-status.php:237
+#: includes/admin/views/html-admin-page-status.php:201
+msgid "version"
+msgstr "バージョン"
+
+#: assets/js/admin/editor-lang.php:22
+msgid "SportsPress Shortcodes"
+msgstr "SportsPress ショートコード"
+
+#: assets/js/admin/editor-lang.php:23
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:70
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:74
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:93
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-details.php:45
+#: includes/admin/settings/class-sp-settings-events.php:261
+#: includes/admin/settings/class-sp-settings-events.php:315
+#: includes/admin/settings/class-sp-settings-general.php:91
+#: includes/admin/settings/class-sp-settings-general.php:174
+#: includes/admin/settings/class-sp-settings-players.php:114
+msgid "Auto"
+msgstr "自動"
+
+#: assets/js/admin/editor-lang.php:24
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:94
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-details.php:46
+#: includes/admin/settings/class-sp-settings-events.php:262
+#: includes/admin/settings/class-sp-settings-events.php:316
+#: includes/admin/settings/class-sp-settings-players.php:115
+msgid "Manual"
+msgstr "手動"
+
+#: assets/js/admin/editor-lang.php:25
+msgid "Select..."
+msgstr "選択…"
+
+#: assets/js/admin/editor-lang.php:26
+#: includes/admin/class-sp-admin-sample-data.php:365
+#: includes/admin/importers/class-sp-event-importer.php:150
+#: includes/admin/importers/class-sp-event-importer.php:309
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:126
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:279
+#: includes/class-sp-ajax.php:57 includes/class-sp-ajax.php:102
+#: includes/class-sp-ajax.php:132 includes/class-sp-ajax.php:162
+#: includes/class-sp-ajax.php:414 includes/class-sp-post-types.php:399
+#: includes/sp-core-functions.php:1341
+#: includes/widgets/class-sp-widget-countdown.php:86
+#: includes/widgets/class-sp-widget-event-list.php:154
+#: templates/event-list.php:117
+msgid "Event"
+msgstr "試合"
+
+#: assets/js/admin/editor-lang.php:27
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:32
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:41
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:57
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:66
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:82
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:91
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:120
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:150
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:179
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:208
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:226
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-shortcode.php:24
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:203
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-shortcode.php:27
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:110
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:105
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:106
+#: includes/admin/settings/class-sp-settings-players.php:60
+#: includes/admin/settings/class-sp-settings-staff.php:60
+#: includes/class-sp-templates.php:59 includes/class-sp-templates.php:138
+#: includes/class-sp-templates.php:181 includes/class-sp-templates.php:242
+#: includes/sp-core-functions.php:1340 modules/sportspress-calendars.php:196
+#: modules/sportspress-calendars.php:323
+#: modules/sportspress-league-tables.php:183
+#: modules/sportspress-player-lists.php:205 templates/event-details.php:46
+msgid "Details"
+msgstr "詳細"
+
+#: assets/js/admin/editor-lang.php:28
+#: includes/admin/importers/class-sp-event-importer.php:30
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:134
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:84
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-shortcode.php:23
+#: includes/admin/settings/class-sp-settings-events.php:238
+#: includes/api/class-sp-rest-api.php:175 includes/class-sp-templates.php:71
+#: includes/sp-core-functions.php:1353 templates/event-fixtures-results.php:76
+#: templates/event-list.php:102 templates/event-list.php:125
+#: templates/event-list.php:133 templates/event-results.php:21
+msgid "Results"
+msgstr "結果"
+
+#: assets/js/admin/editor-lang.php:29
+#: includes/widgets/class-sp-widget-countdown.php:6
+#: modules/sportspress-countdowns.php:80
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#: assets/js/admin/editor-lang.php:31
+#: includes/admin/class-sp-admin-sample-data.php:472
+#: includes/class-sp-ajax.php:192 includes/class-sp-ajax.php:303
+#: includes/class-sp-ajax.php:460 includes/class-sp-formats.php:31
+#: includes/class-sp-templates.php:98
+#: includes/widgets/class-sp-widget-event-blocks.php:87
+#: includes/widgets/class-sp-widget-event-calendar.php:75
+#: includes/widgets/class-sp-widget-event-list.php:90
+#: modules/sportspress-calendars.php:70 modules/sportspress-calendars.php:391
+msgid "Calendar"
+msgstr "日程表"
+
+#: assets/js/admin/editor-lang.php:32
+#: includes/admin/class-sp-admin-taxonomies.php:135
+#: includes/admin/class-sp-admin-taxonomies.php:159
+#: includes/admin/class-sp-admin-taxonomies.php:238
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:193
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:57
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-shortcode.php:31
+#: includes/admin/settings/class-sp-settings-players.php:120
+#: includes/api/class-sp-rest-api.php:398 includes/class-sp-post-types.php:370
+#: includes/class-sp-templates.php:205
+msgid "Statistics"
+msgstr "統計"
+
+#: assets/js/admin/editor-lang.php:33
+#: includes/admin/class-sp-admin-sample-data.php:506
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:55
+#: includes/class-sp-ajax.php:598 includes/class-sp-templates.php:165
+#: includes/widgets/class-sp-widget-league-table.php:6
+#: includes/widgets/class-sp-widget-league-table.php:79
+#: modules/sportspress-league-tables.php:70
+#: modules/sportspress-league-tables.php:142
+#: modules/sportspress-league-tables.php:190
+msgid "League Table"
+msgstr "順位表"
+
+#: assets/js/admin/editor-lang.php:34
+#: includes/admin/class-sp-admin-sample-data.php:210
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:244
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:53
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:169
+#: includes/class-sp-ajax.php:665 includes/class-sp-ajax.php:695
+#: includes/class-sp-install.php:153 includes/class-sp-player-list.php:561
+#: includes/class-sp-post-types.php:469 includes/sp-core-functions.php:1347
+#: modules/sportspress-individual-mode.php:119
+#: templates/event-performance-table-combined.php:30
+#: templates/event-performance-table.php:40
+msgid "Player"
+msgstr "選手"
+
+#: assets/js/admin/editor-lang.php:35 includes/class-sp-formats.php:32
+#: includes/class-sp-formats.php:36
+msgid "List"
+msgstr "リスト"
+
+#: assets/js/admin/editor-lang.php:36 includes/class-sp-formats.php:33
+#: modules/sportspress-calendars.php:390
+msgid "Blocks"
+msgstr "ブロック"
+
+#: assets/js/admin/editor-lang.php:37 includes/class-sp-formats.php:37
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: feeds/ical.php:14
+msgid "ERROR: This is not a valid feed template."
+msgstr "エラー: これは有効なフィードテンプレートではありません。"
+
+#: includes/admin/class-sp-admin-assets.php:114
+#: includes/admin/class-sp-admin-settings.php:128
+#: includes/admin/importers/class-sp-event-importer.php:490
+#: includes/admin/importers/class-sp-event-importer.php:505
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:200
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-performance.php:407
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:132
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:63
+#: includes/admin/settings/class-sp-settings-status.php:260
+#: includes/admin/views/html-admin-page-status.php:224
+#: modules/sportspress-widget-alignment.php:69
+msgid "None"
+msgstr "なし"
+
+#: includes/admin/class-sp-admin-assets.php:115
+msgid "&mdash; Remove &mdash;"
+msgstr "&mdash; 削除 &mdash;"
+
+#: includes/admin/class-sp-admin-assets.php:116
+#: includes/admin/class-sp-admin-dashboard.php:80
+#: includes/class-sp-frontend-scripts.php:79 templates/countdown.php:136
+msgid "days"
+msgstr "日"
+
+#: includes/admin/class-sp-admin-assets.php:117
+#: includes/class-sp-frontend-scripts.php:79 templates/countdown.php:137
+msgid "hrs"
+msgstr "時間"
+
+#: includes/admin/class-sp-admin-assets.php:118
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-details.php:30
+#: includes/admin/settings/class-sp-settings-events.php:169
+#: includes/class-sp-frontend-scripts.php:79 templates/countdown.php:138
+msgid "mins"
+msgstr "分"
+
+#: includes/admin/class-sp-admin-assets.php:119
+#: includes/class-sp-frontend-scripts.php:79 templates/countdown.php:139
+msgid "secs"
+msgstr "秒"
+
+#: includes/admin/class-sp-admin-assets.php:120
+#: includes/admin/importers/class-sp-importer.php:177
+msgid "Displaying %s&#8211;%s of %s"
+msgstr " %s&#8211;%s件 (%s件中) を表示中"
+
+#. #-#-#-#-#  tmp-sportspress.pot (SportsPress 2.0.16)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-sp-admin-dashboard.php:34
+#: includes/admin/class-sp-admin-menus.php:47
+#: includes/admin/class-sp-admin-permalink-settings.php:47
+#: includes/admin/class-sp-admin-welcome.php:107
+#: includes/admin/views/html-admin-settings.php:2
+#: modules/sportspress-admin-bar.php:56 modules/sportspress-overview.php:78
+#: modules/sportspress-overview.php:135 modules/sportspress-overview.php:186
+#: modules/sportspress-overview.php:207 modules/sportspress-overview.php:289
+#: modules/sportspress-overview.php:334 modules/sportspress-overview.php:356
+msgid "SportsPress"
+msgstr "SportsPress"
+
+#: includes/admin/class-sp-admin-dashboard.php:80
+msgid "<strong>%s</strong> until next event"
+msgstr "次の試合まで<strong>%s</strong>"
+
+#: includes/admin/class-sp-admin-dashboard.php:87
+msgid "<strong>%s event</strong> scheduled"
+msgid_plural "<strong>%s events</strong> scheduled"
+msgstr[0] "<strong>%s試合</strong>予約済み"
+
+#: includes/admin/class-sp-admin-dashboard.php:92
+msgid "<strong>%s event</strong> published"
+msgid_plural "<strong>%s events</strong> published"
+msgstr[0] "<strong>%s試合</strong>公開済み"
+
+#: includes/admin/class-sp-admin-importers.php:33
+msgid "SportsPress Events (CSV)"
+msgstr "SportsPress 試合 (CSV)"
+
+#: includes/admin/class-sp-admin-importers.php:34
+msgid "Import <strong>events</strong> from a csv file."
+msgstr "csvファイルで<strong>試合</strong>をインポート"
+
+#: includes/admin/class-sp-admin-importers.php:38
+msgid "SportsPress Teams (CSV)"
+msgstr "SportsPress チーム (CSV)"
+
+#: includes/admin/class-sp-admin-importers.php:39
+msgid "Import <strong>teams</strong> from a csv file."
+msgstr "csvファイルで<strong>チーム</strong>をインポート"
+
+#: includes/admin/class-sp-admin-importers.php:43
+msgid "SportsPress Players (CSV)"
+msgstr "SportsPress 選手 (CSV)"
+
+#: includes/admin/class-sp-admin-importers.php:44
+msgid "Import <strong>players</strong> from a csv file."
+msgstr "csvファイルで<strong>選手</strong>をインポート"
+
+#: includes/admin/class-sp-admin-importers.php:48
+msgid "SportsPress Staff (CSV)"
+msgstr "SportsPress スタッフ (CSV)"
+
+#: includes/admin/class-sp-admin-importers.php:49
+msgid "Import <strong>staff</strong> from a csv file."
+msgstr "csvファイルで<strong>スタッフ</strong>をインポート"
+
+#: includes/admin/class-sp-admin-menus.php:54
+#: includes/admin/class-sp-admin-settings.php:475
+#: includes/admin/views/html-admin-config.php:7
+msgid "Configure"
+msgstr "構成"
+
+#: includes/admin/class-sp-admin-menus.php:61
+#: includes/admin/class-sp-admin-menus.php:250
+#: includes/admin/class-sp-admin-permalink-settings.php:29
+#: includes/admin/importers/class-sp-player-importer.php:30
+#: includes/admin/importers/class-sp-staff-importer.php:29
+#: includes/admin/importers/class-sp-team-importer.php:27
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:68
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:67
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:67
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:135
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:142
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:124
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:131
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:59
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:66
+#: includes/admin/settings/class-sp-settings-players.php:93
+#: includes/admin/settings/class-sp-settings-status.php:334
+#: includes/admin/views/html-admin-page-status.php:296
+#: includes/class-sp-post-types.php:37 includes/class-sp-post-types.php:51
+#: modules/sportspress-tutorials.php:64 templates/player-details.php:88
+#: templates/team-details.php:24
+msgid "Competitions"
+msgstr "コンペティション"
+
+#: includes/admin/class-sp-admin-menus.php:68
+#: includes/admin/class-sp-admin-menus.php:258
+#: includes/admin/class-sp-admin-permalink-settings.php:30
+#: includes/admin/importers/class-sp-player-importer.php:31
+#: includes/admin/importers/class-sp-staff-importer.php:30
+#: includes/admin/importers/class-sp-team-importer.php:28
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:69
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:68
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:68
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:152
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:159
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:139
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:146
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:76
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:83
+#: includes/admin/settings/class-sp-settings-players.php:101
+#: includes/admin/settings/class-sp-settings-status.php:344
+#: includes/admin/views/html-admin-page-status.php:306
+#: includes/class-sp-post-types.php:71 includes/class-sp-post-types.php:85
+#: modules/sportspress-tutorials.php:64 templates/player-details.php:96
+#: templates/team-details.php:33
+msgid "Seasons"
+msgstr "シーズン"
+
+#: includes/admin/class-sp-admin-menus.php:104
+#: includes/admin/class-sp-admin-welcome.php:125
+#: modules/sportspress-tutorials.php:87 sportspress.php:145
+msgid "Settings"
+msgstr "設定"
+
+#: includes/admin/class-sp-admin-menus.php:246
+#: includes/admin/importers/class-sp-event-importer.php:491
+#: includes/admin/importers/class-sp-event-importer.php:506
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:84
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-details.php:57
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:135
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:55
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:100
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-metrics.php:43
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:76
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-details.php:52
+#: includes/admin/views/html-admin-config.php:55
+#: includes/admin/views/html-admin-config.php:132
+#: includes/admin/views/html-admin-config.php:246
+#: includes/admin/views/html-admin-config.php:299
+#: includes/admin/views/html-admin-config.php:349
+#: includes/admin/views/html-admin-config.php:421
+#: includes/class-sp-post-types.php:43 includes/class-sp-post-types.php:77
+#: includes/class-sp-post-types.php:111 includes/class-sp-post-types.php:145
+#: includes/class-sp-post-types.php:179 includes/sp-core-functions.php:1041
+#: includes/sp-core-functions.php:1058
+#: includes/widgets/class-sp-widget-countdown.php:81
+#: includes/widgets/class-sp-widget-countdown.php:101
+#: includes/widgets/class-sp-widget-event-blocks.php:99
+#: includes/widgets/class-sp-widget-event-calendar.php:87
+#: includes/widgets/class-sp-widget-event-list.php:102
+#: includes/widgets/class-sp-widget-league-table.php:91
+#: includes/widgets/class-sp-widget-player-gallery.php:95
+#: includes/widgets/class-sp-widget-player-gallery.php:126
+#: includes/widgets/class-sp-widget-player-list.php:95
+#: includes/widgets/class-sp-widget-player-list.php:151
+#: includes/widgets/class-sp-widget-staff.php:68
+msgid "Add New"
+msgstr "新規追加"
+
+#: includes/admin/class-sp-admin-menus.php:254
+#: includes/admin/class-sp-admin-permalink-settings.php:33
+#: includes/admin/importers/class-sp-player-importer.php:28
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:66
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:86
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:93
+#: includes/admin/settings/class-sp-settings-events.php:332
+#: includes/admin/settings/class-sp-settings-status.php:364
+#: includes/admin/views/html-admin-page-status.php:326
+#: includes/class-sp-post-types.php:139 includes/class-sp-post-types.php:153
+#: modules/sportspress-tutorials.php:66
+msgid "Positions"
+msgstr "ポジション"
+
+#: includes/admin/class-sp-admin-menus.php:262
+#: includes/admin/class-sp-admin-permalink-settings.php:26
+#: includes/admin/settings/class-sp-settings-events.php:137
+#: includes/admin/settings/class-sp-settings-events.php:192
+#: includes/admin/settings/class-sp-settings-status.php:354
+#: includes/admin/views/html-admin-page-status.php:316
+#: includes/class-sp-post-types.php:105 includes/class-sp-post-types.php:119
+#: modules/sportspress-tutorials.php:65
+msgid "Venues"
+msgstr "会場"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:25
+#: includes/admin/class-sp-admin-sample-data.php:365
+#: includes/admin/class-sp-admin-taxonomies.php:206
+#: includes/admin/class-sp-admin-taxonomies.php:220
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:53
+#: includes/admin/settings/class-sp-settings-events.php:25
+#: includes/admin/settings/class-sp-settings-modules.php:34
+#: includes/api/class-sp-rest-api.php:254 includes/class-sp-post-types.php:398
+#: modules/sportspress-calendars.php:158 modules/sportspress-calendars.php:203
+#: modules/sportspress-calendars.php:385 modules/sportspress-calendars.php:406
+#: modules/sportspress-tutorials.php:80 modules/sportspress-tutorials.php:91
+msgid "Events"
+msgstr "試合"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:27
+#: includes/admin/class-sp-admin-sample-data.php:472
+#: includes/class-sp-modules.php:28 modules/sportspress-calendars.php:69
+#: modules/sportspress-template-selector.php:176
+#: modules/sportspress-tutorials.php:83 modules/sportspress-tutorials.php:95
+msgid "Calendars"
+msgstr "日程表"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:28
+#: includes/admin/class-sp-admin-sample-data.php:166
+#: includes/admin/importers/class-sp-event-importer.php:29
+#: includes/admin/importers/class-sp-player-importer.php:29
+#: includes/admin/importers/class-sp-staff-importer.php:28
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:121
+#: includes/admin/post-types/class-sp-admin-cpt-player.php:67
+#: includes/admin/post-types/class-sp-admin-cpt-staff.php:66
+#: includes/admin/post-types/class-sp-admin-cpt-table.php:51
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:127
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:59
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:122
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:110
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-details.php:125
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:100
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-staff-details.php:115
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-details.php:41
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-tables.php:58
+#: includes/admin/settings/class-sp-settings-events.php:112
+#: includes/admin/settings/class-sp-settings-modules.php:35
+#: includes/admin/settings/class-sp-settings-teams.php:25
+#: includes/api/class-sp-rest-api.php:66 includes/api/class-sp-rest-api.php:318
+#: includes/api/class-sp-rest-api.php:414 includes/class-sp-ajax.php:415
+#: includes/class-sp-post-types.php:435 includes/sp-core-functions.php:1357
+#: modules/sportspress-calendars.php:246 modules/sportspress-calendars.php:260
+#: modules/sportspress-calendars.php:315 modules/sportspress-countdowns.php:85
+#: modules/sportspress-individual-mode.php:270
+#: modules/sportspress-league-tables.php:231
+#: modules/sportspress-tutorials.php:68 modules/sportspress-tutorials.php:98
+#: templates/event-list.php:115
+msgid "Teams"
+msgstr "チーム"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:31
+#: includes/admin/class-sp-admin-sample-data.php:506
+#: includes/api/class-sp-rest-api.php:223 includes/class-sp-modules.php:56
+#: modules/sportspress-league-tables.php:69
+#: modules/sportspress-league-tables.php:169
+#: modules/sportspress-league-tables.php:218
+#: modules/sportspress-league-tables.php:301
+#: modules/sportspress-tutorials.php:70
+msgid "League Tables"
+msgstr "順位表"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:32
+#: includes/admin/class-sp-admin-sample-data.php:210
+#: includes/admin/class-sp-admin-taxonomies.php:239
+#: includes/admin/importers/class-sp-event-importer.php:32
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:52
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:88
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:90
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:58
+#: includes/admin/settings/class-sp-settings-events.php:294
+#: includes/admin/settings/class-sp-settings-events.php:340
+#: includes/admin/settings/class-sp-settings-modules.php:36
+#: includes/admin/settings/class-sp-settings-players.php:25
+#: includes/api/class-sp-rest-api.php:143 includes/class-sp-post-types.php:468
+#: modules/sportspress-individual-mode.php:116
+#: modules/sportspress-player-lists.php:254
+#: modules/sportspress-tutorials.php:72 modules/sportspress-tutorials.php:103
+msgid "Players"
+msgstr "選手"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:34
+#: includes/admin/class-sp-admin-sample-data.php:548
+#: includes/admin/class-sp-admin-sample-data.php:593
+#: includes/api/class-sp-rest-api.php:239 includes/class-sp-modules.php:84
+#: modules/sportspress-player-lists.php:68
+#: modules/sportspress-player-lists.php:177
+#: modules/sportspress-player-lists.php:241
+#: modules/sportspress-player-lists.php:306
+msgid "Player Lists"
+msgstr "選手名鑑"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:35
+#: includes/admin/class-sp-admin-sample-data.php:305
+#: includes/admin/class-sp-admin-taxonomies.php:256
+#: includes/admin/post-types/class-sp-admin-meta-boxes.php:157
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-teams.php:93
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-staff.php:55
+#: includes/admin/settings/class-sp-settings-events.php:286
+#: includes/admin/settings/class-sp-settings-modules.php:36
+#: includes/admin/settings/class-sp-settings-staff.php:25
+#: includes/api/class-sp-rest-api.php:159
+#: includes/api/class-sp-rest-api.php:207 includes/class-sp-install.php:185
+#: includes/class-sp-post-types.php:501 includes/class-sp-post-types.php:502
+#: includes/class-sp-templates.php:144 includes/sp-core-functions.php:1355
+#: includes/widgets/class-sp-widget-staff.php:6
+#: includes/widgets/class-sp-widget-staff.php:57
+#: modules/sportspress-tutorials.php:72 templates/event-staff.php:44
+msgid "Staff"
+msgstr "スタッフ"
+
+#: includes/admin/class-sp-admin-permalink-settings.php:75
+msgid "These settings control the permalinks used for SportsPress. These settings only apply when <strong>not using \"default\" permalinks above</strong>."
+msgstr "これらの設定は、SportsPressに使用するパーマリンクを制御します。<strong>上記の\\\"デフォルト\\\"のパーマリンクを使用していないと</strong>、これらの設定にのみ適用されます。"
+
+#: includes/admin/class-sp-admin-post-types.php:75
+#: includes/sp-template-hooks.php:380
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: includes/admin/class-sp-admin-post-types.php:77
+#: includes/admin/views/html-admin-config.php:54
+#: includes/admin/views/html-admin-config.php:131
+#: includes/admin/views/html-admin-config.php:245
+#: includes/admin/views/html-admin-config.php:298
+#: includes/admin/views/html-admin-config.php:348
+#: includes/admin/views/html-admin-config.php:420
+#: includes/sp-template-hooks.php:382 modules/sportspress-overview.php:284
+msgid "View All"
+msgstr "すべて表示"
+
+#: includes/admin/class-sp-admin-post-types.php:82
+#: includes/admin/class-sp-admin-post-types.php:85
+#: includes/admin/class-sp-admin-post-types.php:90
+#: includes/sp-template-hooks.php:388 includes/sp-template-hooks.php:391
+#: includes/sp-template-hooks.php:396
+msgid "Changes saved."
+msgstr "変更を保存しました。"
+
+#: includes/admin/class-sp-admin-post-types.php:87
+#: includes/admin/class-sp-admin-post-types.php:92
+#: includes/admin/class-sp-admin-post-types.php:102
+#: includes/sp-template-hooks.php:393 includes/sp-template-hooks.php:398
+#: includes/sp-template-hooks.php:408
+msgid "Success!"
+msgstr "成功しました！"
+
+#: includes/admin/class-sp-admin-post-types.php:94
+#: includes/admin/class-sp-admin-post-types.php:100
+#: includes/admin/class-sp-admin-post-types.php:104
+#: includes/sp-template-hooks.php:400 includes/sp-template-hooks.php:406
+#: includes/sp-template-hooks.php:410
+msgid "Preview %s"
+msgstr "%sをプレビュー"
+
+#: includes/admin/class-sp-admin-post-types.php:97
+#: includes/sp-template-hooks.php:403
+msgid "Scheduled for: <b>%1$s</b>."
+msgstr "<strong>%1$s</strong>に公開するよう予約しました。"
+
+#: includes/admin/class-sp-admin-post-types.php:98
+#: includes/sp-template-hooks.php:404
+msgid "M j, Y @ G:i"
+msgstr "Y年 M月 j日 @ G:i"
+
+#: includes/admin/class-sp-admin-sample-data.php:44
+msgctxt "example"
+msgid "Primary League"
+msgstr "第一リーグ"
+
+#: includes/admin/class-sp-admin-sample-data.php:44
+msgctxt "example"
+msgid "Secondary League"
+msgstr "第二リーグ"
+
+#: includes/admin/class-sp-admin-sample-data.php:110
+msgctxt "example"
+msgid "This is an example %1$s. As a new SportsPress user, you should go to <a href=\\\"%3$s\\\">your dashboard</a> to delete this %1$s and create new %2$s for your content. Have fun!"
+msgstr "これはサンプル%1$sです。新しく SportsPress ユーザーになった方は、<a href=\\\"%3$s\\\">ダッシュボード</a>へ行ってこの%1$sを削除し、独自のコンテンツを含む新しい%2$sを作成してください。それでは、お楽しみください !"
+
+#: includes/admin/class-sp-admin-sample-data.php:166
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:52
+#: includes/admin/post-types/class-sp-admin-cpt-list.php:51
+#: includes/admin/post-types/class-sp-admin-cpt-team.php:70
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:70
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-results.php:243
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-columns.php:42
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-data.php:55
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:44
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-player-statistics.php:97
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:57
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-data.php:119
+#: includes/admin/settings/class-sp-settings-events.php:412
+#: includes/admin/settings/class-sp-settings-events.php:414
+#: includes/class-sp-league-table.php:576 includes/class-sp-player-list.php:542
+#: includes/class-sp-player-list.php:562 includes/class-sp-player.php:563
+#: includes/class-sp-player.php:584 includes/class-sp-post-types.php:436
+#: includes/sp-core-functions.php:1356
+#: includes/widgets/class-sp-widget-countdown.php:69
+#: templates/event-results.php:105
+msgid "Team"
+msgstr "チーム"
+
+#: includes/admin/class-sp-admin-sample-data.php:469
+msgctxt "example"
+msgid "Fixtures & Results"
+msgstr "試合日程と結果"
+
+#: includes/admin/class-sp-admin-sample-data.php:545
+msgctxt "example"
+msgid "Roster"
+msgstr "ロスター"
+
+#: includes/admin/class-sp-admin-sample-data.php:548
+#: includes/admin/class-sp-admin-sample-data.php:593
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-lists.php:55
+#: includes/class-sp-ajax.php:731 includes/class-sp-ajax.php:828
+#: includes/class-sp-templates.php:226
+#: includes/widgets/class-sp-widget-player-gallery.php:84
+#: includes/widgets/class-sp-widget-player-list.php:6
+#: includes/widgets/class-sp-widget-player-list.php:84
+#: modules/sportspress-player-lists.php:69
+#: modules/sportspress-player-lists.php:159
+#: modules/sportspress-player-lists.php:212
+msgid "Player List"
+msgstr "選手名鑑"
+
+#: includes/admin/class-sp-admin-sample-data.php:590
+msgctxt "example"
+msgid "Player Ranking"
+msgstr "選手ランキング"
+
+#: includes/admin/class-sp-admin-settings.php:60
+msgid "Action failed. Please refresh the page and retry."
+msgstr "アクションは失敗しました。ページをリフレッシュし、再試行してください。"
+
+#: includes/admin/class-sp-admin-settings.php:67
+#: includes/admin/class-sp-admin-welcome.php:167
+msgid "Your settings have been saved."
+msgstr "設定が保存されました"
+
+#: includes/admin/class-sp-admin-settings.php:479
+msgid "Install demo content"
+msgstr "サンプルデータをインストールする"
+
+#: includes/admin/class-sp-admin-sports.php:278
+msgid "Team Sports"
+msgstr "チームスポーツ"
+
+#: includes/admin/class-sp-admin-sports.php:279
+msgid "Racket Sports"
+msgstr "ラケットスポーツ"
+
+#: includes/admin/class-sp-admin-sports.php:280
+msgid "Water Sports"
+msgstr "ウォータースポーツ"
+
+#: includes/admin/class-sp-admin-sports.php:281
+msgid "Target Sports"
+msgstr "ターゲットスポーツ"
+
+#: includes/admin/class-sp-admin-sports.php:282
+msgid "Esports"
+msgstr "eスポーツ"
+
+#: includes/admin/class-sp-admin-sports.php:283
+#: includes/admin/settings/class-sp-settings-modules.php:38
+#: modules/sportspress-tutorials.php:107
+msgid "Other"
+msgstr "その他"
+
+#: includes/admin/class-sp-admin-sports.php:292
+msgid "Baseball"
+msgstr "野球"
+
+#: includes/admin/class-sp-admin-sports.php:293
+msgid "Basketball"
+msgstr "バスケットボール"
+
+#: includes/admin/class-sp-admin-sports.php:294
+msgid "Cricket"
+msgstr "クリケット"
+
+#: includes/admin/class-sp-admin-sports.php:295
+msgid "Darts"
+msgstr "ダーツ"
+
+#: includes/admin/class-sp-admin-sports.php:296
+msgid "Floorball"
+msgstr "フロアボール"
+
+#: includes/admin/class-sp-admin-sports.php:297
+msgid "Association Football"
+msgstr "サッカー"
+
+#: includes/admin/class-sp-admin-sports.php:298
+msgid "American Football"
+msgstr "アメリカンフットボール"
+
+#: includes/admin/class-sp-admin-sports.php:299
+msgid "Australian Rules Football"
+msgstr "オージーフットボール"
+
+#: includes/admin/class-sp-admin-sports.php:300
+msgid "Handball"
+msgstr "ハンドボール"
+
+#: includes/admin/class-sp-admin-sports.php:301
+msgid "Ice Hockey"
+msgstr "アイスホッケー"
+
+#: includes/admin/class-sp-admin-sports.php:302
+#: includes/admin/class-sp-admin-welcome.php:324
+msgid "Lacrosse"
+msgstr "ラクロス"
+
+#: includes/admin/class-sp-admin-sports.php:303
+msgid "Netball"
+msgstr "ネットボール"
+
+#: includes/admin/class-sp-admin-sports.php:304
+msgid "Rugby League"
+msgstr "ラグビーリーグ"
+
+#: includes/admin/class-sp-admin-sports.php:305
+msgid "Rugby Union"
+msgstr "ラグビーユニオン"
+
+#: includes/admin/class-sp-admin-sports.php:306
+msgid "Snooker"
+msgstr "スヌーカー"
+
+#: includes/admin/class-sp-admin-sports.php:307
+msgid "Softball"
+msgstr "ソフトボール"
+
+#: includes/admin/class-sp-admin-sports.php:308
+msgid "Squash"
+msgstr "スカッシュ"
+
+#: includes/admin/class-sp-admin-sports.php:309
+msgid "Table Tennis"
+msgstr "卓球"
+
+#: includes/admin/class-sp-admin-sports.php:310
+msgid "Tennis"
+msgstr "テニス"
+
+#: includes/admin/class-sp-admin-sports.php:311
+msgid "Volleyball"
+msgstr "バレーボール"
+
+#: includes/admin/class-sp-admin-sports.php:312
+msgid "Water Polo"
+msgstr "ウォーターポロ"
+
+#: includes/admin/class-sp-admin-sports.php:313
+msgid "Dota 2"
+msgstr "Dota 2"
+
+#: includes/admin/class-sp-admin-sports.php:314
+msgid "League of Legends"
+msgstr "League of Legends"
+
+#: includes/admin/class-sp-admin-sports.php:315
+#: includes/admin/class-sp-admin-welcome.php:323
+msgid "Counter-Strike: Global Offensive"
+msgstr "カウンターストライクグローバル攻勢"
+
+#: includes/admin/class-sp-admin-taxonomies.php:78
+#: includes/admin/class-sp-admin-taxonomies.php:104
+#: includes/admin/class-sp-admin-taxonomies.php:219
+msgid "Address"
+msgstr "住所"
+
+#: includes/admin/class-sp-admin-taxonomies.php:81
+#: includes/admin/class-sp-admin-taxonomies.php:108
+msgid "Drag the marker to the venue's location."
+msgstr "マーカーを会場の位置までドラッグしてください。"
+
+#: includes/admin/class-sp-admin-taxonomies.php:84
+#: includes/admin/class-sp-admin-taxonomies.php:112
+msgid "Latitude"
+msgstr "緯度"
+
+#: includes/admin/class-sp-admin-taxonomies.php:88
+#: includes/admin/class-sp-admin-taxonomies.php:118
+msgid "Longitude"
+msgstr "経度"
+
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:33
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-list-details.php:35
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-table-details.php:32
+#: includes/admin/settings/class-sp-settings-general.php:354
+msgid "Heading"
+msgstr "見出し"
+
+#: includes/admin/views/html-admin-config.php:24
+#: includes/admin/views/html-admin-config.php:79
+#: includes/admin/views/html-admin-config.php:161
+msgid "Used for events."
+msgstr "試合で使用"
+
+#: includes/admin/class-sp-admin-welcome.php:49
+msgid "About SportsPress"
+msgstr "SportsPressについて"
+
+#: includes/admin/class-sp-admin-welcome.php:50
+#: includes/admin/settings/class-sp-settings-modules.php:197
+msgid "Welcome to SportsPress"
+msgstr "SportsPress へようこそ"
+
+#: includes/admin/class-sp-admin-welcome.php:109
+msgid "Version %s"
+msgstr "Version %s"
+
+#: includes/admin/class-sp-admin-welcome.php:114
+msgid "Thanks, all done!"
+msgstr "Thanks, all done！"
+
+#: includes/admin/class-sp-admin-welcome.php:116
+msgid "Thank you for updating to the latest version!"
+msgstr "最新のバージョンにアップデートしていただきありがとうございます！"
+
+#: includes/admin/class-sp-admin-welcome.php:118
+msgid "Thanks for installing!"
+msgstr "インストールしていただき、ありがとうございます！"
+
+#: includes/admin/class-sp-admin-welcome.php:120
+msgid "%s SportsPress %s has lots of refinements we think you&#8217;ll love."
+msgstr "%s SportsPress %s には、きっと気に入っていただけるたくさんの改良点が含まれています。"
+
+#: includes/admin/class-sp-admin-welcome.php:126 sportspress.php:146
+msgid "Docs"
+msgstr "文書"
+
+#: includes/admin/views/html-notice-install.php:7
+#: modules/sportspress-tutorials.php:62
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#: includes/admin/class-sp-admin-welcome.php:135
+msgid "Credits"
+msgstr "クレジット"
+
+#: includes/admin/class-sp-admin-welcome.php:137
+msgid "Translators"
+msgstr "翻訳者"
+
+#: includes/admin/class-sp-admin-welcome.php:266
+#: includes/admin/settings/class-sp-settings-general.php:53
+#: includes/admin/settings/class-sp-settings-status.php:259
+#: includes/admin/views/html-admin-page-status.php:223
+msgid "Sport"
+msgstr "スポーツ"
+
+#: includes/class-sp-post-types.php:437 modules/sportspress-tutorials.php:69
+msgid "Add New Team"
+msgstr "新しいチームを追加する"
+
+#: includes/class-sp-post-types.php:470 modules/sportspress-tutorials.php:74
+msgid "Add New Player"
+msgstr "新しい選手を追加する"
+
+#: includes/class-sp-post-types.php:400 modules/sportspress-tutorials.php:81
+msgid "Add New Event"
+msgstr "新しい試合を追加する"
+
+#: includes/admin/class-sp-admin-welcome.php:218
+msgid "Go to SportsPress Settings"
+msgstr "SportsPress設定を行いましょう！"
+
+#: includes/admin/class-sp-admin-welcome.php:225
+msgid "Basic Setup"
+msgstr "基本設定"
+
+#: includes/admin/class-sp-admin-welcome.php:226
+msgid "Select your timezone and sport to get started."
+msgstr "あなたのタイムゾーンとスポーツを選択してください。"
+
+#: includes/admin/class-sp-admin-welcome.php:231
+#: includes/admin/settings/class-sp-settings-general.php:279
+#: includes/admin/settings/class-sp-settings-general.php:282
+msgid "Timezone"
+msgstr "時間帯"
+
+#: includes/admin/class-sp-admin-welcome.php:231
+#: includes/admin/settings/class-sp-settings-general.php:279
+msgid "Choose a city in the same timezone as you."
+msgstr "あなたと同じタイムゾーンの都市を選択してください。"
+
+#: includes/admin/class-sp-admin-welcome.php:277
+#: includes/admin/settings/class-sp-settings-modules.php:264
+#: includes/admin/views/html-admin-settings.php:15
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: includes/admin/class-sp-admin-welcome.php:285
+#: includes/admin/settings/class-sp-settings-modules.php:134
+msgid "Free SportsPress Theme"
+msgstr "無料 SportsPress テーマ"
+
+#: includes/admin/class-sp-admin-welcome.php:287
+#: includes/admin/views/html-notice-theme-support.php:6
+msgid "Have you tried the free Rookie theme yet?"
+msgstr "無料の Rookie テーマはもうお試しですか？"
+
+#: includes/admin/class-sp-admin-welcome.php:288
+#: includes/admin/settings/class-sp-settings-modules.php:122
+#: includes/admin/settings/class-sp-settings-modules.php:140
+msgid "Rookie is a free starter theme for SportsPress designed by ThemeBoy."
+msgstr "Rookie は SportsPress と完全に互換性がある、ThemeBoy 作の無料テーマです。"
+
+#: includes/admin/class-sp-admin-welcome.php:290
+#: includes/admin/settings/class-sp-settings-modules.php:143
+#: includes/admin/views/html-notice-theme-support.php:8
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+#: includes/admin/class-sp-admin-welcome.php:310
+msgid "SportsPress is developed and maintained by a worldwide team of passionate individuals and backed by an awesome developer community. Want to see your name? <a href=\"%s\">Contribute to SportsPress</a>."
+msgstr "SportsPress は各国の協力者によって常に開発され続けています。ご協力頂けたら、こちらに表示されます。<a href=\"%s\">SportsPress の開発に協力する</a>。"
+
+#: includes/admin/class-sp-admin-welcome.php:313
+#: includes/admin/settings/class-sp-settings-modules.php:160
+msgid "Developers"
+msgstr "開発者"
+
+#: includes/admin/class-sp-admin-welcome.php:317
+msgid "Some presets have been submitted by our helpful and generous users. Want to see your name? <a href=\"%s\">Add a Sport Preset</a>."
+msgstr "一部のプリセットはユーザーから提出されました。ご協力頂けたら、こちらに表示されます。<a href=\"%s\">プリセットを提出する</a>。"
+
+#: includes/admin/class-sp-admin-welcome.php:320
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:155
+msgid "Presets"
+msgstr "プリセット"
+
+#: includes/admin/class-sp-admin-welcome.php:347
+msgid "SportsPress has been kindly translated into several other languages thanks to our translation team. Want to see your name? <a href=\"%s\">Translate SportsPress</a>."
+msgstr "SportsPress は各国の協力者によって各国の言語に翻訳されています。ご協力頂けたら、こちらに表示されます。<a href=\"%s\">SportsPress 翻訳関連</a>"
+
+#: includes/admin/class-sp-admin-welcome.php:349
+msgid "Top Translations"
+msgstr "翻訳ランキング"
+
+#: includes/admin/class-sp-admin-welcome.php:548
+#: includes/admin/settings/class-sp-settings-status.php:237
+#: includes/admin/views/html-admin-page-status.php:201
+msgid "by"
+msgstr "by"
+
+#: includes/admin/class-sp-admin-welcome.php:584
+msgid "View %s"
+msgstr "%sを表示"
+
+#: includes/admin/class-sp-admin.php:101
+msgid "Import"
+msgstr "インポート"
+
+#: includes/admin/importers/class-sp-event-importer.php:24
+msgid "Import Events"
+msgstr "試合をインポート"
+
+#: includes/admin/importers/class-sp-event-importer.php:26
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:119
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:50
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-details.php:48
+#: includes/admin/settings/class-sp-settings-events.php:66
+#: includes/sp-core-functions.php:1338 templates/event-details.php:22
+#: templates/event-list.php:92
+msgid "Date"
+msgstr "日付"
+
+#: includes/admin/importers/class-sp-event-importer.php:27
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:120
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:72
+#: includes/admin/settings/class-sp-settings-events.php:73
+#: includes/admin/settings/class-sp-settings-events.php:230
+#: includes/class-sp-ajax.php:416 includes/sp-core-functions.php:468
+#: includes/sp-core-functions.php:1358 templates/event-details.php:27
+#: templates/event-list.php:108 templates/event-list.php:123
+#: templates/event-list.php:129
+msgid "Time"
+msgstr "時間"
+
+#: includes/admin/importers/class-sp-event-importer.php:28
+#: includes/admin/post-types/class-sp-admin-cpt-calendar.php:51
+#: includes/admin/post-types/class-sp-admin-cpt-event.php:124
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-calendar-data.php:103
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-equation.php:49
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-event-details.php:40
+#: includes/admin/post-types/meta-boxes/class-sp-meta-box-team-details.php:100
+#: includes/admin/settings/class-sp-settings-teams.php:61
+#: includes/class-sp-ajax.php:419 includes/class-sp-post-types.php:106
+#: includes/class-sp-templates.php:65 includes/sp-core-functions.php:1361
+#: includes/widgets/class-sp-widget-event-list.php:156
+#: templates/event-list.php:148 templates/event-venue.php:37
+msgid "Venue"
+msgstr "会場"

@@ -1,0 +1,143 @@
+@charset "utf-8";
+
+/*---------------------------------
+ Style for Result
+--------------------------------*/
+.mainMenu {
+	width: 100%;
+	margin-bottom: 0;
+	}
+	.mainMenu img.bunner {
+		display: inline-block;
+		margin-bottom: 22px;
+		}
+
+#blockLeft {
+	display: inline-block;
+	width: 460px;
+	vertical-align: top;
+	/*background-color: #00A8EF;*/
+	}
+	#blockLeft #tournament {
+	}
+	#blockLeft #leagueArea {
+		}
+		#blockLeft #leagueArea .blocks {
+			margin-top: 22px;
+			}
+			#blockLeft #leagueArea .blocks h2 {
+				width: 460px;
+				height: 44px;
+				text-indent: 1em;
+				text-align: left;
+				vertical-align: top;
+				background: url(../../../3p1on1/image/result/1on1/title_league_title.svg) no-repeat;
+			}
+			#blockLeft #leagueArea .blocks ul {
+				}
+				#blockLeft #leagueArea .blocks li {
+					display: inline-block;
+					width: 80px;
+					}
+					#blockLeft #leagueArea .blocks li:nth-child(n+2) {
+						width: 140px;
+						}
+						#blockLeft #leagueArea .blocks li:nth-child(n+2):before {
+							display:inline-block;
+							width: 60px;
+							height: 80px;
+							content:" ";
+							background: url(../../../3p1on1/image/result/1on1/league_versus.svg) no-repeat;
+							background-size:contain;
+							}
+
+#blockRight {
+	display: inline-block;
+	width: 460px;
+	vertical-align: top;
+	/*background-color: #9C9;*/
+	}
+	@media (max-width: 480px) {
+		#blockRight {
+			margin-top: 44px;
+		}
+	}
+	#blockRight section {
+		background: url(../../../3p1on1/image/result/1on1/players_bg.svg) repeat-y;
+		}
+		#blockRight section h2 {
+			width: 460px;
+			height: 60px;
+			color: rgba(255, 255, 255, 0);
+			background: url(../../../3p1on1/image/result/1on1/title_players.svg) no-repeat;
+			}
+	#blockRight section li {
+		margin-bottom: 10px;
+		}
+
+#sponsorArea {
+	display: block;
+	margin-bottom: 44px;
+	width: 100%;
+	}
+	#sponsorArea ul {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+
+		/*-webkit-flex-direction:row;*/
+		/*-moz-flex-direction:row;*/
+		/*-ms-flex-direction:row;*/
+		/*-o-flex-direction:row;*/
+		/*flex-direction:row;*/
+
+		-webkit-flex-wrap: wrap;
+		-moz-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		-o-flex-wrap: wrap;
+		flex-wrap: wrap;
+
+		/*-webkit-justify-content: space-between;*/
+		/*-moz-justify-content: space-between;*/
+		/*-ms-justify-content: space-between;*/
+		/*-o-justify-content: space-between;*/
+		/*justify-content: space-between;*/
+
+		text-align: center;
+	}
+	#sponsorArea li {
+		display: inline-block;
+		width: 25%;
+		}
+
+		@media (max-width: 480px) {
+			#sponsorArea li {
+				width: 50%;
+			}
+			#sponsorArea li.order1 {
+				order: 1;
+			}
+			#sponsorArea li.order2 {
+				order: 2;
+			}
+			#sponsorArea li.order3 {
+				order: 4;
+			}
+			#sponsorArea li.order4 {
+				order: 3;
+			}
+			#sponsorArea li.order5 {
+				order: 6;
+			}
+			#sponsorArea li.order6 {
+				order: 5;
+			}
+			#sponsorArea li.order7 {
+				order: 7;
+			}
+			#sponsorArea li.order8 {
+				order: 8;
+			}
+		}
